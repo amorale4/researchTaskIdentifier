@@ -8,28 +8,37 @@ def main():
 	xmlFile="cleanXMLdataV2/W11-0707.out"
 	with open(xmlFile, 'r') as f:
 		xmlData = f.read();
-	#soup = BeautifulStoneSoup(xmlData, selfClosingTags=['sectionHeader','bodyText'])
+	#`soup = BeautifulStoneSoup(xmlData, selfClosingTags=['sectionHeader','bodyText'])
 	soup = BeautifulSoup(xmlData, 'xml')
 	#print soup.prettify()
 
+	bodiesAWK = []
 	# gets all of the lines after conclusion and before acknowledgement
 	limit = 5 #assuming that there are not many seperations between conclusion and acknowledgement
+	bodiesCON = []
 	for i, header in  enumerate(soup.findAll('sectionHeader')):
-		#print header
-		if header['genericHeader'] == 'conclusions':
-			bodiesCON =  header.find_all_next('bodyText')
-			#print bodiesCON
-			#print bodiesCON
-			
-		if header['genericHeader'] == 'acknowledgments':
-			bodiesAWK = header.find_all_previous('bodyText', limit=limit)
-			
-	bodyConText = ""		
-	for awkbody in reversed(bodiesAWK):
-		if awkbody in bodiesCON:
-			bodyConText += awkbody.get_text()
 
-	get_futureWork(bodyConText)
+		if header['genericHeader'] == 'conclusions':
+			if float( header['confidence']) < 0.95:
+				bodiesCON = header.find_all_previous('bodyText', limit=3)
+			bodiesCON = bodiesCON +  header.find_all_next('bodyText')
+			#print bodiesCON
+			#print bodiesCON
+	
+		#if header['genericHeader'] == 'acknowledgments':
+		#	bodiesAWK = header.find_all_previous('bodyText', limit=limit)
+			
+	bodyConText = ""
+	
+	for item in bodiesCON:
+		bodyConText += item.get_text()
+		
+	#for awkbody in reversed(bodiesAWK):
+	#	if awkbody in bodiesCON:
+	#		bodyConText += awkbody.get_text()
+
+	#print "context: " + bodyConText
+	print get_futureWork(bodyConText)
 	#bodiesCON =  header.find_next('bodyText').find_next('bodyText')
 		
 def get_futureWork(all_text):
@@ -47,7 +56,7 @@ def get_futureWork(all_text):
 		#print "------------------"
 		if pattern.search(clean_sent):
 			print ' >>> there was a match <<< '
-			ret = sent
+			ret += sent
 			print clean_sent
 			print 
 

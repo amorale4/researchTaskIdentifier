@@ -76,12 +76,12 @@ class Index:
 
 
 	def addfiles(self):
-		D = pickle.load(open('AllDataPickle.pk','rb'))
+		D = pickle.load(open('AllDataPickle_v3.pk','rb'))
 		for documentID in D:
 			#print (documentID)
 			#print (D[documentID][0])
 			#print (D[documentID][6])
-			self.add(D[documentID][0]+' '+D[documentID][6],documentID) # Add the title and the abstract of each document to the index
+			self.add(D[documentID][-1],documentID) # Add the title and the abstract + introduction + conclusion of each document to the index
 		self.PCollection()
 
 
@@ -273,16 +273,16 @@ def mean(PWD):
 
 
 # Used only for indexing the dataset (run only once)
-'''
-index = Index(nltk.word_tokenize, PorterStemmer(), nltk.corpus.stopwords.words('english')+[',','.','!','``',"''",'?',"'s",';','$',':',"'",'_'])
-index.addfiles()
-pickle.dump(index,open('index','wb'))
-'''
 
+index = Index(nltk.word_tokenize, PorterStemmer(), nltk.corpus.stopwords.words('english')+[',','.','!','``',"''",'?',"'s",';','$',':',"'",'_', '(',')'])
+index.addfiles()
+pickle.dump(index,open('index_fw','wb'))
+
+'''
 f = open('index','rb')
 index = pickle.load(f)
 f.close()
 
 query = 'support vector machines'
 print(Retrieve(query,index,1000,'nofeedback',0.1,10,50,0.9)[0:10]) # Retrieve will return a ranked list of tuples of the form (documentID, documentScore).
-
+'''

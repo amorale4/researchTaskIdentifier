@@ -1,5 +1,5 @@
 id = {L08-1001}
-author = {Eichler, Kathrin; Hemsen, Holmer; Neumann, G�nter}
+author = {Eichler, Kathrin; Hemsen, Holmer; Neumann, Günter}
 title = {Unsupervised Relation Extraction From Web Documents}
 venue = {LREC}
 year = {2008}
@@ -17,7 +17,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1004}
-author = {Krstev, Cvetana; Stanković, Ranka; Vitas, Duško; Obradović, Ivan}
+author = {Krstev, Cvetana; StankoviÄ, Ranka; Vitas, DuÅ¡ko; ObradoviÄ, Ivan}
 title = {The Usage of Various Lexical Resources and Tools to Improve the Performance of Web Search Engines}
 venue = {LREC}
 year = {2008}
@@ -41,7 +41,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1008}
-author = {V�radi, Tam�s; Krauwer, Steven; Wittenburg, Peter; Wynne, Martin; Koskenniemi, Kimmo}
+author = {Váradi, Tamás; Krauwer, Steven; Wittenburg, Peter; Wynne, Martin; Koskenniemi, Kimmo}
 title = {CLARIN: Common Language Resources and Technology Infrastructure}
 venue = {LREC}
 year = {2008}
@@ -53,13 +53,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1010}
-author = {Spoustová, Drahomíra johanka; Pecina, Pavel; Hajič, Jan; Spousta, Miroslav}
+author = {SpoustovÃ¡, DrahomÃ­ra johanka; Pecina, Pavel; HajiÄ, Jan; Spousta, Miroslav}
 title = {Validating the Quality of Full Morphological Annotation}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1011}
-author = {Ivanova, Kremena; Heid, Ulrich; Walde, Sabine Schulte Im; Kilgarriff, Adam; Pomik�lek, Jan}
+author = {Ivanova, Kremena; Heid, Ulrich; Walde, Sabine Schulte Im; Kilgarriff, Adam; Pomikálek, Jan}
 title = {Evaluating a German Sketch Grammar: A Case Study on Noun Phrase Case}
 venue = {LREC}
 year = {2008}
@@ -71,7 +71,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1013}
-author = {Strauß, Petra-Maria; Hoffmann, Holger; Minker, Wolfgang; Neumann, Heiko; Palm, G�nther; Scherer, Stefan; Traue, Harald; Weidenbacher, Ulrich}
+author = {StrauÃ, Petra-Maria; Hoffmann, Holger; Minker, Wolfgang; Neumann, Heiko; Palm, Günther; Scherer, Stefan; Traue, Harald; Weidenbacher, Ulrich}
 title = {The PIT Corpus of German Multi-Party Dialogues}
 venue = {LREC}
 year = {2008}
@@ -113,14 +113,14 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1020}
-author = {Forăscu, Corina}
+author = {ForÄscu, Corina}
 title = {GMT to +2 or how can TimeML be used in Romanian}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1021}
 author = {Xue, Nianwen; Zhong, Hua; Chen, Kai-Yun}
-title = {Annotating �tense� in a Tense-less Language}
+title = {Annotating tense in a Tense-less Language}
 venue = {LREC}
 year = {2008}
 
@@ -203,13 +203,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1035}
-author = {Brugman, Hennie; Malais�, V�ronique; Hollink, Laura}
+author = {Brugman, Hennie; Malaisé, Véronique; Hollink, Laura}
 title = {A Common Multimedia Annotation Framework for Cross Linking Cultural Heritage Digital Collections}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1036}
-author = {Blache, Philippe; Bertrand, Roxane; Ferr�, Ga�lle}
+author = {Blache, Philippe; Bertrand, Roxane; Ferré, Gaëlle}
 title = {Creating and Exploiting Multimodal Annotated Corpora}
 venue = {LREC}
 year = {2008}
@@ -239,7 +239,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1041}
-author = {�lvez, Javier; Atserias, Jordi; Carrera, Jordi; Climent, Salvador; Laparra, Egoitz; Oliver, Antoni; Rigau, German}
+author = {Álvez, Javier; Atserias, Jordi; Carrera, Jordi; Climent, Salvador; Laparra, Egoitz; Oliver, Antoni; Rigau, German}
 title = {Complete and Consistent Annotation of WordNet using the Top Concept Ontology}
 venue = {LREC}
 year = {2008}
@@ -251,7 +251,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1043}
-author = {Lecorv�, Gw�nol�; Gravier, Guillaume; S�billot, Pascale}
+author = {Lecorvé, Gwénolé; Gravier, Guillaume; Sébillot, Pascale}
 title = {On the Use of Web Resources and Natural Language Processing Techniques to Improve Automatic Speech Recognition Systems}
 venue = {LREC}
 year = {2008}
@@ -269,7 +269,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1046}
-author = {Schiel, Florian; M�gele, Hannes}
+author = {Schiel, Florian; Mögele, Hannes}
 title = {Talking and Looking: the SmartWeb Multimodal Interaction Corpus}
 venue = {LREC}
 year = {2008}
@@ -281,7 +281,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1048}
-author = {Rehm, Georg; Santini, Marina; Mehler, Alexander; Braslavski, Pavel; Gleim, R�diger; Stubbe, Andrea; Symonenko, Svetlana; Tavosanis, Mirko; Vidulin, Vedrana}
+author = {Rehm, Georg; Santini, Marina; Mehler, Alexander; Braslavski, Pavel; Gleim, Rüdiger; Stubbe, Andrea; Symonenko, Svetlana; Tavosanis, Mirko; Vidulin, Vedrana}
 title = {Towards a Reference Corpus of Web Genres for the Evaluation of Genre Identification Systems}
 venue = {LREC}
 year = {2008}
@@ -293,7 +293,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1050}
-author = {Mladov�, Lucie; Zik�nov�, S�rka; Hajicov�, Eva}
+author = {Mladová, Lucie; Zikánová, Sárka; Hajicová, Eva}
 title = {From Sentence to Discourse: Building an Annotation Scheme for Discourse Based on Prague Dependency Treebank}
 venue = {LREC}
 year = {2008}
@@ -305,7 +305,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1052}
-author = {Toral, Antonio; Mu�oz, Rafael; Monachini, Monica}
+author = {Toral, Antonio; Muñoz, Rafael; Monachini, Monica}
 title = {Named Entity WordNet}
 venue = {LREC}
 year = {2008}
@@ -341,7 +341,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1058}
-author = {Bojar, Ondřej; Janíček, Miroslav; abokrtský, Zdeněk; Češka, Pavel; Beňa, Peter}
+author = {Bojar, OndÅej; JanÃ­Äek, Miroslav; ÂabokrtskÃœ, ZdenÄk; ÄeÅ¡ka, Pavel; BeÅa, Peter}
 title = {CzEng 0.7: Parallel Corpus with Community-Supplied Translations}
 venue = {LREC}
 year = {2008}
@@ -359,7 +359,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1061}
-author = {Huynh, Cong-phap; Boitet, Christian; Blanchon, Herv�}
+author = {Huynh, Cong-phap; Boitet, Christian; Blanchon, Hervé}
 title = {SECTra_w.1: an Online Collaborative System for Evaluating, Post-editing and Presenting MT Translation Corpora}
 venue = {LREC}
 year = {2008}
@@ -377,13 +377,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1064}
-author = {Poibeau, Thierry; Messiant, C�dric}
+author = {Poibeau, Thierry; Messiant, Cédric}
 title = {Do we Still Need Gold Standards for Evaluation?}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1065}
-author = {Spyns, Peter; D�Halleweyn, Elisabeth; Cucchiarini, Catia}
+author = {Spyns, Peter; DHalleweyn, Elisabeth; Cucchiarini, Catia}
 title = {The Dutch-Flemish Comprehensive Approach to HLT Stimulation and Innovation: STEVIN, HLT Agency and beyond}
 venue = {LREC}
 year = {2008}
@@ -401,8 +401,8 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1068}
-author = {Mapelli, Val�rie; Arranz, Victoria; Mazo, H�l�ne; Choukri, Khalid}
-title = {Latest Developments in ELRA�s Services}
+author = {Mapelli, Valérie; Arranz, Victoria; Mazo, Hélène; Choukri, Khalid}
+title = {Latest Developments in ELRAs Services}
 venue = {LREC}
 year = {2008}
 
@@ -485,19 +485,19 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1082}
-author = {Scherer, Stefan; Hofmann, Hansj�rg; Lampmann, Malte; Pfeil, Martin; Rhinow, Steffen; Schwenker, Friedhelm; Palm, G�nther}
+author = {Scherer, Stefan; Hofmann, Hansjörg; Lampmann, Malte; Pfeil, Martin; Rhinow, Steffen; Schwenker, Friedhelm; Palm, Günther}
 title = {Emotion Recognition from Speech: Stress Experiment}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1083}
-author = {Charonnat, Laure; Vidal, Ga�lle; Boeffard, Olivier}
+author = {Charonnat, Laure; Vidal, Gaëlle; Boeffard, Olivier}
 title = {Automatic Phone Segmentation of Expressive Speech}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1084}
-author = {F�k, M�rk; Audibert, Nicolas; Szab�, J�nos; Rilliard, Albert; N�meth, G�za; Auberg�, V�ronique}
+author = {Fék, Márk; Audibert, Nicolas; Szabó, János; Rilliard, Albert; Németh, Géza; Aubergé, Véronique}
 title = {Multimodal Spontaneous Expressive Speech Corpus for Hungarian}
 venue = {LREC}
 year = {2008}
@@ -587,7 +587,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1099}
-author = {Bel, N�ria; Espeja, Sergio; Marimon, Montserrat}
+author = {Bel, Núria; Espeja, Sergio; Marimon, Montserrat}
 title = {Automatic Acquisition for low frequency lexical items}
 venue = {LREC}
 year = {2008}
@@ -599,7 +599,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1101}
-author = {Luengo, Iker; Navas, Eva; Sainz, I�aki; Saratxaga, Ibon; Sanchez, Jon; Odriozola, Igor; Hernaez, Inma}
+author = {Luengo, Iker; Navas, Eva; Sainz, Iñaki; Saratxaga, Ibon; Sanchez, Jon; Odriozola, Igor; Hernaez, Inma}
 title = {Text Independent Speaker Identification in Multilingual Environments}
 venue = {LREC}
 year = {2008}
@@ -671,7 +671,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1113}
-author = {Sanchis, Germ�n; S�nchez, Joan Andreu}
+author = {Sanchis, Germán; Sánchez, Joan Andreu}
 title = {Using Parsed Corpora for Estimating Stochastic Inversion Transduction Grammars}
 venue = {LREC}
 year = {2008}
@@ -701,7 +701,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1118}
-author = {Grothe, Lena; Luca, Ernesto William De; N�rnberger, Andreas}
+author = {Grothe, Lena; Luca, Ernesto William De; Nürnberger, Andreas}
 title = {A Comparative Study on Language Identification Methods}
 venue = {LREC}
 year = {2008}
@@ -713,7 +713,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1120}
-author = {Kolář, Jáchym; Švec, Jan}
+author = {KolÃ¡Å, JÃ¡chym; Å vec, Jan}
 title = {Structural Metadata Annotation of Speech Corpora: Comparing Broadcast News and Broadcast Conversations}
 venue = {LREC}
 year = {2008}
@@ -725,7 +725,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1122}
-author = {Amdal, Ingunn; Strand, Ole Morten; Almberg, J�rn; Svendsen, Torbj�rn}
+author = {Amdal, Ingunn; Strand, Ole Morten; Almberg, Jørn; Svendsen, Torbjørn}
 title = {RUNDKAST: an Annotated Norwegian Broadcast News Speech Corpus}
 venue = {LREC}
 year = {2008}
@@ -755,7 +755,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1127}
-author = {Su�rez-Figueroa, Mari Carmen; G�mez-P�rez, Asunci�n}
+author = {Suárez-Figueroa, Mari Carmen; Gómez-Pérez, Asunción}
 title = {Towards a Glossary of Activities in the Ontology Engineering Field}
 venue = {LREC}
 year = {2008}
@@ -785,7 +785,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1132}
-author = {Lavecchia, Caroline; Langlois, David; Sma�li, Kamel}
+author = {Lavecchia, Caroline; Langlois, David; Smaïli, Kamel}
 title = {Phrase-Based Machine Translation based on Simulated Annealing}
 venue = {LREC}
 year = {2008}
@@ -797,7 +797,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1134}
-author = {Hasan, Saša; Ney, Hermann}
+author = {Hasan, SaÅ¡a; Ney, Hermann}
 title = {A Multi-Genre SMT System for Arabic to French}
 venue = {LREC}
 year = {2008}
@@ -827,14 +827,14 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1139}
-author = {Zesch, Torsten; M�ller, Christof; Gurevych, Iryna}
+author = {Zesch, Torsten; Müller, Christof; Gurevych, Iryna}
 title = {Extracting Lexical Semantic Knowledge from Wikipedia and Wiktionary}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1140}
 author = {Sanders, Gregory; Bronsart, Sebastien; Condon, Sherri L.; Schlenoff, Craig}
-title = {Odds of Successful Transfer of Low-Level Concepts: a Key Metric for Bidirectional Speech-to-Speech Machine Translation in DARPA�s TRANSTAC Program}
+title = {Odds of Successful Transfer of Low-Level Concepts: a Key Metric for Bidirectional Speech-to-Speech Machine Translation in DARPAs TRANSTAC Program}
 venue = {LREC}
 year = {2008}
 
@@ -863,7 +863,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1145}
-author = {Gim�nez, Jes�s; M�rquez, Lluis}
+author = {Giménez, Jesús; Màrquez, Lluis}
 title = {Towards Heterogeneous Automatic MT Error Analysis}
 venue = {LREC}
 year = {2008}
@@ -881,13 +881,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1148}
-author = {Orăsan, Constantin; Chiorean, Oana Andreea}
+author = {OrÄsan, Constantin; Chiorean, Oana Andreea}
 title = {Evaluation of a Cross-lingual Romanian-English Multi-document Summariser}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1149}
-author = {Andersen, Øistein E.; Nioche, Julien; Briscoe, Ted; Carroll, John A.}
+author = {Andersen, Ãistein E.; Nioche, Julien; Briscoe, Ted; Carroll, John A.}
 title = {The BNC Parsed with RASP4UIMA}
 venue = {LREC}
 year = {2008}
@@ -905,14 +905,14 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1152}
-author = {Pustylnikov, Olga; Mehler, Alexander; Gleim, R�diger}
+author = {Pustylnikov, Olga; Mehler, Alexander; Gleim, Rüdiger}
 title = {A Unified Database of Dependency Treebanks: Integrating, Quantifying & Evaluating Dependency Data}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1153}
 author = {Bouhjar, Aicha}
-title = {Amazigh Language Terminology in Morocco or Management of a �Multidimensional� Variation}
+title = {Amazigh Language Terminology in Morocco or Management of a Multidimensional Variation}
 venue = {LREC}
 year = {2008}
 
@@ -923,7 +923,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1155}
-author = {Boulaknadel, Siham; Daille, B�atrice; Aboutajdine, Driss}
+author = {Boulaknadel, Siham; Daille, Béatrice; Aboutajdine, Driss}
 title = {A Multi-Word Term Extraction Program for Arabic Language}
 venue = {LREC}
 year = {2008}
@@ -990,7 +990,7 @@ year = {2008}
 
 id = {L08-1166}
 author = {Nielsen, Rodney D.; Ward, Wayne H.; Martin, James H.; Palmer, Martha Stone}
-title = {Annotating Students� Understanding of Science Concepts}
+title = {Annotating Students Understanding of Science Concepts}
 venue = {LREC}
 year = {2008}
 
@@ -1025,7 +1025,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1172}
-author = {Bielický, Viktor; Smrž, Otakar}
+author = {BielickÃœ, Viktor; SmrÅŸ, Otakar}
 title = {Building the Valency Lexicon of Arabic Verbs}
 venue = {LREC}
 year = {2008}
@@ -1037,7 +1037,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1174}
-author = {Nazar, Rogelio; Vivaldi, Jorge; Cabr�, Teresa}
+author = {Nazar, Rogelio; Vivaldi, Jorge; Cabré, Teresa}
 title = {A Suite to Compile and Analyze an LSP Corpus}
 venue = {LREC}
 year = {2008}
@@ -1061,13 +1061,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1178}
-author = {Ou, Shiyan; Pekar, Viktor; Orăsan, Constantin; Spurk, Christian; Negri, Matteo}
+author = {Ou, Shiyan; Pekar, Viktor; OrÄsan, Constantin; Spurk, Christian; Negri, Matteo}
 title = {Development and Alignment of a Domain-Specific Ontology for Question Answering}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1179}
-author = {Manzano-Macho, David; G�mez-P�rez, Asunci�n; Borrajo, Daniel}
+author = {Manzano-Macho, David; Gómez-Pérez, Asunción; Borrajo, Daniel}
 title = {Unsupervised and Domain Independent Ontology Learning: Combining Heterogeneous Sources of Evidence}
 venue = {LREC}
 year = {2008}
@@ -1109,7 +1109,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1186}
-author = {Cabrio, Elena; Kouylekov, Milen; Magnini, Bernardo; Negri, Matteo; Hasler, Laura; Orăsan, Constantin; Tomas, David; Vicedo, Jose Luis; Neumann, Guenter; Weber, Corinna}
+author = {Cabrio, Elena; Kouylekov, Milen; Magnini, Bernardo; Negri, Matteo; Hasler, Laura; OrÄsan, Constantin; Tomas, David; Vicedo, Jose Luis; Neumann, Guenter; Weber, Corinna}
 title = {The QALL-ME Benchmark: a Multilingual Resource of Annotated Spoken Requests for Question Answering}
 venue = {LREC}
 year = {2008}
@@ -1134,7 +1134,7 @@ year = {2008}
 
 id = {L08-1190}
 author = {Rehm, Georg; Eckart, Richard; Chiarcos, Christian; Dellert, Johannes}
-title = {Ontology-Based XQuery�ing of XML-Encoded Language Resources on Multiple Annotation Layers}
+title = {Ontology-Based XQuerying of XML-Encoded Language Resources on Multiple Annotation Layers}
 venue = {LREC}
 year = {2008}
 
@@ -1151,14 +1151,14 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1193}
-author = {M�ller, Sebastian; G�dde, Florian; Wolters, Maria}
+author = {Möller, Sebastian; Gödde, Florian; Wolters, Maria}
 title = {Corpus Analysis of Spoken Smart-Home Interactions with Older Users}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1194}
 author = {Georgila, Kallirroi; Wolters, Maria; Karaiskos, Vasilis; Kronenthal, Melissa; Logie, Robert; Mayo, Neil; Moore, Johanna D.; Watson, Matt}
-title = {A Fully Annotated Corpus for Studying the Effect of Cognitive Ageing on Users� Interactions with Spoken Dialogue Systems}
+title = {A Fully Annotated Corpus for Studying the Effect of Cognitive Ageing on Users Interactions with Spoken Dialogue Systems}
 venue = {LREC}
 year = {2008}
 
@@ -1193,7 +1193,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1200}
-author = {Gallo, Carlos G�mez; Jaeger, T. Florian; Allen, James F.; Swift, Mary}
+author = {Gallo, Carlos Gómez; Jaeger, T. Florian; Allen, James F.; Swift, Mary}
 title = {Production in a Multimodal Corpus: how Speakers Communicate Complex Actions}
 venue = {LREC}
 year = {2008}
@@ -1223,8 +1223,8 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1205}
-author = {Cleuren, Leen; Duchateau, Jacques; Ghesqui�re, Pol; hamme, Hugo Van}
-title = {Children�s Oral Reading Corpus (CHOREC): Description and Assessment of Annotator Agreement}
+author = {Cleuren, Leen; Duchateau, Jacques; Ghesquière, Pol; hamme, Hugo Van}
+title = {Childrens Oral Reading Corpus (CHOREC): Description and Assessment of Annotator Agreement}
 venue = {LREC}
 year = {2008}
 
@@ -1253,37 +1253,37 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1210}
-author = {Messiant, C�dric; Poibeau, Thierry; Korhonen, Anna}
+author = {Messiant, Cédric; Poibeau, Thierry; Korhonen, Anna}
 title = {LexSchem: a Large Subcategorization Lexicon for French Verbs}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1211}
-author = {Rodr�quez, Horacio; Farwell, David; Ferreres, Javi; Bertran, Manuel; Alkhalifa, Musa; Mart�, M. Antonia}
+author = {Rodríquez, Horacio; Farwell, David; Ferreres, Javi; Bertran, Manuel; Alkhalifa, Musa; Martí, M. Antonia}
 title = {Arabic WordNet: Semi-automatic Extensions using Bayesian Inference}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1212}
-author = {Sainz, I�aki; Saratxaga, Ibon; Navas, Eva; Hern�ez, Inmaculada; Sanchez, Jon; Luengo, Iker; Odriozola, Igor}
+author = {Sainz, Iñaki; Saratxaga, Ibon; Navas, Eva; Hernáez, Inmaculada; Sanchez, Jon; Luengo, Iker; Odriozola, Igor}
 title = {Subjective Evaluation of an Emotional Speech Database for Basque}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1213}
-author = {K�bler, Sandra; Maier, Wolfgang; Rehbein, Ines; Versley, Yannick}
+author = {Kübler, Sandra; Maier, Wolfgang; Rehbein, Ines; Versley, Yannick}
 title = {How to Compare Treebanks}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1214}
-author = {Besan�on, Romaric; Chaudiron, St�phane; Mostefa, Djamel; Timimi, Ismail; Choukri, Khalid}
+author = {Besançon, Romaric; Chaudiron, Stéphane; Mostefa, Djamel; Timimi, Ismail; Choukri, Khalid}
 title = {The INFILE Project: a Crosslingual Filtering Systems Evaluation Campaign}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1215}
-author = {Tufiş, Dan; Ceauşu, Alexandru}
+author = {TufiÅ, Dan; CeauÅu, Alexandru}
 title = {DIAC+: a Professional Diacritics Recovering System}
 venue = {LREC}
 year = {2008}
@@ -1325,7 +1325,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1222}
-author = {Taul�, Mariona; Mart�, M. Ant�nia; Recasens, Marta}
+author = {Taulé, Mariona; Martí, M. Antònia; Recasens, Marta}
 title = {AnCora: Multilevel Annotated Corpora for Catalan and Spanish}
 venue = {LREC}
 year = {2008}
@@ -1367,7 +1367,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1229}
-author = {Hammarstr�m, Harald; Thornell, Christina; Petzell, Malin; Westerlund, Torbj�rn}
+author = {Hammarström, Harald; Thornell, Christina; Petzell, Malin; Westerlund, Torbjörn}
 title = {Bootstrapping Language Description: the case of Mpiemo (Bantu A, Central African Republic)}
 venue = {LREC}
 year = {2008}
@@ -1410,7 +1410,7 @@ year = {2008}
 
 id = {L08-1236}
 author = {Kokkinakis, Dimitrios}
-title = {MeSH�: from a Controlled Vocabulary to a Processable Resource}
+title = {MeSH©: from a Controlled Vocabulary to a Processable Resource}
 venue = {LREC}
 year = {2008}
 
@@ -1451,13 +1451,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1243}
-author = {Cea, Guadalupe Aguado de; Puche, Javier; Ramos, Jos� �ngel}
-title = {Tagging Spanish Texts: the Problem of Problem of �SE�}
+author = {Cea, Guadalupe Aguado de; Puche, Javier; Ramos, José Ángel}
+title = {Tagging Spanish Texts: the Problem of Problem of SE}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1244}
-author = {Mírovský, Jiří}
+author = {MÃ­rovskÃœ, JiÅÃ­}
 title = {Does Netgraph Fit Prague Dependency Treebank?}
 venue = {LREC}
 year = {2008}
@@ -1487,7 +1487,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1249}
-author = {Krestel, Ralf; Bergler, Sabine; Witte, Ren�}
+author = {Krestel, Ralf; Bergler, Sabine; Witte, René}
 title = {Minding the Source: Automatic Tagging of Reported Speech in Newspaper Articles}
 venue = {LREC}
 year = {2008}
@@ -1499,7 +1499,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1251}
-author = {Sch�fer, Ulrich; Uszkoreit, Hans; Federmann, Christian; Marek, Torsten; Zhang, Yajing}
+author = {Schäfer, Ulrich; Uszkoreit, Hans; Federmann, Christian; Marek, Torsten; Zhang, Yajing}
 title = {Extracting and Querying Relations in Scientific Papers on Language Technology}
 venue = {LREC}
 year = {2008}
@@ -1529,13 +1529,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1256}
-author = {Sellberg, Linus; J�nsson, Arne}
+author = {Sellberg, Linus; Jönsson, Arne}
 title = {Using Random Indexing to improve Singular Value Decomposition for Latent Semantic Analysis}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1257}
-author = {Vintar, Špela; Fišer, Darja}
+author = {Vintar, Å pela; FiÅ¡er, Darja}
 title = {Harvesting Multi-Word Expressions from Parallel Corpora}
 venue = {LREC}
 year = {2008}
@@ -1553,7 +1553,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1260}
-author = {Vetulani, Grazyna; Vetulani, Zygmunt; Obrębski, Tomasz}
+author = {Vetulani, Grazyna; Vetulani, Zygmunt; ObrÄbski, Tomasz}
 title = {Verb-Noun Collocation SyntLex Dictionary: Corpus-Based Approach}
 venue = {LREC}
 year = {2008}
@@ -1589,7 +1589,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1266}
-author = {Trojahn, C�ssia; Quaresma, Paulo; Vieira, Renata}
+author = {Trojahn, Cássia; Quaresma, Paulo; Vieira, Renata}
 title = {A Framework for Multilingual Ontology Mapping}
 venue = {LREC}
 year = {2008}
@@ -1632,7 +1632,7 @@ year = {2008}
 
 id = {L08-1273}
 author = {Melo, Gerard de; Weikum, Gerhard}
-title = {Mapping Roget�s Thesaurus and WordNet to French}
+title = {Mapping Rogets Thesaurus and WordNet to French}
 venue = {LREC}
 year = {2008}
 
@@ -1643,7 +1643,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1275}
-author = {Chung, Siaw Fong; Pr�vot, Laurent; Xu, Mingwei; Ahrens, Kathleen; Hsieh, Shu-Kai; Huang, Chu-Ren}
+author = {Chung, Siaw Fong; Prévot, Laurent; Xu, Mingwei; Ahrens, Kathleen; Hsieh, Shu-Kai; Huang, Chu-Ren}
 title = {Extracting Concrete Senses of Lexicon through Measurement of Conceptual Similarity in Ontologies}
 venue = {LREC}
 year = {2008}
@@ -1661,7 +1661,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1278}
-author = {Vivaldi, Jorge; Joan, Anna; Lorente, Merc�}
+author = {Vivaldi, Jorge; Joan, Anna; Lorente, Mercè}
 title = {Turning a Term Extractor into a new Domain: first Experiences}
 venue = {LREC}
 year = {2008}
@@ -1674,7 +1674,7 @@ year = {2008}
 
 id = {L08-1280}
 author = {Kubo, Junko; Tsuji, Keita; Sugimoto, Shigeo}
-title = {Temporal Aspects of Terminology for Automatic Term Recognition: Case Study on Women�s Studies Terms}
+title = {Temporal Aspects of Terminology for Automatic Term Recognition: Case Study on Womens Studies Terms}
 venue = {LREC}
 year = {2008}
 
@@ -1709,7 +1709,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1286}
-author = {Civera, Jorge; Juan-C�scar, Alfons}
+author = {Civera, Jorge; Juan-Císcar, Alfons}
 title = {Bilingual Text Classification using the IBM 1 Translation Model}
 venue = {LREC}
 year = {2008}
@@ -1757,7 +1757,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1294}
-author = {Degórski, Łukasz; Marcińczuk, Michał; Przepiórkowski, Adam}
+author = {DegÃ³rski, Åukasz; MarciÅczuk, MichaÅ; PrzepiÃ³rkowski, Adam}
 title = {Definition Extraction Using a Sequential Combination of Baseline Grammars and Machine Learning Classifiers}
 venue = {LREC}
 year = {2008}
@@ -1805,13 +1805,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1302}
-author = {S�tre, Rune; Kemper, Brian; Oda, Kanae; Okazaki, Naoaki; Matsuoka, Yukiko; Kikuchi, Norihiro; Kitano, Hiroaki; Tsuruoka, Yoshimasa; Ananiadou, Sophia; Tsujii, Jun'ichi}
+author = {Sætre, Rune; Kemper, Brian; Oda, Kanae; Okazaki, Naoaki; Matsuoka, Yukiko; Kikuchi, Norihiro; Kitano, Hiroaki; Tsuruoka, Yoshimasa; Ananiadou, Sophia; Tsujii, Jun'ichi}
 title = {Connecting Text Mining and Pathways using the PathText Resource}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1303}
-author = {Pomik�lek, Jan; Rychl�, Pavel}
+author = {Pomikálek, Jan; Rychlý, Pavel}
 title = {Detecting Co-Derivative Documents in Large Text Collections}
 venue = {LREC}
 year = {2008}
@@ -1836,7 +1836,7 @@ year = {2008}
 
 id = {L08-1307}
 author = {Kaisser, Michael; Lowe, John B.}
-title = {Creating a Research Collection of Question Answer Sentence Pairs with Amazon�s Mechanical Turk}
+title = {Creating a Research Collection of Question Answer Sentence Pairs with Amazons Mechanical Turk}
 venue = {LREC}
 year = {2008}
 
@@ -1877,7 +1877,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1314}
-author = {Goeuriot, Lorraine; Grabar, Natalia; Daille, B�atrice}
+author = {Goeuriot, Lorraine; Grabar, Natalia; Daille, Béatrice}
 title = {Characterization of Scientific and Popular Science Discourse in French, Japanese and Russian}
 venue = {LREC}
 year = {2008}
@@ -1925,7 +1925,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1322}
-author = {Hermet, Matthieu; D�silets, Alain; Szpakowicz, Stan}
+author = {Hermet, Matthieu; Désilets, Alain; Szpakowicz, Stan}
 title = {Using the Web as a Linguistic Resource to Automatically Correct Lexico-Syntactic Errors}
 venue = {LREC}
 year = {2008}
@@ -1937,7 +1937,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1324}
-author = {Quixal, Mart�; Badia, Toni; Benavent, Francesc; Boullosa, Jose R.; Domingo, Judith; Grau, Bernat; Mass�, Guillem; Valent�n, Oriol}
+author = {Quixal, Martí; Badia, Toni; Benavent, Francesc; Boullosa, Jose R.; Domingo, Judith; Grau, Bernat; Massó, Guillem; Valentín, Oriol}
 title = {User-Centred Design of Error Correction Tools}
 venue = {LREC}
 year = {2008}
@@ -1949,7 +1949,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1326}
-author = {Alegria, I�aki; Ceberio, Klara; Ezeiza, Nerea; Soroa, Aitor; Hernandez, Gregorio}
+author = {Alegria, Iñaki; Ceberio, Klara; Ezeiza, Nerea; Soroa, Aitor; Hernandez, Gregorio}
 title = {Spelling Correction: from Two-Level Morphology to Open Source}
 venue = {LREC}
 year = {2008}
@@ -1973,7 +1973,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1330}
-author = {Goecke, Daniela; St�hrenberg, Maik; Witt, Andreas}
+author = {Goecke, Daniela; Stührenberg, Maik; Witt, Andreas}
 title = {Influence of Text Type and Text Length on Anaphoric Annotation}
 venue = {LREC}
 year = {2008}
@@ -1991,14 +1991,14 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1333}
-author = {Mih�ltz, M�rton}
+author = {Miháltz, Márton}
 title = {Knowledge-based Coreference Resolution for Hungarian}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1334}
 author = {Nissim, Malvina; Perboni, Sara}
-title = {The Italian Particle �ne�: Corpus Construction and Analysis}
+title = {The Italian Particle ne: Corpus Construction and Analysis}
 venue = {LREC}
 year = {2008}
 
@@ -2009,7 +2009,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1336}
-author = {Atterer, Michaela; Sch�tze, Hinrich}
+author = {Atterer, Michaela; Schütze, Hinrich}
 title = {An Inverted Index for Storing and Retrieving Grammatical Dependencies}
 venue = {LREC}
 year = {2008}
@@ -2081,7 +2081,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1348}
-author = {Cristea, Dan; Forăscu, Corina; Răschip, Marius; Zock, Michael}
+author = {Cristea, Dan; ForÄscu, Corina; RÄschip, Marius; Zock, Michael}
 title = {How to Evaluate and Raise the Quality in a Collaborative Lexicographic Approach}
 venue = {LREC}
 year = {2008}
@@ -2099,7 +2099,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1351}
-author = {Mares, M�riam Luj�n; Hinarejos, Carlos David Mart�nez; Gonzalvo, Vicent Alabau}
+author = {Mares, Míriam Luján; Hinarejos, Carlos David Martínez; Gonzalvo, Vicent Alabau}
 title = {Evaluation of several Maximum Likelihood Linear Regression Variants for Language Adaptation.}
 venue = {LREC}
 year = {2008}
@@ -2117,13 +2117,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1354}
-author = {Ritz, Julia; Dipper, Stefanie; G�tze, Michael}
+author = {Ritz, Julia; Dipper, Stefanie; Götze, Michael}
 title = {Annotation of Information Structure: an Evaluation across different Types of Texts}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1355}
-author = {Đinh, Quang Thắng; Lê, Hồng Phương; Nguyễn, Thi Minh Huyền; Nguyễn, Cẩm Tú; Rossignol, Mathias; Vũ, Xuẩn Lương}
+author = {Äinh, Quang Tháº¯ng; LÃª, Há»ng PhÆ°Æ¡ng; Nguyá»n, Thi Minh Huyá»n; Nguyá»n, Cáº©m TÃº; Rossignol, Mathias; VÅ©, Xuáº©n LÆ°Æ¡ng}
 title = {Word Segmentation of Vietnamese Texts: a Comparison of Approaches}
 venue = {LREC}
 year = {2008}
@@ -2153,7 +2153,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1360}
-author = {Nov�k, V�clav; Hall, Keith B.}
+author = {Novák, Václav; Hall, Keith B.}
 title = {Inter-sentential Coreferences in Semantic Networks: An Evaluation of Manual Annotation}
 venue = {LREC}
 year = {2008}
@@ -2171,13 +2171,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1363}
-author = {Orăsan, Constantin; Cristea, Dan; Mitkov, Ruslan; Branco, Ant�nio H.}
+author = {OrÄsan, Constantin; Cristea, Dan; Mitkov, Ruslan; Branco, António H.}
 title = {Anaphora Resolution Exercise: an Overview}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1364}
-author = {Santos, Diana; Sim�es, Alberto}
+author = {Santos, Diana; Simões, Alberto}
 title = {Portuguese-English Word Alignment: some Experiments}
 venue = {LREC}
 year = {2008}
@@ -2201,7 +2201,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1368}
-author = {Allauzen, Alexandre; Bonneau-Maynard, H�l�ne}
+author = {Allauzen, Alexandre; Bonneau-Maynard, Hélène}
 title = {Training and Evaluation of POS Taggers on the French MULTITAG Corpus}
 venue = {LREC}
 year = {2008}
@@ -2243,13 +2243,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1375}
-author = {Mart�nez-Hinarejos, Carlos D.; Tamarit, Vicent}
+author = {Martínez-Hinarejos, Carlos D.; Tamarit, Vicent}
 title = {Evaluation of Different Segmentation Techniques for Dialogue Turns}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1376}
-author = {Griol, David; Hurtado, Llu�s F.; Segarra, Encarna; Sanchis, Emilio}
+author = {Griol, David; Hurtado, Lluís F.; Segarra, Encarna; Sanchis, Emilio}
 title = {Acquisition and Evaluation of a Dialog Corpus through WOz and Dialog Simulation Techniques}
 venue = {LREC}
 year = {2008}
@@ -2261,7 +2261,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1378}
-author = {Toney, Dave; Rosset, Sophie; Max, Aur�lien; Galibert, Olivier; Bilinski, Eric}
+author = {Toney, Dave; Rosset, Sophie; Max, Aurélien; Galibert, Olivier; Bilinski, Eric}
 title = {An Evaluation of Spoken and Textual Interaction in the RITEL Interactive Question Answering System}
 venue = {LREC}
 year = {2008}
@@ -2309,7 +2309,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1386}
-author = {Concejero, Pedro; Tapias, Daniel; Rodr�guez, Juan Jos�; Luengo, Juan Carlos; S�nchez, Sebasti�n}
+author = {Concejero, Pedro; Tapias, Daniel; Rodríguez, Juan José; Luengo, Juan Carlos; Sánchez, Sebastián}
 title = {Methodology for Evaluating the Usability of User Interfaces in Mobile Services}
 venue = {LREC}
 year = {2008}
@@ -2340,7 +2340,7 @@ year = {2008}
 
 id = {L08-1391}
 author = {Bos, Johan}
-title = {Let�s not Argue about Semantics}
+title = {Lets not Argue about Semantics}
 venue = {LREC}
 year = {2008}
 
@@ -2370,7 +2370,7 @@ year = {2008}
 
 id = {L08-1396}
 author = {Grouin, Cyril}
-title = {Certification and Cleaning up of a Text Corpus: Towards an Evaluation of the �Grammatical� Quality of a Corpus}
+title = {Certification and Cleaning up of a Text Corpus: Towards an Evaluation of the Grammatical Quality of a Corpus}
 venue = {LREC}
 year = {2008}
 
@@ -2400,7 +2400,7 @@ year = {2008}
 
 id = {L08-1401}
 author = {Estrella, Paula; Popescu-Belis, Andrei; King, Maghi}
-title = {Improving Contextual Quality Models for MT Evaluation Based on Evaluators� Feedback}
+title = {Improving Contextual Quality Models for MT Evaluation Based on Evaluators Feedback}
 venue = {LREC}
 year = {2008}
 
@@ -2411,20 +2411,20 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1403}
-author = {Mauser, Arne; Hasan, Saša; Ney, Hermann}
+author = {Mauser, Arne; Hasan, SaÅ¡a; Ney, Hermann}
 title = {Automatic Evaluation Measures for Statistical Machine Translation System Optimization}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1404}
-author = {Tufiş, Dan; Ion, Radu; Ceauşu, Alexandru; Ştefănescu, Dan}
-title = {RACAI�s Linguistic Web Services}
+author = {TufiÅ, Dan; Ion, Radu; CeauÅu, Alexandru; ÅtefÄnescu, Dan}
+title = {RACAIs Linguistic Web Services}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1405}
-author = {Biber, Hanno; Breiteneder, Evelyn; M�rth, Karlheinz}
-title = {Words in Contexts: Digital Editions of Literary Journals in the �AAC - Austrian Academy Corpus�}
+author = {Biber, Hanno; Breiteneder, Evelyn; Mörth, Karlheinz}
+title = {Words in Contexts: Digital Editions of Literary Journals in the AAC - Austrian Academy Corpus}
 venue = {LREC}
 year = {2008}
 
@@ -2435,7 +2435,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1407}
-author = {Branco, Ant�nio H.; Costa, Francisco; Martins, Pedro; Nunes, Filipe; Silva, Jo�o; Silveira, Sara}
+author = {Branco, António H.; Costa, Francisco; Martins, Pedro; Nunes, Filipe; Silva, João; Silveira, Sara}
 title = {LX-Service: Web Services of Language Technology for Portuguese}
 venue = {LREC}
 year = {2008}
@@ -2453,13 +2453,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1410}
-author = {Elenius, Kjell; Forsbom, Eva; Megyesi, Be�ta}
+author = {Elenius, Kjell; Forsbom, Eva; Megyesi, Beáta}
 title = {Language Resources and Tools for Swedish: A Survey}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1411}
-author = {Nygaard, Lars; Priestley, Joel; N�klestad, Anders; Johannessen, Janne Bondi}
+author = {Nygaard, Lars; Priestley, Joel; Nøklestad, Anders; Johannessen, Janne Bondi}
 title = {Glossa: a Multilingual, Multimodal, Configurable User Interface}
 venue = {LREC}
 year = {2008}
@@ -2477,7 +2477,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1414}
-author = {Broeder, Daan; Nathan, David; Str�mqvist, Sven; Veenendaal, Remco van}
+author = {Broeder, Daan; Nathan, David; Strömqvist, Sven; Veenendaal, Remco van}
 title = {Building a Federation of Language Resource Repositories: the DAM-LR Project and its Continuation within CLARIN.}
 venue = {LREC}
 year = {2008}
@@ -2537,7 +2537,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1424}
-author = {Przepiórkowski, Adam; Górski, Rafał L.; Lewandowska-Tomaszyk, Barbara; Łaziński, Marek}
+author = {PrzepiÃ³rkowski, Adam; GÃ³rski, RafaÅ L.; Lewandowska-Tomaszyk, Barbara; ÅaziÅski, Marek}
 title = {Towards the National Corpus of Polish}
 venue = {LREC}
 year = {2008}
@@ -2555,7 +2555,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1427}
-author = {Krek, Simon; Gorjanc, Vojko; Arhar, �pela}
+author = {Krek, Simon; Gorjanc, Vojko; Arhar, pela}
 title = {Slovene Terminology Web Portal and the TBX-Compatible Simplified DTD/schema}
 venue = {LREC}
 year = {2008}
@@ -2573,7 +2573,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1430}
-author = {Derouin, Marie-Jeanne; Meur, Andr� Le}
+author = {Derouin, Marie-Jeanne; Meur, André Le}
 title = {Presentation of the New ISO-Standard for the Representation of Entries in Dictionaries: ISO 1951}
 venue = {LREC}
 year = {2008}
@@ -2597,7 +2597,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1434}
-author = {Arranz, Victoria; Gandcher, Franck; Mapelli, Val�rie; Choukri, Khalid}
+author = {Arranz, Victoria; Gandcher, Franck; Mapelli, Valérie; Choukri, Khalid}
 title = {A Guide for the Production of Reusable Language Resources}
 venue = {LREC}
 year = {2008}
@@ -2633,7 +2633,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1440}
-author = {Bański, Piotr; Moszczyński, Radosław}
+author = {BaÅski, Piotr; MoszczyÅski, RadosÅaw}
 title = {Enhancing an English-Polish Electronic Dictionary for Multiword Expression Research}
 venue = {LREC}
 year = {2008}
@@ -2658,12 +2658,12 @@ year = {2008}
 
 id = {L08-1444}
 author = {Adolphs, Peter}
-title = {Acquiring a Poor Man�s Inflectional Lexicon for German}
+title = {Acquiring a Poor Mans Inflectional Lexicon for German}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1445}
-author = {Bel, N�ria; Espeja, Sergio; Marimon, Montserrat; Villegas, Marta}
+author = {Bel, Núria; Espeja, Sergio; Marimon, Montserrat; Villegas, Marta}
 title = {COLDIC, a Lexicographic Platform for LMF compliant lexica}
 venue = {LREC}
 year = {2008}
@@ -2675,13 +2675,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1447}
-author = {Tufis, Dan; Irimia, Elena; Ion, Radu; Ceauşu, Alexandru}
+author = {Tufis, Dan; Irimia, Elena; Ion, Radu; CeauÅu, Alexandru}
 title = {Unsupervised Lexical Acquisition for Part of Speech Tagging}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1448}
-author = {Todiraşcu, Amalia; Tufiş, Dan; Heid, Ulrich; Gledhill, Christopher; Ştefanescu, Dan; Weller, Marion; Rousselot, François}
+author = {TodiraÅcu, Amalia; TufiÅ, Dan; Heid, Ulrich; Gledhill, Christopher; Åtefanescu, Dan; Weller, Marion; Rousselot, FranÃ§ois}
 title = {A Hybrid Approach to Extracting and Classifying Verb+Noun Constructions}
 venue = {LREC}
 year = {2008}
@@ -2699,14 +2699,14 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1451}
-author = {Erjavec, Tomaš; Krek, Simon}
+author = {Erjavec, TomaÅ¡; Krek, Simon}
 title = {The JOS Morphosyntactically Tagged Corpus of Slovene}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1452}
-author = {Buczy�~Dski, Aleksander; Przepiórkowski, Adam}
-title = {♠ Demo: An Open Source Tool for Partial Parsing and Morphosyntactic Disambiguation}
+author = {Buczyï¿œ~Dski, Aleksander; PrzepiÃ³rkowski, Adam}
+title = {â  Demo: An Open Source Tool for Partial Parsing and Morphosyntactic Disambiguation}
 venue = {LREC}
 year = {2008}
 
@@ -2723,7 +2723,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1455}
-author = {H�nig, Christian; Bordag, Stefan; Quasthoff, Uwe}
+author = {Hänig, Christian; Bordag, Stefan; Quasthoff, Uwe}
 title = {UnsuParse: unsupervised Parsing with unsupervised Part of Speech Tagging}
 venue = {LREC}
 year = {2008}
@@ -2765,7 +2765,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1462}
-author = {Greenwood, Mark A.; Iria, Jos�; Ciravegna, Fabio}
+author = {Greenwood, Mark A.; Iria, José; Ciravegna, Fabio}
 title = {Saxon: an Extensible Multimedia Annotator}
 venue = {LREC}
 year = {2008}
@@ -2789,19 +2789,19 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1466}
-author = {Trojanov�, Jana; Hr�z, Marek; Campr, Pavel; Zelezny, Milos}
+author = {Trojanová, Jana; Hrúz, Marek; Campr, Pavel; Zelezny, Milos}
 title = {Design and Recording of Czech Audio-Visual Database with Impaired Conditions for Continuous Speech Recognition}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1467}
-author = {Llorens, D.; Prat, F.; Marzal, A.; Vilar, J. M.; Castro, M. J.; Amengual, J. C.; Barrachina, S.; Castellanos, A.; Espa�a, S.; G�mez, J. A.; Gorbe, J.; Gordo, A.; Palaz�n, V.; Peris, G.; Ramos-Garijo, R.; Zamora, F.}
+author = {Llorens, D.; Prat, F.; Marzal, A.; Vilar, J. M.; Castro, M. J.; Amengual, J. C.; Barrachina, S.; Castellanos, A.; España, S.; Gómez, J. A.; Gorbe, J.; Gordo, A.; Palazón, V.; Peris, G.; Ramos-Garijo, R.; Zamora, F.}
 title = {The UJIpenchars Database: a Pen-Based Database of Isolated Handwritten Characters}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1468}
-author = {Ch�telat-Pel�, Emilie; Braffort, Annelies}
+author = {Chételat-Pelé, Emilie; Braffort, Annelies}
 title = {Sign Language Corpus Annotation: toward a new Methodology}
 venue = {LREC}
 year = {2008}
@@ -2819,7 +2819,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1471}
-author = {Campr, Pavel; Hr�z, Marek; Trojanov�, Jana}
+author = {Campr, Pavel; Hrúz, Marek; Trojanová, Jana}
 title = {Collection and Preprocessing of Czech Sign Language Corpus for Sign Language Recognition}
 venue = {LREC}
 year = {2008}
@@ -2832,7 +2832,7 @@ year = {2008}
 
 id = {L08-1473}
 author = {Arimoto, Yoshiko; Ohno, Sumio; Iida, Hitoshi}
-title = {Automatic Emotional Degree Labeling for Speakers� Anger Utterance during Natural Japanese Dialog}
+title = {Automatic Emotional Degree Labeling for Speakers Anger Utterance during Natural Japanese Dialog}
 venue = {LREC}
 year = {2008}
 
@@ -2849,7 +2849,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1476}
-author = {Heuvel, Henk van den; Martens, Jean-Pierre; D�hoore, Bart; D�hanens, Kristof; Konings, Nanneke}
+author = {Heuvel, Henk van den; Martens, Jean-Pierre; Dhoore, Bart; Dhanens, Kristof; Konings, Nanneke}
 title = {The AUTONOMATA Spoken Names Corpus}
 venue = {LREC}
 year = {2008}
@@ -2867,13 +2867,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1479}
-author = {Laurent, Antoine; Merlin, T�va; Meignier, Sylvain; Est�ve, Yannick; Del�glise, Paul}
+author = {Laurent, Antoine; Merlin, Téva; Meignier, Sylvain; Estève, Yannick; Deléglise, Paul}
 title = {Combined Systems for Automatic Phonetic Transcription of Proper Nouns}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1480}
-author = {H�ge, Harald; Kacic, Zdravko; Kotnik, Bojan; Rojc, Matej; Moreau, Nicolas; Hain, Horst-Udo}
+author = {Höge, Harald; Kacic, Zdravko; Kotnik, Bojan; Rojc, Matej; Moreau, Nicolas; Hain, Horst-Udo}
 title = {Evaluation of Modules and Tools for Speech Synthesis: the ECESS Framework}
 venue = {LREC}
 year = {2008}
@@ -2885,19 +2885,19 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1482}
-author = {Scherer, Stefan; Strauß, Petra-Maria}
+author = {Scherer, Stefan; StrauÃ, Petra-Maria}
 title = {A Flexible Wizard of Oz Environment for Rapid Prototyping}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1483}
-author = {Matoušek, Jindřich; Tihelka, Daniel; Romportl, Jan}
+author = {MatouÅ¡ek, JindÅich; Tihelka, Daniel; Romportl, Jan}
 title = {Building of a Speech Corpus Optimised for Unit Selection TTS Synthesis}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1484}
-author = {Oliveira, Lu�s; Paulo, S�rgio; Figueira, Lu�s; Mendes, Carlos; Nunes, Ana; Godinho, Joaquim}
+author = {Oliveira, Luís; Paulo, Sérgio; Figueira, Luís; Mendes, Carlos; Nunes, Ana; Godinho, Joaquim}
 title = {Methodologies for Designing and Recording Speech Databases for Corpus Based Synthesis}
 venue = {LREC}
 year = {2008}
@@ -2939,7 +2939,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1491}
-author = {Meurs, Marie-Jean; Duvert, Fr�d�ric; Bechet, Fr�d�ric; Lefevre, Fabrice; Mori, Renato De}
+author = {Meurs, Marie-Jean; Duvert, Frédéric; Bechet, Frédéric; Lefevre, Fabrice; Mori, Renato De}
 title = {Semantic Frame Annotation on the French MEDIA corpus}
 venue = {LREC}
 year = {2008}
@@ -2969,7 +2969,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1496}
-author = {Huet, St�phane; Gravier, Guillaume; S�billot, Pascale}
+author = {Huet, Stéphane; Gravier, Guillaume; Sébillot, Pascale}
 title = {Morphosyntactic Resources for Automatic Speech Recognition}
 venue = {LREC}
 year = {2008}
@@ -2987,31 +2987,31 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1499}
-author = {Demenko, Grazyna; Grocholewski, Stefan; Klessa, Katarzyna; Ogórkiewicz, Jerzy; Wagner, Agnieszka; Lange, Marek; Śledziński, Daniel; Cylwik, Natalia}
+author = {Demenko, Grazyna; Grocholewski, Stefan; Klessa, Katarzyna; OgÃ³rkiewicz, Jerzy; Wagner, Agnieszka; Lange, Marek; ÅledziÅski, Daniel; Cylwik, Natalia}
 title = {JURISDIC: Polish Speech Database for Taking Dictation of Legal Texts}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1500}
-author = {Dekens, Tomas; Patsis, Yorgos; Verhelst, Werner; Beaugendre, Fr�d�ric; Capman, Fran�ois}
+author = {Dekens, Tomas; Patsis, Yorgos; Verhelst, Werner; Beaugendre, Frédéric; Capman, François}
 title = {A Multi-sensor Speech Database with Applications towards Robust Speech Processing in hostile Environments}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1501}
-author = {Trancoso, Isabel; Martins, Rui; Moniz, Helena; Mata, Ana Isabel; Viana, M. C�u}
+author = {Trancoso, Isabel; Martins, Rui; Moniz, Helena; Mata, Ana Isabel; Viana, M. Céu}
 title = {The LECTRA Corpus - Classroom Lecture Transcriptions in European Portuguese}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1502}
-author = {Schiel, Florian; Heinrich, Christian; Barf�ßer, Sabine; Gilg, Thomas}
+author = {Schiel, Florian; Heinrich, Christian; BarfüÃer, Sabine; Gilg, Thomas}
 title = {ALC: Alcohol Language Corpus}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1503}
-author = {Fern�ndez, Rub�n; Hern�ndez, Luis A.; L�pez, Eduardo; Alc�zar, Jos�; Portillo, Guillermo; Toledano, Doroteo T.}
+author = {Fernández, Rubén; Hernández, Luis A.; López, Eduardo; Alcázar, José; Portillo, Guillermo; Toledano, Doroteo T.}
 title = {Design of a Multimodal Database for Research on Automatic Detection of Severe Apnoea Cases}
 venue = {LREC}
 year = {2008}
@@ -3041,7 +3041,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1508}
-author = {Winkler, Thomas; Kostoulas, Theodoros; Adderley, Richard; Bonkowski, Christian; Ganchev, Todor; K�hler, Joachim; Fakotakis, Nikos D.}
+author = {Winkler, Thomas; Kostoulas, Theodoros; Adderley, Richard; Bonkowski, Christian; Ganchev, Todor; Köhler, Joachim; Fakotakis, Nikos D.}
 title = {The MoveOn Motorcycle Speech Corpus}
 venue = {LREC}
 year = {2008}
@@ -3071,13 +3071,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1513}
-author = {Santos, Fab�ola; Freitas, Tiago}
+author = {Santos, Fabíola; Freitas, Tiago}
 title = {CORP-ORAL: Spontaneous Speech Corpus for European Portuguese}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1514}
-author = {Hennoste, Tiit; Gerassimenko, Olga; Kasterpalu, Riina; Koit, Mare; R��bis, Andriela; Strandson, Krista}
+author = {Hennoste, Tiit; Gerassimenko, Olga; Kasterpalu, Riina; Koit, Mare; Rääbis, Andriela; Strandson, Krista}
 title = {From Human Communication to Intelligent User Interfaces: Corpora of Spoken Estonian}
 venue = {LREC}
 year = {2008}
@@ -3089,20 +3089,20 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1516}
-author = {Brinckmann, Caren; Kleiner, Stefan; Kn�bl, Ralf; Berend, Nina}
+author = {Brinckmann, Caren; Kleiner, Stefan; Knöbl, Ralf; Berend, Nina}
 title = {German Today: a really extensive Corpus of Spoken Standard German}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1517}
-author = {Bonafonte, Antonio; Adell, Jordi; Esquerra, Ignasi; Gallego, Silvia; Moreno, Asunci�n; P�rez, Javier}
+author = {Bonafonte, Antonio; Adell, Jordi; Esquerra, Ignasi; Gallego, Silvia; Moreno, Asunción; Pérez, Javier}
 title = {Corpus and Voices for Catalan Speech Synthesis}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1518}
 author = {Adda-Decker, Martine; Pellegrini, Thomas; Bilinski, Eric; Adda, Gilles}
-title = {Developments of �L�tzebuergesch� Resources for Automatic Speech Processing and Linguistic Studies}
+title = {Developments of Lëtzebuergesch Resources for Automatic Speech Processing and Linguistic Studies}
 venue = {LREC}
 year = {2008}
 
@@ -3125,31 +3125,31 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1522}
-author = {Bazillon, Thierry; Est�ve, Yannick; Luzzati, Daniel}
+author = {Bazillon, Thierry; Estève, Yannick; Luzzati, Daniel}
 title = {Manual vs Assisted Transcription of Prepared and Spontaneous Speech}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1523}
-author = {Sandoval, Antonio Moreno; Toledano, Doroteo T.; Torre, Ra�l de la; Garrote, Marta; Guirao, Jos� M.}
+author = {Sandoval, Antonio Moreno; Toledano, Doroteo T.; Torre, Raúl de la; Garrote, Marta; Guirao, José M.}
 title = {Developing a Phonemic and Syllabic Frequency Inventory for Spontaneous Spoken Castilian Spanish and their Comparison to Text-Based Inventories}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1524}
-author = {Poll�k, Petr; Vol�n, Jan; Skarnitzl, Radek}
+author = {Pollák, Petr; Volín, Jan; Skarnitzl, Radek}
 title = {Phone Segmentation Tool with Integrated Pronunciation Lexicon and Czech Phonetically Labelled Reference Database.}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1525}
-author = {Bobicev, Victoria; Zidraşco, Tatiana}
+author = {Bobicev, Victoria; ZidraÅco, Tatiana}
 title = {Estimating Word Phonosemantics}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1526}
-author = {Gasch, Joachim; Brinckmann, Caren; Dickgießer, Sylvia}
+author = {Gasch, Joachim; Brinckmann, Caren; DickgieÃer, Sylvia}
 title = {memasysco: XML schema based metadata management system for speech corpora}
 venue = {LREC}
 year = {2008}
@@ -3227,13 +3227,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1539}
-author = {Sharoff, Serge; Kopotev, Mikhail; Erjavec, Tomaš; Feldman, Anna; Divjak, Dagmar}
+author = {Sharoff, Serge; Kopotev, Mikhail; Erjavec, TomaÅ¡; Feldman, Anna; Divjak, Dagmar}
 title = {Designing and Evaluating a Russian Tagset}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1540}
-author = {Pala, Karel; Svoboda, Lukáš; Šmerk, Pavel}
+author = {Pala, Karel; Svoboda, LukÃ¡Å¡; Å merk, Pavel}
 title = {Czech MWE Database}
 venue = {LREC}
 year = {2008}
@@ -3299,8 +3299,8 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1551}
-author = {Carrrera, Jordi; Castell�n, Irene; Climent, Salvador; Coll-Florit, Marta}
-title = {Towards Spanish Verbs� Selectional Preferences Automatic Acquisition: Semantic Annotation of the SenSem Corpus}
+author = {Carrrera, Jordi; Castellón, Irene; Climent, Salvador; Coll-Florit, Marta}
+title = {Towards Spanish Verbs Selectional Preferences Automatic Acquisition: Semantic Annotation of the SenSem Corpus}
 venue = {LREC}
 year = {2008}
 
@@ -3347,7 +3347,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1559}
-author = {Weiser, St�phanie; Laublet, Philippe; Minel, Jean-Luc}
+author = {Weiser, Stéphanie; Laublet, Philippe; Minel, Jean-Luc}
 title = {Automatic Identification of Temporal Information in Tourism Web Pages}
 venue = {LREC}
 year = {2008}
@@ -3365,7 +3365,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1562}
-author = {Vicente-D�ez, Mar�a Teresa; Samy, Doaa; Mart�nez, Paloma}
+author = {Vicente-Díez, María Teresa; Samy, Doaa; Martínez, Paloma}
 title = {An Empirical Approach to a Preliminary Successful Identification and Resolution of Temporal Expressions in Spanish News Corpora}
 venue = {LREC}
 year = {2008}
@@ -3383,7 +3383,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1565}
-author = {Badia, Toni; Melero, Maite; Valent�n, Oriol}
+author = {Badia, Toni; Melero, Maite; Valentín, Oriol}
 title = {Rapid Deployment of a New METIS Language Pair: Catalan-English}
 venue = {LREC}
 year = {2008}
@@ -3395,13 +3395,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1567}
-author = {Costa-Juss�, Marta Ruiz; Fonollosa, Jos� A. R.; Monte, Enric}
+author = {Costa-Jussà, Marta Ruiz; Fonollosa, José A. R.; Monte, Enric}
 title = {Using Reordering in Statistical Machine Translation based on Alignment Block Classification}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1568}
-author = {Johannessen, Janne Bondi; Nordg�rd, Torbj�rn; Nygaard, Lars}
+author = {Johannessen, Janne Bondi; Nordgård, Torbjørn; Nygaard, Lars}
 title = {Evaluation of Linguistics-Based Translation}
 venue = {LREC}
 year = {2008}
@@ -3419,7 +3419,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1571}
-author = {Megyesi, Be�ta; Dahlqvist, Bengt; Pettersson, Eva; Nivre, Joakim}
+author = {Megyesi, Beáta; Dahlqvist, Bengt; Pettersson, Eva; Nivre, Joakim}
 title = {Swedish-Turkish Parallel Treebank}
 venue = {LREC}
 year = {2008}
@@ -3431,7 +3431,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1573}
-author = {Kaji, Hiroyuki; Tamamura, Shin�ichi; Erdenebat, Dashtseren}
+author = {Kaji, Hiroyuki; Tamamura, Shinichi; Erdenebat, Dashtseren}
 title = {Automatic Construction of a Japanese-Chinese Dictionary via English}
 venue = {LREC}
 year = {2008}
@@ -3449,7 +3449,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1576}
-author = {Tiedemann, J�rg}
+author = {Tiedemann, Jörg}
 title = {Synchronizing Translated Movie Subtitles}
 venue = {LREC}
 year = {2008}
@@ -3461,7 +3461,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1578}
-author = {Prince, Violaine; Chauch�, Jacques}
+author = {Prince, Violaine; Chauché, Jacques}
 title = {Building a Bilingual Representation of the Roget Thesaurus for French to English Machine Translation}
 venue = {LREC}
 year = {2008}
@@ -3479,7 +3479,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1581}
-author = {Monson, Christian; Llitj�s, Ariadna Font; Ambati, Vamshi; Levin, Lori S.; Lavie, Alon; Alvarez, Alison; Aranovich, Roberto; Carbonell, Jaime G.; Frederking, Robert E.; Peterson, Erik; Probst, Katharina}
+author = {Monson, Christian; Llitjós, Ariadna Font; Ambati, Vamshi; Levin, Lori S.; Lavie, Alon; Alvarez, Alison; Aranovich, Roberto; Carbonell, Jaime G.; Frederking, Robert E.; Peterson, Erik; Probst, Katharina}
 title = {Linguistic Structure and Bilingual Informants Help Induce Machine Translation of Lesser-Resourced Languages}
 venue = {LREC}
 year = {2008}
@@ -3515,7 +3515,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1587}
-author = {Hal�csy, P�ter; Kornai, Andr�s; N�meth, P�ter; Varga, D�niel}
+author = {Halácsy, Péter; Kornai, András; Németh, Péter; Varga, Dániel}
 title = {Parallel Creation of Gigaword Corpora for Medium Density Languages - an Interim Report}
 venue = {LREC}
 year = {2008}
@@ -3551,8 +3551,8 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1593}
-author = {Santos, Diana; Silva, Maria do Ros�rio; In�cio, Susana}
-title = {What�s in a Colour? Studying and Contrasting Colours with COMPARA}
+author = {Santos, Diana; Silva, Maria do Rosário; Inácio, Susana}
+title = {Whats in a Colour? Studying and Contrasting Colours with COMPARA}
 venue = {LREC}
 year = {2008}
 
@@ -3563,7 +3563,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1595}
-author = {Luca, Ernesto William De; L�nneker-Rodman, Birte}
+author = {Luca, Ernesto William De; Lönneker-Rodman, Birte}
 title = {Integrating Metaphor Information into RDF/OWL EuroWordNet}
 venue = {LREC}
 year = {2008}
@@ -3575,7 +3575,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1597}
-author = {Aparicio, Juan; Taul�, Mariona; Mart�, M.Ant�nia}
+author = {Aparicio, Juan; Taulé, Mariona; Martí, M.Antònia}
 title = {AnCora-Verb: A Lexical Resource for the Semantic Annotation of Corpora}
 venue = {LREC}
 year = {2008}
@@ -3593,13 +3593,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1600}
-author = {F�rstenau, Hagen}
+author = {Fürstenau, Hagen}
 title = {Enriching Frame Semantic Resources with Dependency Graphs}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1601}
-author = {Dias-da-Silva, Bento Carlos; Felippo, Ariani Di; Nunes, Maria das Gra�as Volpe}
+author = {Dias-da-Silva, Bento Carlos; Felippo, Ariani Di; Nunes, Maria das Graças Volpe}
 title = {The Automatic Mapping of Princeton WordNet Lexical-Conceptual Relations onto the Brazilian Portuguese WordNet Database}
 venue = {LREC}
 year = {2008}
@@ -3647,7 +3647,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1609}
-author = {Vincze, Veronika; Szarvas, Gy�rgy; Alm�si, Attila; Szauter, D�ra; Orm�ndi, R�bert; Farkas, Rich�rd; Hatvani, Csaba; Csirik, J�nos}
+author = {Vincze, Veronika; Szarvas, György; Almási, Attila; Szauter, Dóra; Ormándi, Róbert; Farkas, Richárd; Hatvani, Csaba; Csirik, János}
 title = {Hungarian Word-Sense Disambiguated Corpus}
 venue = {LREC}
 year = {2008}
@@ -3665,7 +3665,7 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1612}
-author = {Samy, Doaa; Gonz�lez-Ledesma, Ana}
+author = {Samy, Doaa; González-Ledesma, Ana}
 title = {Pragmatic Annotation of Discourse Markers in a Multilingual Parallel Corpus (Arabic- Spanish-English)}
 venue = {LREC}
 year = {2008}
@@ -3677,13 +3677,13 @@ venue = {LREC}
 year = {2008}
 
 id = {L08-1614}
-author = {Sj�bergh, Jonas; Araki, Kenji}
+author = {Sjöbergh, Jonas; Araki, Kenji}
 title = {A Multi-Lingual Dictionary of Dirty Words}
 venue = {LREC}
 year = {2008}
 
 id = {L08-1615}
-author = {Sj�bergh, Jonas; Araki, Kenji}
+author = {Sjöbergh, Jonas; Araki, Kenji}
 title = {What is poorly Said is a Little Funny}
 venue = {LREC}
 year = {2008}
@@ -3726,13 +3726,13 @@ year = {2008}
 
 id = {C08-4001}
 author = {Gurevych, Iryna; Bernhard, Delphine}
-title = {ENLP Tutorial Notes – Slides}
+title = {ENLP Tutorial Notes â Slides}
 venue = {COLING - Tutorials}
 year = {2008}
 
 id = {C08-4002}
 author = {Gurevych, Iryna; Bernhard, Delphine}
-title = {ENLP Tutorial Notes – References}
+title = {ENLP Tutorial Notes â References}
 venue = {COLING - Tutorials}
 year = {2008}
 
@@ -3899,7 +3899,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1998}
 
 id = {C98-1027}
-author = {Branco, Ant�nio H.}
+author = {Branco, António H.}
 title = {The Logical Structure of Binding}
 venue = {International Conference On Computational Linguistics}
 year = {1998}
@@ -4031,7 +4031,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1998}
 
 id = {C98-1049}
-author = {Dimitrova, Ludmila; Erjavec, Tomaš; Ide, Nancy M.; Kaalep, Heiki-Jaan; Petkevic, Vladimir; Tufis, Dan}
+author = {Dimitrova, Ludmila; Erjavec, TomaÅ¡; Ide, Nancy M.; Kaalep, Heiki-Jaan; Petkevic, Vladimir; Tufis, Dan}
 title = {Multext-East: Parallel and Comparable Corpora and Lexicons for Six Central and Eastern European Languages}
 venue = {International Conference On Computational Linguistics}
 year = {1998}
@@ -4097,7 +4097,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1998}
 
 id = {C98-1060}
-author = {N., Ezeiza; Alegria, I�aki; J.M., Areola; R., Urizar; I., Aduriz}
+author = {N., Ezeiza; Alegria, Iï¿œaki; J.M., Areola; R., Urizar; I., Aduriz}
 title = {Combining Stochastic and Rule-Based Methods for Disambiguation in Agglutinative Languages}
 venue = {International Conference On Computational Linguistics}
 year = {1998}
@@ -4691,7 +4691,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1998}
 
 id = {C98-2159}
-author = {Padro, Lluis; M�rquez, Lluis}
+author = {Padro, Lluis; Màrquez, Lluis}
 title = {On the Evaluation and Comparison of Taggers: the Effect of Noise in Testing Corpora.}
 venue = {International Conference On Computational Linguistics}
 year = {1998}
@@ -5226,7 +5226,7 @@ year = {2008}
 
 id = {D08-1002}
 author = {Ritter, Alan; Soderland, Stephen; Downey, Doug; Etzioni, Oren}
-title = {It’s a Contradiction – no, it’s not: A Case Study using Functional Relations}
+title = {Itâs a Contradiction â no, itâs not: A Case Study using Functional Relations}
 venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
 
@@ -5315,7 +5315,7 @@ venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
 
 id = {D08-1017}
-author = {Torres Martins, Andr� Filipe; Das, Dipanjan; Smith, Noah A.; Xing, Eric P.}
+author = {Torres Martins, André Filipe; Das, Dipanjan; Smith, Noah A.; Xing, Eric P.}
 title = {Stacking Dependency Parsers}
 venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
@@ -5375,8 +5375,8 @@ venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
 
 id = {D08-1027}
-author = {Snow, Rion; O’Connor, Brendan; Jurafsky, Daniel; Ng, Andrew Y.}
-title = {Cheap and Fast – But is it Good? Evaluating Non-Expert Annotations for Natural Language Tasks}
+author = {Snow, Rion; OâConnor, Brendan; Jurafsky, Daniel; Ng, Andrew Y.}
+title = {Cheap and Fast â But is it Good? Evaluating Non-Expert Annotations for Natural Language Tasks}
 venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
 
@@ -5411,7 +5411,7 @@ venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
 
 id = {D08-1033}
-author = {DeNero, John; Bouchard-C�t�, Alexandre; Klein, Dan}
+author = {DeNero, John; Bouchard-Côté, Alexandre; Klein, Dan}
 title = {Sampling Alignment Structure under a Bayesian Translation Model}
 venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
@@ -5447,7 +5447,7 @@ venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
 
 id = {D08-1039}
-author = {Hasan, Saša; Ganitkevitch, Juri; Ney, Hermann; Andrés-Ferrer, Jesús}
+author = {Hasan, SaÅ¡a; Ganitkevitch, Juri; Ney, Hermann; AndrÃ©s-Ferrer, JesÃºs}
 title = {Triplet Lexicon Models for Statistical Machine Translation}
 venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
@@ -5519,7 +5519,7 @@ venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
 
 id = {D08-1051}
-author = {Sanchis-Trilles, Germ�n; Ortiz-Mart�nez, Daniel; Civera, Jorge; Casacuberta, Francisco; Vidal, Enrique; Hoang, Hieu}
+author = {Sanchis-Trilles, Germán; Ortiz-Martínez, Daniel; Civera, Jorge; Casacuberta, Francisco; Vidal, Enrique; Hoang, Hieu}
 title = {Improving Interactive Machine Translation via Mouse Actions}
 venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
@@ -5555,7 +5555,7 @@ venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
 
 id = {D08-1057}
-author = {Wan, Stephen; Dale, Robert; Dras, Mark; Paris, Cécile L.}
+author = {Wan, Stephen; Dale, Robert; Dras, Mark; Paris, CÃ©cile L.}
 title = {Seed and Grow: Augmenting Statistically Generated Summary Sentences using Schematic Word Patterns}
 venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
@@ -5639,7 +5639,7 @@ venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
 
 id = {D08-1071}
-author = {Daum� III, Hal}
+author = {Daumé III, Hal}
 title = {Cross-Task Knowledge-Constrained Self Training}
 venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
@@ -5777,7 +5777,7 @@ venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
 
 id = {D08-1094}
-author = {Erk, Katrin; Pad�, Sebastian}
+author = {Erk, Katrin; Padó, Sebastian}
 title = {A Structured Vector Space Model for Word Meaning in Context}
 venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
@@ -5789,7 +5789,7 @@ venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
 
 id = {D08-1096}
-author = {Sch�tze, Hinrich; Walsh, Michael}
+author = {Schütze, Hinrich; Walsh, Michael}
 title = {A Graph-theoretic Model of Lexical Syntactic Acquisition}
 venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2008}
@@ -6269,7 +6269,7 @@ venue = {Second International Joint Conference on Natural Language Processing: F
 year = {2005}
 
 id = {I05-1062}
-author = {Daille, B�atrice; Morin, Emmanuel; }
+author = {Daille, Bèatrice; Morin, Emmanuel; }
 title = {French-English Terminology Extraction from Comparable Corpora}
 venue = {Second International Joint Conference on Natural Language Processing: Full Papers}
 year = {2005}
@@ -6336,7 +6336,7 @@ year = {2005}
 
 id = {I05-1073}
 author = {Chen, Conrad; Chen, Hsin-Hsi; }
-title = {Integrating Punctuation Rules and Na�ve Bayesian Model for Chinese Creation Title Recognition}
+title = {Integrating Punctuation Rules and Naïve Bayesian Model for Chinese Creation Title Recognition}
 venue = {Second International Joint Conference on Natural Language Processing: Full Papers}
 year = {2005}
 
@@ -6401,7 +6401,7 @@ venue = {Second International Joint Conference on Natural Language Processing: F
 year = {2005}
 
 id = {I05-1084}
-author = {Uzuner, �zlem; Katz, Boris; }
+author = {Uzuner, Özlem; Katz, Boris; }
 title = {A Comparative Study of Language Models for Book and Author Recognition}
 venue = {Second International Joint Conference on Natural Language Processing: Full Papers}
 year = {2005}
@@ -6516,7 +6516,7 @@ year = {2005}
 
 id = {I05-2015}
 author = {Zhang, Yujie; Uchimoto, Kiyotaka; Ma, Qing; Isahara, Hitoshi}
-title = {Building an Annotated Japanese-Chinese Parallel Corpus �C A Part of NICT Multilingual Corpora}
+title = {Building an Annotated Japanese-Chinese Parallel Corpus šC A Part of NICT Multilingual Corpora}
 venue = {Second International Joint Conference on Natural Language Processing: Companion Volume including Posters/Demos and tutorial abstracts}
 year = {2005}
 
@@ -6581,7 +6581,7 @@ venue = {Second International Joint Conference on Natural Language Processing: C
 year = {2005}
 
 id = {I05-2026}
-author = {Nahnsen, Thade; Uzuner, �zlem; Katz, Boris}
+author = {Nahnsen, Thade; Uzuner, Özlem; Katz, Boris}
 title = {Lexical Chains and Sliding Locality Windows in Content-based Text Similarity Detection}
 venue = {Second International Joint Conference on Natural Language Processing: Companion Volume including Posters/Demos and tutorial abstracts}
 year = {2005}
@@ -6611,13 +6611,13 @@ venue = {Second International Joint Conference on Natural Language Processing: C
 year = {2005}
 
 id = {I05-2031}
-author = {Bojar, Ondřej; Homola, Petr; Kubon, Vladislav}
+author = {Bojar, OndÅej; Homola, Petr; Kubon, Vladislav}
 title = {Problems of Reusing an Existing MT System}
 venue = {Second International Joint Conference on Natural Language Processing: Companion Volume including Posters/Demos and tutorial abstracts}
 year = {2005}
 
 id = {I05-2032}
-author = {Aziz, Mohd Juzaiddin Ab; Dato��Ahmad, Fatimah; Ghani, Abdul Azim Abdul; Mahmod, Ramlan}
+author = {Aziz, Mohd Juzaiddin Ab; Dato¡¯Ahmad, Fatimah; Ghani, Abdul Azim Abdul; Mahmod, Ramlan}
 title = {Pola Grammar Technique to Identify Subject and Predicate in Malaysian Language}
 venue = {Second International Joint Conference on Natural Language Processing: Companion Volume including Posters/Demos and tutorial abstracts}
 year = {2005}
@@ -7061,7 +7061,7 @@ venue = {Proceedings of the Third International Workshop on Paraphrasing (IWP200
 year = {2005}
 
 id = {I05-5012}
-author = {Wan, Stephen; Dras, Mark; Dale, Robert; Paris, Cécile L.}
+author = {Wan, Stephen; Dras, Mark; Dale, Robert; Paris, CÃ©cile L.}
 title = {Towards Statistical Paraphrase Generation: Preliminary Evaluations of Grammaticality}
 venue = {Proceedings of the Third International Workshop on Paraphrasing (IWP2005)}
 year = {2005}
@@ -7109,7 +7109,7 @@ venue = {Proceedings of the Sixth International Workshop on Linguistically Inter
 year = {2005}
 
 id = {I05-6008}
-author = {Moirón, Begoña Villada}
+author = {MoirÃ³n, BegoÃ±a Villada}
 title = {Linguistically enriched corpora for establishing variation in support verb constructions}
 venue = {Proceedings of the Sixth International Workshop on Linguistically Interpreted Corpora (LINC-2005)}
 year = {2005}
@@ -7283,7 +7283,7 @@ venue = {Proceedings of the Third International Joint Conference on Natural Lang
 year = {2008}
 
 id = {I08-1013}
-author = {Daille, B�atrice; Morin, Emmanuel}
+author = {Daille, Béatrice; Morin, Emmanuel}
 title = {An Effective Compositional Model for Lexical Alignment}
 venue = {Proceedings of the Third International Joint Conference on Natural Language Processing}
 year = {2008}
@@ -7457,7 +7457,7 @@ venue = {Proceedings of the Third International Joint Conference on Natural Lang
 year = {2008}
 
 id = {I08-1042}
-author = {Giménez, Jesús; Márquez, Lluís}
+author = {GimÃ©nez, JesÃºs; MÃ¡rquez, LluÃ­s}
 title = {Heterogeneous Automatic MT Evaluation Through Non-Parametric Metric Combinations}
 venue = {Proceedings of the Third International Joint Conference on Natural Language Processing}
 year = {2008}
@@ -7511,7 +7511,7 @@ venue = {Proceedings of the Third International Joint Conference on Natural Lang
 year = {2008}
 
 id = {I08-1051}
-author = {Burchardt, Aljoscha; Padó, Sebastian; Spohr, Dennis; Frank, Anette; Heid, Ulrich}
+author = {Burchardt, Aljoscha; PadÃ³, Sebastian; Spohr, Dennis; Frank, Anette; Heid, Ulrich}
 title = {Formalising Multi-layer Corpora in OWL DL - Lexicon Modelling, Querying and Consistency Control}
 venue = {Proceedings of the Third International Joint Conference on Natural Language Processing}
 year = {2008}
@@ -7577,7 +7577,7 @@ venue = {Proceedings of the Third International Joint Conference on Natural Lang
 year = {2008}
 
 id = {I08-1062}
-author = {Ramírez, Jessica; Asahara, Masayuki; Matsumoto, Yuji}
+author = {RamÃ­rez, Jessica; Asahara, Masayuki; Matsumoto, Yuji}
 title = {Japanese-Spanish Thesaurus Construction Using English as a Pivot}
 venue = {Proceedings of the Third International Joint Conference on Natural Language Processing}
 year = {2008}
@@ -7871,7 +7871,7 @@ venue = {Proceedings of the Third International Joint Conference on Natural Lang
 year = {2008}
 
 id = {I08-2111}
-author = {Bejček, Eduard; Straňák, Pavel; Schlesinger, Pavel}
+author = {BejÄek, Eduard; StraÅÃ¡k, Pavel; Schlesinger, Pavel}
 title = {Annotation of Multiword Expressions in the Prague Dependency Treebank}
 venue = {Proceedings of the Third International Joint Conference on Natural Language Processing}
 year = {2008}
@@ -7937,7 +7937,7 @@ venue = {Proceedings of the Third International Joint Conference on Natural Lang
 year = {2008}
 
 id = {I08-2122}
-author = {Kano, Yoshinobu; Nguyen, Ngan; Sætre, Rune; Yoshida, Kazuhiro; Fukamachi, Keiichiro; Miyao, Yusuke; Tsuruoka, Yoshimasa; Ananiadou, Sophia; Tsujii, Jun'ichi}
+author = {Kano, Yoshinobu; Nguyen, Ngan; SÃŠtre, Rune; Yoshida, Kazuhiro; Fukamachi, Keiichiro; Miyao, Yusuke; Tsuruoka, Yoshimasa; Ananiadou, Sophia; Tsujii, Jun'ichi}
 title = {Towards Data and Goal Oriented Analysis: Tool Inter-operability and Combinatorial Comparison}
 venue = {Proceedings of the Third International Joint Conference on Natural Language Processing}
 year = {2008}
@@ -8039,8 +8039,8 @@ venue = {Proceedings of the Third International Joint Conference on Natural Lang
 year = {2008}
 
 id = {I08-2139}
-author = {Mírovský, Jiří}
-title = {Netgraph – Making Searching in Treebanks Easy}
+author = {MÃ­rovskÃœ, JiÅÃ­}
+title = {Netgraph â Making Searching in Treebanks Easy}
 venue = {Proceedings of the Third International Joint Conference on Natural Language Processing}
 year = {2008}
 
@@ -8135,7 +8135,7 @@ venue = {Proceedings of the IJCNLP-08 Workshop on NLP for Less Privileged Langua
 year = {2008}
 
 id = {I08-3011}
-author = {Alegria, I�aki; Arregi, X.; Artola, X.; Ilarraza, A. Diaz de; Labaka, G.; Lersundi, M.; Mayor, A.; Sarasola, K.}
+author = {Alegria, Iï¿œaki; Arregi, X.; Artola, X.; Ilarraza, A. Diaz de; Labaka, G.; Lersundi, M.; Mayor, A.; Sarasola, K.}
 title = {Strategies for sustainable MT for Basque: incremental design, reusability, standardization and open-source}
 venue = {Proceedings of the IJCNLP-08 Workshop on NLP for Less Privileged Languages}
 year = {2008}
@@ -8819,7 +8819,7 @@ venue = {Computational Linguistics}
 year = {2006}
 
 id = {J06-4001}
-author = {Hajicov�, Eva}
+author = {Hajicová, Eva}
 title = {ACL Lifetime Achievement Award: Old Linguists Never Die, They Only Get Obligatorily Deleted}
 venue = {Computational Linguistics}
 year = {2006}
@@ -8837,7 +8837,7 @@ venue = {Computational Linguistics}
 year = {2006}
 
 id = {J06-4004}
-author = {Mari�o, Jos�; Banches, Rafael E.; Crego, Josep M.; Gispert, Adri� de; Lambert, Patrik; Fonollosa, Jos� A. R.; Costa-Juss�, Marta Ruiz}
+author = {Mariño, José; Banches, Rafael E.; Crego, Josep M.; Gispert, Adrià de; Lambert, Patrik; Fonollosa, José A. R.; Costa-Jussà, Marta Ruiz}
 title = {N-gram-based Machine Translation}
 venue = {Computational Linguistics}
 year = {2006}
@@ -8915,8 +8915,8 @@ venue = {Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue}
 year = {2003}
 
 id = {W03-2113}
-author = {Flycht-Eriksson, Annika; J�nsson, Arne}
-title = {Some empirical findings on dialogue management and domain ontologies in dialogue systems - Implications from an evaluation of� BirdQuest}
+author = {Flycht-Eriksson, Annika; Jönsson, Arne}
+title = {Some empirical findings on dialogue management and domain ontologies in dialogue systems - Implications from an evaluation of  BirdQuest}
 venue = {Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue}
 year = {2003}
 
@@ -8927,7 +8927,7 @@ venue = {Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue}
 year = {2003}
 
 id = {W03-2115}
-author = {Porzel, Robert; Gurevych, Iryna; M�ller, Christof E.}
+author = {Porzel, Robert; Gurevych, Iryna; Müller, Christof E.}
 title = {Ontology-based Contextual Coherence Scoring}
 venue = {Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue}
 year = {2003}
@@ -8939,7 +8939,7 @@ venue = {Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue}
 year = {2003}
 
 id = {W03-2117}
-author = {M�ller, Christoph; Strube, Michael}
+author = {Müller, Christoph; Strube, Michael}
 title = {Multi-Level Annotation in MMAX}
 venue = {Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue}
 year = {2003}
@@ -8957,7 +8957,7 @@ venue = {Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue}
 year = {2003}
 
 id = {W03-2120}
-author = {Orăsan, Constantin}
+author = {OrÄsan, Constantin}
 title = {PALinkA: A highly customisable tool for discourse annotation }
 venue = {Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue}
 year = {2003}
@@ -9005,7 +9005,7 @@ venue = {Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue}
 year = {2003}
 
 id = {W03-2128}
-author = {Hennoste, Tiit; Koit, Mare; R��bis, Andriela; Strandson, Krista; Valdisoo, Maret; Vutt, Evely}
+author = {Hennoste, Tiit; Koit, Mare; Rääbis, Andriela; Strandson, Krista; Valdisoo, Maret; Vutt, Evely}
 title = {Developing a Typology of Dialogue Acts: Some Boundary Problems }
 venue = {Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue}
 year = {2003}
@@ -9113,7 +9113,7 @@ venue = {Proceedings of the Fifth International Workshop on Inference in Computa
 year = {2006}
 
 id = {W06-3917}
-author = {Helbig, Hermann; Gl�ckner, Ingo}
+author = {Helbig, Hermann; Glöckner, Ingo}
 title = {Towards a Logical Foundation of Semantic Networks - A Typology of Descriptive Means for Semantic Inference}
 venue = {Proceedings of the Fifth International Workshop on Inference in Computational Semantics}
 year = {2006}
@@ -9233,7 +9233,7 @@ venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
 
 id = {W08-0119}
-author = {Gašić, Milica; Keizer, Simon; Mairesse, Fran�ois; Schatzmann, Jost; Thomson, Blaise; Yu, Kai; Young, Steve}
+author = {GaÅ¡iÄ, Milica; Keizer, Simon; Mairesse, François; Schatzmann, Jost; Thomson, Blaise; Yu, Kai; Young, Steve}
 title = {Training and Evaluation of the HIS POMDP Dialogue System in Noise}
 venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
@@ -9269,7 +9269,7 @@ venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
 
 id = {W08-0125}
-author = {Fern�ndez, Raquel; Frampton, Matthew; Ehlen, Patrick; Purver, Matthew; Peters, Stanley}
+author = {Fernández, Raquel; Frampton, Matthew; Ehlen, Patrick; Purver, Matthew; Peters, Stanley}
 title = {Modelling and Detecting Decisions in Multi-party Dialogue}
 venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
@@ -9287,14 +9287,14 @@ venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
 
 id = {W08-0128}
-author = {M�ller, Sebastian; Ward, Nigel}
+author = {Möller, Sebastian; Ward, Nigel}
 title = {A Framework for Model-based Evaluation of Spoken Dialog Systems}
 venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
 
 id = {W08-0129}
 author = {Kruijff-Korbayova, Ivana; Kukina, Olga}
-title = {The Effect of Dialogue System Output Style Variation on Users’ Evaluation Judgments and Input Style}
+title = {The Effect of Dialogue System Output Style Variation on Usersâ Evaluation Judgments and Input Style}
 venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
 
@@ -9312,13 +9312,13 @@ year = {2008}
 
 id = {W08-0202}
 author = {Bender, Emily M.; Xia, Fei; Bansleben, Erik}
-title = {Building a Flexible, Collaborative, Intensive Master’s Program in Computational Linguistics}
+title = {Building a Flexible, Collaborative, Intensive Masterâs Program in Computational Linguistics}
 venue = {Proceedings of the Third Workshop on Issues in Teaching Computational Linguistics}
 year = {2008}
 
 id = {W08-0203}
 author = {Zinsmeister, Heike}
-title = {Freshmen’s CL Curriculum: The Benefits of Redundancy}
+title = {Freshmenâs CL Curriculum: The Benefits of Redundancy}
 venue = {Proceedings of the Third Workshop on Issues in Teaching Computational Linguistics}
 year = {2008}
 
@@ -9330,7 +9330,7 @@ year = {2008}
 
 id = {W08-0205}
 author = {Fosler-Lussier, Eric}
-title = {Strategies for Teaching “Mixed” Computational Linguistics Classes}
+title = {Strategies for Teaching âMixedâ Computational Linguistics Classes}
 venue = {Proceedings of the Third Workshop on Issues in Teaching Computational Linguistics}
 year = {2008}
 
@@ -9455,13 +9455,13 @@ venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
 
 id = {W08-0310}
-author = {D�chelotte, Daniel; Adda, Gilles; Allauzen, Alexandre; Bonneau-Maynard, H�l�ne; Galibert, Olivier; Gauvain, Jean-Luc; Langlais, Philippe; Yvon, Fran�ois}
-title = {Limsi’s Statistical Translation Systems for WMT’08}
+author = {Déchelotte, Daniel; Adda, Gilles; Allauzen, Alexandre; Bonneau-Maynard, Hélène; Galibert, Olivier; Gauvain, Jean-Luc; Langlais, Philippe; Yvon, François}
+title = {Limsiâs Statistical Translation Systems for WMTâ08}
 venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
 
 id = {W08-0311}
-author = {Nov�k, Attila; Tihanyi, L�szl�; Pr�sz�ky, G�bor}
+author = {Novák, Attila; Tihanyi, László; Prószéky, Gábor}
 title = {The MetaMorpho Translation System}
 venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
@@ -9485,13 +9485,13 @@ venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
 
 id = {W08-0315}
-author = {Khalilov, Maxim; Hern�ndez H., Adolfo; Costa-Juss�, Marta Ruiz; Crego, Josep M.; Henr�quez Q., Carlos A.; Lambert, Patrik; Fonollosa, Jos� A. R.; Mari�o, Jos� B.; Banchs, Rafael E.}
+author = {Khalilov, Maxim; Hernández H., Adolfo; Costa-Jussà, Marta Ruiz; Crego, Josep M.; Henríquez Q., Carlos A.; Lambert, Patrik; Fonollosa, José A. R.; Mariño, José B.; Banchs, Rafael E.}
 title = {The TALP-UPC Ngram-Based Statistical Machine Translation System for ACL-WMT 2008}
 venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
 
 id = {W08-0316}
-author = {Blackwood, Graeme; Gispert, Adri�; Brunning, Jamie; Byrne, William J.}
+author = {Blackwood, Graeme; Gispert, Adrià; Brunning, Jamie; Byrne, William J.}
 title = {European Language Translation with Weighted Finite State Transducers: The CUED MT System for the 2008 ACL Workshop on SMT}
 venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
@@ -9509,7 +9509,7 @@ venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
 
 id = {W08-0319}
-author = {Bojar, Ondřej; Hajič, Jan}
+author = {Bojar, OndÅej; HajiÄ, Jan}
 title = {Phrase-Based and Deep Syntactic English-to-Czech Statistical Machine Translation}
 venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
@@ -9557,13 +9557,13 @@ venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
 
 id = {W08-0327}
-author = {Dugast, Lo�c; Senellart, Jean; Koehn, Philipp}
+author = {Dugast, Loïc; Senellart, Jean; Koehn, Philipp}
 title = {Can we Relearn an RBMT System?}
 venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
 
 id = {W08-0328}
-author = {Eisele, Andreas; Federmann, Christian; Saint-Amand, Herv�; Jellinghaus, Michael; Herrmann, Teresa; Chen, Yu}
+author = {Eisele, Andreas; Federmann, Christian; Saint-Amand, Hervé; Jellinghaus, Michael; Herrmann, Teresa; Chen, Yu}
 title = {Using Moses to Integrate Multiple Rule-Based Machine Translation Engines into a Hybrid System}
 venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
@@ -9587,7 +9587,7 @@ venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
 
 id = {W08-0332}
-author = {Gim�nez, Jes�s; M�rquez, Llu�s}
+author = {Giménez, Jesús; Màrquez, Lluís}
 title = {A Smorgasbord of Features for Automatic MT Evaluation}
 venue = {Proceedings of the Third Workshop on Statistical Machine Translation}
 year = {2008}
@@ -9701,7 +9701,7 @@ venue = {Software Engineering, Testing, and Quality Assurance for Natural Langua
 year = {2008}
 
 id = {W08-0504}
-author = {Sagae, Kenji; Miyao, Yusuke; Sætre, Rune; Tsujii, Jun'ichi}
+author = {Sagae, Kenji; Miyao, Yusuke; SÃŠtre, Rune; Tsujii, Jun'ichi}
 title = {Evaluating the Effects of Treebank Size in a Practical Application for Parsing}
 venue = {Software Engineering, Testing, and Quality Assurance for Natural Language Processing}
 year = {2008}
@@ -9720,7 +9720,7 @@ year = {2008}
 
 id = {W08-0507}
 author = {Poprat, Michael; Beisswanger, Elena; Hahn, Udo}
-title = {Building a BioWordNet Using WordNet Data Structures and WordNet’s Software Infrastructure–A Failure Story}
+title = {Building a BioWordNet Using WordNet Data Structures and WordNetâs Software InfrastructureâA Failure Story}
 venue = {Software Engineering, Testing, and Quality Assurance for Natural Language Processing}
 year = {2008}
 
@@ -9749,13 +9749,13 @@ venue = {Software Engineering, Testing, and Quality Assurance for Natural Langua
 year = {2008}
 
 id = {W08-0512}
-author = {Martins, Filipe M.; Mendes, Ana; Viveiros, M�cio Freitas; Pardal, Joana Paulo; Arez, Pedro; Mamede, Nuno; Neto, Jo�o Paulo}
+author = {Martins, Filipe M.; Mendes, Ana; Viveiros, Mácio Freitas; Pardal, Joana Paulo; Arez, Pedro; Mamede, Nuno; Neto, João Paulo}
 title = {Reengineering a Domain-Independent Framework for Spoken Dialogue Systems}
 venue = {Software Engineering, Testing, and Quality Assurance for Natural Language Processing}
 year = {2008}
 
 id = {W08-0601}
-author = {Airola, Antti; Pyysalo, Sampo; Bj�rne, Jari; Pahikkala, Tapio; Ginter, Filip; Salakoski, Tapio}
+author = {Airola, Antti; Pyysalo, Sampo; Björne, Jari; Pahikkala, Tapio; Ginter, Filip; Salakoski, Tapio}
 title = {A Graph Kernel for Protein-Protein Interaction Extraction}
 venue = {Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing}
 year = {2008}
@@ -9785,7 +9785,7 @@ venue = {Proceedings of the Workshop on Current Trends in Biomedical Natural Lan
 year = {2008}
 
 id = {W08-0606}
-author = {Szarvas, Gy�rgy; Vincze, Veronika; Farkas, Rich�rd; Csirik, J�nos}
+author = {Szarvas, György; Vincze, Veronika; Farkas, Richárd; Csirik, János}
 title = {The BioScope corpus: annotation for negation, uncertainty and their scope in biomedical texts}
 venue = {Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing}
 year = {2008}
@@ -9857,7 +9857,7 @@ venue = {Proceedings of the Workshop on Current Trends in Biomedical Natural Lan
 year = {2008}
 
 id = {W08-0618}
-author = {Segura-Bedmar, Isabel; Mart�nez, Paloma; Samy, Doaa}
+author = {Segura-Bedmar, Isabel; Martínez, Paloma; Samy, Doaa}
 title = {A preliminary approach to extract drugs by combining UMLS resources and USAN naming conventions}
 venue = {Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing}
 year = {2008}
@@ -9881,7 +9881,7 @@ venue = {Proceedings of the Workshop on Current Trends in Biomedical Natural Lan
 year = {2008}
 
 id = {W08-0622}
-author = {Neves, Mariana; Chagoyen, Monica; Carazo, Jos� Mar�a; Pascual-Montano, Alberto}
+author = {Neves, Mariana; Chagoyen, Monica; Carazo, José María; Pascual-Montano, Alberto}
 title = {CBR-Tagger: a case-based reasoning approach to the gene/protein mention problem}
 venue = {Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing}
 year = {2008}
@@ -9911,7 +9911,7 @@ venue = {Proceedings of the Workshop on Current Trends in Biomedical Natural Lan
 year = {2008}
 
 id = {W08-0627}
-author = {Wang, Yue; Yoshida, Kazuhiro; Kim, Jin-Dong; Sætre, Rune; Tsujii, Jun'ichi}
+author = {Wang, Yue; Yoshida, Kazuhiro; Kim, Jin-Dong; SÃŠtre, Rune; Tsujii, Jun'ichi}
 title = {Raising the Compatibility of Heterogeneous Annotations: A Case Study on}
 venue = {Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing}
 year = {2008}
@@ -9959,7 +9959,7 @@ venue = {Proceedings of the Tenth Meeting of ACL Special Interest Group on Compu
 year = {2008}
 
 id = {W08-0707}
-author = {Parker Jones, ‘Ōiwi}
+author = {Parker Jones, âÅiwi}
 title = {Phonotactic Probability and the Maori Passive: A Computational Approach}
 venue = {Proceedings of the Tenth Meeting of ACL Special Interest Group on Computational Morphology and Phonology}
 year = {2008}
@@ -10044,7 +10044,7 @@ year = {2008}
 
 id = {W08-0906}
 author = {Bernhard, Delphine; Gurevych, Iryna}
-title = {Answering Learners’ Questions by Retrieving Question Paraphrases from Social Q&A Sites}
+title = {Answering Learnersâ Questions by Retrieving Question Paraphrases from Social Q&A Sites}
 venue = {Proceedings of the Third Workshop on Innovative Use of NLP for Building Educational Applications}
 year = {2008}
 
@@ -10133,7 +10133,7 @@ venue = {Proceedings of the Workshop on Parsing German}
 year = {2008}
 
 id = {W08-1008}
-author = {K�bler, Sandra}
+author = {Kübler, Sandra}
 title = {The PaGe 2008 Shared Task on Parsing German}
 venue = {Proceedings of the Workshop on Parsing German}
 year = {2008}
@@ -11351,7 +11351,7 @@ venue = {Computational Linguistics}
 year = {1988}
 
 id = {J88-3006}
-author = {Paris, Cécile L.}
+author = {Paris, CÃ©cile L.}
 title = {Tailoring Object Descriptions To A User's Level Of Expertise}
 venue = {Computational Linguistics}
 year = {1988}
@@ -11933,7 +11933,7 @@ venue = {Computational Linguistics}
 year = {1993}
 
 id = {J93-4004}
-author = {Moore, Johanna D.; Paris, Cécile L.}
+author = {Moore, Johanna D.; Paris, CÃ©cile L.}
 title = {Planning Text For Advisory Dialogues: Capturing Intentional And Rhetorical Information}
 venue = {Computational Linguistics}
 year = {1993}
@@ -12131,7 +12131,7 @@ venue = {Computational Linguistics}
 year = {1995}
 
 id = {J95-1004}
-author = {Hajicov�, Eva; Sgall, Petr; Skoumalova, Hana}
+author = {Hajicová, Eva; Sgall, Petr; Skoumalova, Hana}
 title = {An Automatic Procedure For Topic-Focus Identification}
 venue = {Computational Linguistics}
 year = {1995}
@@ -13007,7 +13007,7 @@ venue = {Computational Linguistics}
 year = {2001}
 
 id = {J02-1001}
-author = {Branco, Ant�nio H.}
+author = {Branco, António H.}
 title = {Binding Machines}
 venue = {Computational Linguistics}
 year = {2002}
@@ -14753,7 +14753,7 @@ venue = {International Conference On Computational Linguistics And Annual Meetin
 year = {1984}
 
 id = {P84-1061}
-author = {Hajicov�, Eva; Hnatkova, Milena}
+author = {Hajicová, Eva; Hnatkova, Milena}
 title = {Inferencing On Linguistically Based Semantic Structures}
 venue = {International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics}
 year = {1984}
@@ -15257,7 +15257,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1985}
 
 id = {P85-1029}
-author = {Paris, Cécile L.}
+author = {Paris, CÃ©cile L.}
 title = {Description Strategies For Naive And Expert Users}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1985}
@@ -15653,7 +15653,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1987}
 
 id = {P87-1014}
-author = {McKeown, Kathleen R.; Paris, Cécile L.}
+author = {McKeown, Kathleen R.; Paris, CÃ©cile L.}
 title = {Functional Unification Grammar Revisited}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1987}
@@ -16133,7 +16133,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1989}
 
 id = {P89-1025}
-author = {Moore, Johanna D.; Paris, Cécile L.}
+author = {Moore, Johanna D.; Paris, CÃ©cile L.}
 title = {Planning Text For Advisory Dialogues}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1989}
@@ -16187,7 +16187,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1989}
 
 id = {P89-1034}
-author = {Gardent, Claire; Bias, Gabriel G.; Jurie, Pierre Fran�ois; Baschung, Karine}
+author = {Gardent, Claire; Bias, Gabriel G.; Jurie, Pierre François; Baschung, Karine}
 title = {Efficient Parsing For French}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1989}
@@ -18167,7 +18167,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1996}
 
 id = {P96-1026}
-author = {Hartley, Anthony; Paris, Cécile L.}
+author = {Hartley, Anthony; Paris, CÃ©cile L.}
 title = {Two Sources Of Control Over The Generation Of Software Instructions}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1996}
@@ -18545,7 +18545,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1997}
 
 id = {P97-1031}
-author = {M�rquez, Lluis; Padro, Lluis}
+author = {Màrquez, Lluis; Padro, Lluis}
 title = {A Flexible POS Tagger Using An Automatically Acquired Language Model}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1997}
@@ -18689,7 +18689,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1997}
 
 id = {P97-1055}
-author = {Yvon, Fran�ois}
+author = {Yvon, François}
 title = {Paradigmatic Cascades: A Linguistically Sound Model Of Pronunciation By Analogy}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {1997}
@@ -18959,7 +18959,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics And Int
 year = {1998}
 
 id = {P98-1027}
-author = {Branco, Ant�nio H.}
+author = {Branco, António H.}
 title = {The Logical Structure Of Binding}
 venue = {Annual Meeting Of The Association For Computational Linguistics And International Conference On Computational Linguistics}
 year = {1998}
@@ -19097,7 +19097,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics And Int
 year = {1998}
 
 id = {P98-1050}
-author = {Dimitrova, Ludmila; Erjavec, Tomaš; Ide, Nancy M.; Kaalep, Heiki-Jaan; Petkevic, Vladimir; Tufis, Dan}
+author = {Dimitrova, Ludmila; Erjavec, TomaÅ¡; Ide, Nancy M.; Kaalep, Heiki-Jaan; Petkevic, Vladimir; Tufis, Dan}
 title = {Multext-East: Parallel And Comparable Corpora And Lexicons For Six Central And Eastern European Languages}
 venue = {Annual Meeting Of The Association For Computational Linguistics And International Conference On Computational Linguistics}
 year = {1998}
@@ -19169,13 +19169,13 @@ venue = {Annual Meeting Of The Association For Computational Linguistics And Int
 year = {1998}
 
 id = {P98-1062}
-author = {Ezeiza, Nerea; Alegria, I�aki; Arriola, Jose Maria; Urizar, Ruben; Aduriz, Itziar}
+author = {Ezeiza, Nerea; Alegria, Iï¿œaki; Arriola, Jose Maria; Urizar, Ruben; Aduriz, Itziar}
 title = {Combining Stochastic And Rule-Based Methods For Disambiguation In Agglutinative Languages: Extra}
 venue = {Annual Meeting Of The Association For Computational Linguistics And International Conference On Computational Linguistics}
 year = {1998}
 
 id = {P98-1063}
-author = {Ezeiza, Nerea; Alegria, I�aki; Arriola, Jose Maria; Urizar, Ruben; Aduriz, Itziar}
+author = {Ezeiza, Nerea; Alegria, Iï¿œaki; Arriola, Jose Maria; Urizar, Ruben; Aduriz, Itziar}
 title = {Combining Stochastic And Rule-Based Methods For Disambiguation In Agglutinative Languages}
 venue = {Annual Meeting Of The Association For Computational Linguistics And International Conference On Computational Linguistics}
 year = {1998}
@@ -19781,7 +19781,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics And Int
 year = {1998}
 
 id = {P98-2164}
-author = {Padro, Lluis; M�rquez, Lluis}
+author = {Padro, Lluis; Màrquez, Lluis}
 title = {On The Evaluation And Comparison Of Taggers: The Effect Of Noise In Testing Corpora}
 venue = {Annual Meeting Of The Association For Computational Linguistics And International Conference On Computational Linguistics}
 year = {1998}
@@ -21491,7 +21491,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2001}
 
 id = {P01-1036}
-author = {Hajicov�, Eva; Sgall, Petr}
+author = {Hajicová, Eva; Sgall, Petr}
 title = {Topic-Focus And Salience}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2001}
@@ -22037,7 +22037,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2002}
 
 id = {P02-1057}
-author = {Daum� III, Hal; Marcu, Daniel}
+author = {Daumé III, Hal; Marcu, Daniel}
 title = {A Noisy-Channel Model For Document Compression}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2002}
@@ -22601,7 +22601,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics - Inter
 year = {2003}
 
 id = {P03-2017}
-author = {Dymetman, Marc; Max, Aur�lien; Yamada, Kenji}
+author = {Dymetman, Marc; Max, Aurélien; Yamada, Kenji}
 title = {Towards Interactive Text Understanding}
 venue = {Annual Meeting Of The Association For Computational Linguistics - Interactive Posters And Demonstrations}
 year = {2003}
@@ -23441,7 +23441,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics - Inter
 year = {2004}
 
 id = {P04-3016}
-author = {Alonso, Laura; Castell�n, Irene; Casas, Bernardino; Padro, Lluis}
+author = {Alonso, Laura; Castellï¿œn, Irene; Casas, Bernardino; Padro, Lluis}
 title = {Knowledge Intensive E-Mail Summarization In CARPANTA}
 venue = {Annual Meeting Of The Association For Computational Linguistics - Interactive Poster And Demonstration Sessions}
 year = {2004}
@@ -24587,7 +24587,7 @@ venue = {International Conference On Computational Linguistics And Annual Meetin
 year = {2006}
 
 id = {P06-1039}
-author = {Daum� III, Hal; Marcu, Daniel}
+author = {Daumé III, Hal; Marcu, Daniel}
 title = {Bayesian Query-Focused Summarization}
 venue = {International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics}
 year = {2006}
@@ -24605,7 +24605,7 @@ venue = {International Conference On Computational Linguistics And Annual Meetin
 year = {2006}
 
 id = {P06-1042}
-author = {Sagot, Beno�t; De La Clergerie, Eric Villemonte}
+author = {Sagot, Benoît; De La Clergerie, Eric Villemonte}
 title = {Error Mining In Parsing Results}
 venue = {International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics}
 year = {2006}
@@ -24761,7 +24761,7 @@ venue = {International Conference On Computational Linguistics And Annual Meetin
 year = {2006}
 
 id = {P06-1068}
-author = {Hulth, Anette; Megyesi, Be�ta}
+author = {Hulth, Anette; Megyesi, Beáta}
 title = {A Study On Automatically Extracted Keywords In Text Categorization}
 venue = {International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics}
 year = {2006}
@@ -24929,7 +24929,7 @@ venue = {International Conference On Computational Linguistics And Annual Meetin
 year = {2006}
 
 id = {P06-1096}
-author = {Liang, Percy; Bouchard-C�t�, Alexandre; Klein, Dan; Taskar, Ben}
+author = {Liang, Percy; Bouchard-Côté, Alexandre; Klein, Dan; Taskar, Ben}
 title = {An End-To-End Discriminative Approach To Machine Translation}
 venue = {International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics}
 year = {2006}
@@ -25241,7 +25241,7 @@ venue = {International Conference On Computational Linguistics And Annual Meetin
 year = {2006}
 
 id = {P06-2001}
-author = {Alegria, I�aki; Arrieta, Bertol; De Ilarraza Sanchez, Arantza Diaz; Izagirre, Eli; Maritxalar, Montse}
+author = {Alegria, Iï¿œaki; Arrieta, Bertol; De Ilarraza Sanchez, Arantza Diaz; Izagirre, Eli; Maritxalar, Montse}
 title = {Using Machine Learning Techniques To Build A Comma Checker For Basque}
 venue = {International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics - Poster Sessions}
 year = {2006}
@@ -25253,7 +25253,7 @@ venue = {International Conference On Computational Linguistics And Annual Meetin
 year = {2006}
 
 id = {P06-2003}
-author = {Amigo, Enrique; Gimenez, Jesus; Gonzalo, Julio; M�rquez, Lluis}
+author = {Amigo, Enrique; Gimenez, Jesus; Gonzalo, Julio; Màrquez, Lluis}
 title = {MT Evaluation: Human-Like Vs. Human Acceptable}
 venue = {International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics - Poster Sessions}
 year = {2006}
@@ -25457,7 +25457,7 @@ venue = {International Conference On Computational Linguistics And Annual Meetin
 year = {2006}
 
 id = {P06-2037}
-author = {Gimenez, Jesus; M�rquez, Lluis}
+author = {Gimenez, Jesus; Màrquez, Lluis}
 title = {Low-Cost Enrichment Of Spanish WordNet With Automatically Translated Glosses: Combining General And Specialized Models}
 venue = {International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics - Poster Sessions}
 year = {2006}
@@ -25901,7 +25901,7 @@ venue = {International Conference On Computational Linguistics And Annual Meetin
 year = {2006}
 
 id = {P06-2111}
-author = {Van Der Plas, Lonneke; Tiedemann, J�rg}
+author = {Van Der Plas, Lonneke; Tiedemann, Jörg}
 title = {Finding Synonyms Using Automatic Word Alignment And Measures Of Distributional Similarity}
 venue = {International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics - Poster Sessions}
 year = {2006}
@@ -26327,7 +26327,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1965}
 
 id = {C65-1029}
-author = {Varga, D�niel}
+author = {Varga, Dániel}
 title = {Syntactic Analysis In The Case Of Highly Inflecting Languages}
 venue = {International Conference On Computational Linguistics}
 year = {1965}
@@ -26927,7 +26927,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1969}
 
 id = {C69-6101}
-author = {Varga, D�niel}
+author = {Varga, Dániel}
 title = {Problem Of Improving The Efficiency Of Parsing Systems}
 venue = {International Conference On Computational Linguistics}
 year = {1969}
@@ -26969,7 +26969,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1969}
 
 id = {C69-6207}
-author = {Hajicov�, Eva}
+author = {Hajicová, Eva}
 title = {On Semantics Of Some Verbal Categories In English}
 venue = {International Conference On Computational Linguistics}
 year = {1969}
@@ -27101,7 +27101,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1969}
 
 id = {C69-7501}
-author = {Sgall, Petr; Hajicov�, Eva}
+author = {Sgall, Petr; Hajicová, Eva}
 title = {Some Remarks On J. L. Mey's Paper (Preprint No. 20)}
 venue = {International Conference On Computational Linguistics}
 year = {1969}
@@ -27557,7 +27557,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1980}
 
 id = {C80-1011}
-author = {Hajicov�, Eva; Sgall, Petr}
+author = {Hajicová, Eva; Sgall, Petr}
 title = {Linguistic Meaning And Knowledge Representation In Automatic Understanding Of Natural Language}
 venue = {International Conference On Computational Linguistics}
 year = {1980}
@@ -28145,7 +28145,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1982}
 
 id = {C82-1017}
-author = {Hajicov�, Eva; Vrbova, Jarka}
+author = {Hajicová, Eva; Vrbova, Jarka}
 title = {The Role Of The Hierarchy Of Activation In The Process Of Natural Language Understanding}
 venue = {International Conference On Computational Linguistics}
 year = {1982}
@@ -29141,7 +29141,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1986}
 
 id = {C86-1044}
-author = {Hajicov�, Eva; Sgall, Petr}
+author = {Hajicová, Eva; Sgall, Petr}
 title = {Degrees Of Understanding}
 venue = {International Conference On Computational Linguistics}
 year = {1986}
@@ -29633,7 +29633,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1986}
 
 id = {C86-1126}
-author = {Lancel, Jean-Marie; Rousselot, François; Simonin, Nathalie}
+author = {Lancel, Jean-Marie; Rousselot, FranÃ§ois; Simonin, Nathalie}
 title = {A Grammar Used For Parsing And Generation}
 venue = {International Conference On Computational Linguistics}
 year = {1986}
@@ -30377,7 +30377,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1988}
 
 id = {C88-2094}
-author = {Hajicov�, Eva}
+author = {Hajicová, Eva}
 title = {Reasons Why We Use Dependency Grammar}
 venue = {International Conference On Computational Linguistics}
 year = {1988}
@@ -31541,7 +31541,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1990}
 
 id = {C90-3026}
-author = {Hajicov�, Eva; Kubon, Petr; Kubon, Vladislav}
+author = {Hajicová, Eva; Kubon, Petr; Kubon, Vladislav}
 title = {Hierarchy Of Salience And Discourse Analysis And Production}
 venue = {International Conference On Computational Linguistics}
 year = {1990}
@@ -31799,7 +31799,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1990}
 
 id = {C90-3069}
-author = {Erjavec, Tomaš; Tancig, Peter}
+author = {Erjavec, TomaÅ¡; Tancig, Peter}
 title = {An Integrated System For Morphological Analysis Of The Slovene Language}
 venue = {International Conference On Computational Linguistics}
 year = {1990}
@@ -32117,7 +32117,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1992}
 
 id = {C92-1023}
-author = {Hajicov�, Eva; Kubon, Vladislav; Kubon, Petr}
+author = {Hajicová, Eva; Kubon, Vladislav; Kubon, Petr}
 title = {Stock Of Shared Knowledge - A Tool For Solving Pronominal Anaphora}
 venue = {International Conference On Computational Linguistics}
 year = {1992}
@@ -32417,7 +32417,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1992}
 
 id = {C92-2074}
-author = {Rousselot, François; Ensais, B. Migault}
+author = {Rousselot, FranÃ§ois; Ensais, B. Migault}
 title = {Elaboration De Techniques D'analyse Adaptees A La Construction D'une Base De Connaissances}
 venue = {International Conference On Computational Linguistics}
 year = {1992}
@@ -32477,7 +32477,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1992}
 
 id = {C92-2084}
-author = {Rosen, Alexandr; Hajicov�, Eva; Hajic, Jan}
+author = {Rosen, Alexandr; Hajicová, Eva; Hajic, Jan}
 title = {Derivation Of Underlying Valency Frames From A Learner's Dictionary}
 venue = {International Conference On Computational Linguistics}
 year = {1992}
@@ -32825,7 +32825,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1992}
 
 id = {C92-3143}
-author = {Chanod, Jean-Pierre; El-B�ze, Marc; Guillemin-Lanne, Sylvie}
+author = {Chanod, Jean-Pierre; El-Bèze, Marc; Guillemin-Lanne, Sylvie}
 title = {Coupling An Automatic Dictation System With A Grammar Checker}
 venue = {International Conference On Computational Linguistics}
 year = {1992}
@@ -33761,7 +33761,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1994}
 
 id = {C94-1084}
-author = {Daille, B�atrice; Gaussier, Eric; Lange, Jean-Marc}
+author = {Daille, Béatrice; Gaussier, Eric; Lange, Jean-Marc}
 title = {Towards Automatic Extraction Of Monolingual And Bilingual Terminology}
 venue = {International Conference On Computational Linguistics}
 year = {1994}
@@ -34505,7 +34505,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1994}
 
 id = {C94-2208}
-author = {Proszeky, Gabor; Pal, Miklos; Tihanyi, L�szl�}
+author = {Proszeky, Gabor; Pal, Miklos; Tihanyi, László}
 title = {Humor-Based Applications}
 venue = {International Conference On Computational Linguistics}
 year = {1994}
@@ -34691,7 +34691,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1996}
 
 id = {C96-1027}
-author = {Branco, Ant�nio H.}
+author = {Branco, António H.}
 title = {Branching Split Obliqueness At The Syntax-Semantics Interface}
 venue = {International Conference On Computational Linguistics}
 year = {1996}
@@ -35267,7 +35267,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1996}
 
 id = {C96-2124}
-author = {Paris, Cécile L.; Vander Linden, Keith}
+author = {Paris, CÃ©cile L.; Vander Linden, Keith}
 title = {Building Knowledge Bases For The Generation Of Software Documentation}
 venue = {International Conference On Computational Linguistics}
 year = {1996}
@@ -35807,7 +35807,7 @@ venue = {International Conference On Computational Linguistics}
 year = {1996}
 
 id = {C00-1001}
-author = {Aduriz, Itziar; Agirre, Eneko; Aldezabal, Izaskun; Alegria, I�aki; Arregi, Xabier; Arriola, Jose Maria; Artola, Xabier; Gojenola, Koldo; Maritxalar, Montse; Sarasola, Kepa; Urkia, Miriam}
+author = {Aduriz, Itziar; Agirre, Eneko; Aldezabal, Izaskun; Alegria, Iï¿œaki; Arregi, Xabier; Arriola, Jose Maria; Artola, Xabier; Gojenola, Koldo; Maritxalar, Montse; Sarasola, Kepa; Urkia, Miriam}
 title = {A Word-Grammar Based Morphological Analyzer For Agglutinative Languages}
 venue = {International Conference On Computational Linguistics}
 year = {2000}
@@ -35897,7 +35897,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2000}
 
 id = {C00-1016}
-author = {Branco, Ant�nio H.}
+author = {Branco, António H.}
 title = {Binding Constraints As Instructions Of Binding Machines}
 venue = {International Conference On Computational Linguistics}
 year = {2000}
@@ -35927,7 +35927,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2000}
 
 id = {C00-1021}
-author = {Buranova, Eva; Hajicov�, Eva; Sgall, Petr}
+author = {Buranova, Eva; Hajicová, Eva; Sgall, Petr}
 title = {Tagging Of Very Large Corpora: Topic-Focus Articulation}
 venue = {International Conference On Computational Linguistics}
 year = {2000}
@@ -35993,7 +35993,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2000}
 
 id = {C00-1032}
-author = {Daille, B�atrice}
+author = {Daille, Béatrice}
 title = {Morphological Rule Induction For Terminology Acquisition}
 venue = {International Conference On Computational Linguistics}
 year = {2000}
@@ -36047,7 +36047,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2000}
 
 id = {C00-1041}
-author = {Hajicov�, Eva; Ceplova, Marketa}
+author = {Hajicová, Eva; Ceplova, Marketa}
 title = {Deletions And Their Reconstruction In Tectogrammatical Syntactic Tagging Of Very Large Corpora}
 venue = {International Conference On Computational Linguistics}
 year = {2000}
@@ -37517,7 +37517,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2002}
 
 id = {C02-1112}
-author = {Martinez, David; Agirre, Eneko; M�rquez, Lluis}
+author = {Martinez, David; Agirre, Eneko; Màrquez, Lluis}
 title = {Syntactic Features For High Precision Word Sense Disambiguation}
 venue = {International Conference On Computational Linguistics}
 year = {2002}
@@ -38219,7 +38219,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2004}
 
 id = {C04-1031}
-author = {Tiedemann, J�rg}
+author = {Tiedemann, Jörg}
 title = {Word To Word Alignment Strategies}
 venue = {International Conference On Computational Linguistics}
 year = {2004}
@@ -38285,7 +38285,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2004}
 
 id = {C04-1042}
-author = {Vesela, Katerina; Havelka, Jiri; Hajicov�, Eva}
+author = {Vesela, Katerina; Havelka, Jiri; Hajicová, Eva}
 title = {Condition Of Projectivity In The Underlying Dependency Structures}
 venue = {International Conference On Computational Linguistics}
 year = {2004}
@@ -39029,7 +39029,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2004}
 
 id = {C04-1166}
-author = {Max, Aur�lien}
+author = {Max, Aurélien}
 title = {From Controlled Document Authoring To Interactive Document Normalization}
 venue = {International Conference On Computational Linguistics}
 year = {2004}
@@ -39281,7 +39281,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {1983}
 
 id = {E83-1004}
-author = {Hajicov�, Eva; Sgall, Petr}
+author = {Hajicová, Eva; Sgall, Petr}
 title = {Structure Of Sentence And Inferencing In Question Answering}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {1983}
@@ -39455,7 +39455,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {1983}
 
 id = {E85-1001}
-author = {Kornai, Andr�s}
+author = {Kornai, András}
 title = {Natural Languages And The Chomsky Hierarchy}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {1985}
@@ -39677,7 +39677,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {1985}
 
 id = {E85-1039}
-author = {Hajicov�, Eva; Sgall, Petr}
+author = {Hajicová, Eva; Sgall, Petr}
 title = {Towards An Automatic Identification Of Topic And Focus}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {1985}
@@ -39803,7 +39803,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {1987}
 
 id = {E87-1019}
-author = {Hajicov�, Eva; Kirschner, Zdenek}
+author = {Hajicová, Eva; Kirschner, Zdenek}
 title = {Fail-Soft ("Emergency") Measures In A Production-Oriented MT System}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {1987}
@@ -40703,7 +40703,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {1993}
 
 id = {E93-1022}
-author = {Hajicov�, Eva; Sgall, Petr; Skoumalova, Hana}
+author = {Hajicová, Eva; Sgall, Petr; Skoumalova, Hana}
 title = {Identifying Topic And Focus By An Automatic Procedure}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {1993}
@@ -40901,7 +40901,7 @@ venue = {Conference Of The European Association For Computational Linguistics - 
 year = {1993}
 
 id = {E93-1057}
-author = {Aduriz, Itziar; Agirre, Eneko; Alegria, I�aki; Arregi, Xabier; Arriola, Jose Maria; Artola, Xabier; De Ilarraza Sanchez, Arantza Diaz; Ezeiza, Nerea; Maritxalar, Montse; Sarasola, Kepa; Urkia, Miriam}
+author = {Aduriz, Itziar; Agirre, Eneko; Alegria, Iï¿œaki; Arregi, Xabier; Arriola, Jose Maria; Artola, Xabier; De Ilarraza Sanchez, Arantza Diaz; Ezeiza, Nerea; Maritxalar, Montse; Sarasola, Kepa; Urkia, Miriam}
 title = {A Morphological Analysis Based Method For Spelling Correction}
 venue = {Conference Of The European Association For Computational Linguistics - Poster Session}
 year = {1993}
@@ -40961,7 +40961,7 @@ venue = {Conference Of The European Association For Computational Linguistics - 
 year = {1993}
 
 id = {E93-1067}
-author = {Proszeky, Gabor; Tihanyi, L�szl�}
+author = {Proszeky, Gabor; Tihanyi, László}
 title = {Helyette: Inflectional Thesaurus For Agglutinative Languages}
 venue = {Conference Of The European Association For Computational Linguistics - Poster Session}
 year = {1993}
@@ -41489,7 +41489,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {1999}
 
 id = {E99-1040}
-author = {Aldezabal, Izaskun; Alegria, I�aki; Ansa, Olatz; Arriola, Jose Maria; Ezeiza, Nerea}
+author = {Aldezabal, Izaskun; Alegria, Iï¿œaki; Ansa, Olatz; Arriola, Jose Maria; Ezeiza, Nerea}
 title = {Designing Spelling Correctors For Inflected Languages Using Lexical Transducers}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {1999}
@@ -41633,7 +41633,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {2003}
 
 id = {E03-1012}
-author = {Alexin, Zoltan; Gyimothy, Tibor; Hatvani, Csaba; Tihanyi, L�szl�; Csirik, J�nos; Bibok, Karoly; Proszeky, Gabor}
+author = {Alexin, Zoltan; Gyimothy, Tibor; Hatvani, Csaba; Tihanyi, László; Csirik, János; Bibok, Karoly; Proszeky, Gabor}
 title = {Manually Annotated Hungarian Corpus}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {2003}
@@ -41711,7 +41711,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {2003}
 
 id = {E03-1026}
-author = {Tiedemann, J�rg}
+author = {Tiedemann, Jörg}
 title = {Combining Clues For Word Alignment}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {2003}
@@ -41783,7 +41783,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {2003}
 
 id = {E03-1038}
-author = {Carreras, Xavier; M�rquez, Lluis; Padro, Lluis}
+author = {Carreras, Xavier; Màrquez, Lluis; Padro, Lluis}
 title = {Named Entity Recognition For Catalan Using Only Spanish Resources And Unlabelled Data}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {2003}
@@ -41891,7 +41891,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {2003}
 
 id = {E03-1056}
-author = {Kornai, Andr�s; Krellenstein, Marc; Mulligan, Michael; Twomey, David; Veress, Fruzsina; Wysoker, Alec}
+author = {Kornai, András; Krellenstein, Marc; Mulligan, Michael; Twomey, David; Veress, Fruzsina; Wysoker, Alec}
 title = {Classifying The Hungarian Web}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {2003}
@@ -41939,7 +41939,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {2003}
 
 id = {E03-1064}
-author = {Orăsan, Constantin; Tatar, Doina; Seban, Gabriela; Avram, Dana; Onet, Adrian}
+author = {OrÄsan, Constantin; Tatar, Doina; Seban, Gabriela; Avram, Dana; Onet, Adrian}
 title = {How To Build A QA System In Your Back-Garden: Application For Romanian}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {2003}
@@ -41951,7 +41951,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {2003}
 
 id = {E03-1066}
-author = {Orăsan, Constantin; Mitkov, Ruslan; Hasler, Laura}
+author = {OrÄsan, Constantin; Mitkov, Ruslan; Hasler, Laura}
 title = {CAST: A Computer-Aided Summarisation Tool}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {2003}
@@ -42221,7 +42221,7 @@ venue = {Conference Of The European Association For Computational Linguistics - 
 year = {2003}
 
 id = {E03-3006}
-author = {Max, Aur�lien}
+author = {Max, Aurélien}
 title = {Reversing Controlled Document Authoring To Normalize Documents}
 venue = {Conference Of The European Association For Computational Linguistics - Student Research Workshop}
 year = {2003}
@@ -42341,7 +42341,7 @@ venue = {Conference Of The European Association For Computational Linguistics}
 year = {2006}
 
 id = {E06-1020}
-author = {Tufis, Dan; Ion, Radu; Ceauşu, Alexandru; Ştefanescu, Dan}
+author = {Tufis, Dan; Ion, Radu; CeauÅu, Alexandru; Åtefanescu, Dan}
 title = {Improved Lexical Alignment By Combining Multiple Reified Alignments}
 venue = {Conference Of The European Association For Computational Linguistics}
 year = {2006}
@@ -42677,7 +42677,7 @@ venue = {Conference Of The European Association For Computational Linguistics - 
 year = {2006}
 
 id = {E06-2024}
-author = {Branco, Ant�nio H.; Silva, Jo�o}
+author = {Branco, António H.; Silva, João}
 title = {A Suite Of Shallow Processing Tools For Portuguese: LX-Suite}
 venue = {Conference Of The European Association For Computational Linguistics - Demonstrations}
 year = {2006}
@@ -44093,7 +44093,7 @@ venue = {Human Language Technology Conference And Meeting Of The North American 
 year = {2004}
 
 id = {N04-4013}
-author = {Daum� III, Hal; Brill, Eric}
+author = {Daumé III, Hal; Brill, Eric}
 title = {Web Search Intent Induction Via Automatic Query Reformulation}
 venue = {Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Short Papers}
 year = {2004}
@@ -44309,7 +44309,7 @@ venue = {Human Language Technology Conference And Meeting Of The North American 
 year = {2006}
 
 id = {N06-1009}
-author = {Sibanda, Tawanda; Uzuner, �zlem}
+author = {Sibanda, Tawanda; Uzuner, Özlem}
 title = {Role Of Local Context In Automatic Deidentification Of Ungrammatical, Fragmented Text}
 venue = {Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics}
 year = {2006}
@@ -44759,7 +44759,7 @@ venue = {Human Language Technology Conference And Meeting Of The North American 
 year = {2006}
 
 id = {N06-2022}
-author = {Mairesse, Fran�ois; Walker, Marilyn A.}
+author = {Mairesse, François; Walker, Marilyn A.}
 title = {Automatic Recognition Of Personality In Conversation}
 venue = {Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Short Papers}
 year = {2006}
@@ -45071,7 +45071,7 @@ venue = {Human Language Technology Conference And Meeting Of The North American 
 year = {2006}
 
 id = {N06-5002}
-author = {Daum� III, Hal}
+author = {Daumé III, Hal}
 title = {Beyond EM: Bayesian Techniques For Human Language Technology Researchers}
 venue = {Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Tutorial Abstracts}
 year = {2006}
@@ -46367,7 +46367,7 @@ venue = {Applied Natural Language Processing Conference}
 year = {1992}
 
 id = {A92-1016}
-author = {Agirre, Eneko; Alegria, I�aki; Arregi, Xabier; Artola, Xabier; De Ilarraza Sanchez, Arantza Diaz; Maritxalar, Montse; Sarasola, Kepa; Urkia, Miriam}
+author = {Agirre, Eneko; Alegria, Iï¿œaki; Arregi, Xabier; Artola, Xabier; De Ilarraza Sanchez, Arantza Diaz; Maritxalar, Montse; Sarasola, Kepa; Urkia, Miriam}
 title = {XUXEN: A Spelling Checker/Corrector For Basque Based On Two-Level Morphology}
 venue = {Applied Natural Language Processing Conference}
 year = {1992}
@@ -46535,7 +46535,7 @@ venue = {Applied Natural Language Processing Conference}
 year = {1992}
 
 id = {A92-1044}
-author = {Ageno, Alicia; Castell�n, Irene; Marti, M. Antonia; Rigau, German; Ribas Framis, Francesc; Rodriguez, Horacio; Taul�, Mariona; Verdejo, M. Felisa}
+author = {Ageno, Alicia; Castellï¿œn, Irene; Marti, M. Antonia; Rigau, German; Ribas Framis, Francesc; Rodriguez, Horacio; Taulé, Mariona; Verdejo, M. Felisa}
 title = {SEISD: An Environment For Extraction Of Semantic Information From On-Line Dictionaries}
 venue = {Applied Natural Language Processing Conference}
 year = {1992}
@@ -53129,7 +53129,7 @@ venue = {Human Language Technology Conference}
 year = {2001}
 
 id = {H01-1039}
-author = {Nyberg, Eric H.; Daum� III, Hal}
+author = {Nyberg, Eric H.; Daumé III, Hal}
 title = {Integrated Information Management: An Interactive, Extensible Architecture For Information Retrieval}
 venue = {Human Language Technology Conference}
 year = {2001}
@@ -53423,7 +53423,7 @@ venue = {Human Language Technology Conference And Empirical Methods In Natural L
 year = {2005}
 
 id = {H05-1013}
-author = {Daum� III, Hal; Marcu, Daniel}
+author = {Daumé III, Hal; Marcu, Daniel}
 title = {A Large-Scale Exploration Of Effective Global Features For A Joint Entity Detection And Tracking Model}
 venue = {Human Language Technology Conference And Empirical Methods In Natural Language Processing}
 year = {2005}
@@ -53831,7 +53831,7 @@ venue = {Human Language Technology Conference And Empirical Methods In Natural L
 year = {2005}
 
 id = {H05-1081}
-author = {M�rquez, Lluis; Surdeanu, Mihai; Comas, Pere; Turmo, Jordi}
+author = {Màrquez, Lluis; Surdeanu, Mihai; Comas, Pere; Turmo, Jordi}
 title = {A Robust Combination Strategy For Semantic Role Labeling}
 venue = {Human Language Technology Conference And Empirical Methods In Natural Language Processing}
 year = {2005}
@@ -54053,7 +54053,7 @@ venue = {Human Language Technology Conference And Empirical Methods In Natural L
 year = {2005}
 
 id = {H05-1118}
-author = {Tiedemann, J�rg}
+author = {Tiedemann, Jörg}
 title = {Integrating Linguistic Knowledge In Passage Retrieval For Question Answering}
 venue = {Human Language Technology Conference And Empirical Methods In Natural Language Processing}
 year = {2005}
@@ -55499,7 +55499,7 @@ venue = {Workshop On Intentionality And Structure In Discource Relations}
 year = {1993}
 
 id = {W93-0224}
-author = {Mittal, Vibhu O.; Paris, Cécile L.}
+author = {Mittal, Vibhu O.; Paris, CÃ©cile L.}
 title = {On The Necessity Of Intentions And The Usefulness Of Rhetorical Relations: A Position Paper}
 venue = {Workshop On Intentionality And Structure In Discource Relations}
 year = {1993}
@@ -55697,7 +55697,7 @@ venue = {Workshop On The Balancing Act: Combining Symbolic And Statistical Appro
 year = {1994}
 
 id = {W94-0104}
-author = {Daille, B�atrice}
+author = {Daille, Béatrice}
 title = {Study And Implementation Of Combined Techniques For Automatic Extraction Of Terminology}
 venue = {Workshop On The Balancing Act: Combining Symbolic And Statistical Approaches To Language}
 year = {1994}
@@ -55847,7 +55847,7 @@ venue = {International Workshop On Natural Language Generation}
 year = {1994}
 
 id = {W94-0306}
-author = {Paris, Cécile L.; Scott, Donia R.}
+author = {Paris, CÃ©cile L.; Scott, Donia R.}
 title = {Intentions, Structure And Expression In Multi-Lingual Instructions}
 venue = {International Workshop On Natural Language Generation}
 year = {1994}
@@ -55859,7 +55859,7 @@ venue = {International Workshop On Natural Language Generation}
 year = {1994}
 
 id = {W94-0308}
-author = {Delin, Judy L.; Hartley, Anthony; Paris, Cécile L.; Scott, Donia R.; Vander Linden, Keith}
+author = {Delin, Judy L.; Hartley, Anthony; Paris, CÃ©cile L.; Scott, Donia R.; Vander Linden, Keith}
 title = {Expressing Procedural Relationships In Multilingual Instructions}
 venue = {International Workshop On Natural Language Generation}
 year = {1994}
@@ -57041,7 +57041,7 @@ venue = {Workshop On Interactive Spoken Dialog Systems: Bringing Speech And NLP 
 year = {1997}
 
 id = {W97-0605}
-author = {Bechet, Frederic; Spriet, Thierry; El-B�ze, Marc}
+author = {Bechet, Frederic; Spriet, Thierry; El-Bèze, Marc}
 title = {Automatic Lexicon Enhancement By Means Of Corpus Tagging}
 venue = {Workshop On Interactive Spoken Dialog Systems: Bringing Speech And NLP Together In Real Applications}
 year = {1997}
@@ -58073,7 +58073,7 @@ venue = {Workshop On Processing Of Dependency-Based Grammars}
 year = {1998}
 
 id = {W98-0506}
-author = {Hajicov�, Eva}
+author = {Hajicová, Eva}
 title = {Movement Rules Revisited}
 venue = {Workshop On Processing Of Dependency-Based Grammars}
 year = {1998}
@@ -59501,7 +59501,7 @@ venue = {SIGLEX Workshop On Standardizing Lexical Resources}
 year = {1999}
 
 id = {W99-0504}
-author = {Fernandez, Ana; Marti, M. Antonia; Vazquez, Gloria; Castell�n, Irene}
+author = {Fernandez, Ana; Marti, M. Antonia; Vazquez, Gloria; Castellï¿œn, Irene}
 title = {On The Concept Of Diathesis Alternations As Semantic Oppositions}
 venue = {SIGLEX Workshop On Standardizing Lexical Resources}
 year = {1999}
@@ -59603,7 +59603,7 @@ venue = {Joint SIGDAT Conference On Empirical Methods In Natural Language Proces
 year = {1999}
 
 id = {W99-0608}
-author = {M�rquez, Lluis; Rodriguez, Horacio; Carmona, Josep; Montolio, Josep}
+author = {Màrquez, Lluis; Rodriguez, Horacio; Carmona, Josep; Montolio, Josep}
 title = {Improving POS Tagging Using Machine-Learning Techniques}
 venue = {Joint SIGDAT Conference On Empirical Methods In Natural Language Processing And Very Large Corpora}
 year = {1999}
@@ -59711,7 +59711,7 @@ venue = {Joint SIGDAT Conference On Empirical Methods In Natural Language Proces
 year = {1999}
 
 id = {W99-0626}
-author = {Tiedemann, J�rg}
+author = {Tiedemann, Jörg}
 title = {Automatic Construction Of Weighted String Similarity Measures}
 venue = {Joint SIGDAT Conference On Empirical Methods In Natural Language Processing And Very Large Corpora}
 year = {1999}
@@ -59753,7 +59753,7 @@ venue = {Joint SIGDAT Conference On Empirical Methods In Natural Language Proces
 year = {1999}
 
 id = {W99-0633}
-author = {Megyesi,  Be�ta}
+author = {Megyesi,  Beáta}
 title = {Improving Brill's POS Tagger For An Agglutinative Language}
 venue = {Joint SIGDAT Conference On Empirical Methods In Natural Language Processing And Very Large Corpora}
 year = {1999}
@@ -60257,7 +60257,7 @@ venue = {Conference On Computational Natural Language Learning And Of The Second
 year = {2000}
 
 id = {W00-0706}
-author = {Escudero, Gerard; M�rquez, Lluis; Rigau, German}
+author = {Escudero, Gerard; Màrquez, Lluis; Rigau, German}
 title = {A Comparison Between Supervised Learning Algorithms For Word Sense Disambiguation}
 venue = {Conference On Computational Natural Language Learning And Of The Second Learning Language In Logic Workshop CoNLL And LLL}
 year = {2000}
@@ -60965,7 +60965,7 @@ venue = {Joint SIGDAT Conference On Empirical Methods In Natural Language Proces
 year = {2000}
 
 id = {W00-1322}
-author = {Escudero, Gerard; M�rquez, Lluis; Rigau, German}
+author = {Escudero, Gerard; Màrquez, Lluis; Rigau, German}
 title = {An Empirical Study Of The Domain Dependence Of Supervised Word Disambiguation Systems}
 venue = {Joint SIGDAT Conference On Empirical Methods In Natural Language Processing And Very Large Corpora}
 year = {2000}
@@ -61331,7 +61331,7 @@ venue = {Workshop On Computational Natural Language Learning CoNLL}
 year = {2001}
 
 id = {W01-0716}
-author = {Orăsan, Constantin; Evans, Richard}
+author = {OrÄsan, Constantin; Evans, Richard}
 title = {Learning To Identify Animate References}
 venue = {Workshop On Computational Natural Language Learning CoNLL}
 year = {2001}
@@ -61391,7 +61391,7 @@ venue = {Workshop On Computational Natural Language Learning CoNLL}
 year = {2001}
 
 id = {W01-0726}
-author = {Carreras, Xavier; M�rquez, Lluis}
+author = {Carreras, Xavier; Màrquez, Lluis}
 title = {Boosting Trees For Clause Splitting}
 venue = {Workshop On Computational Natural Language Learning CoNLL}
 year = {2001}
@@ -61883,7 +61883,7 @@ venue = {Workshop On Sharing Tools And Resources}
 year = {2001}
 
 id = {W01-1503}
-author = {Erjavec, Tomaš; Varadi, Tamas}
+author = {Erjavec, TomaÅ¡; Varadi, Tamas}
 title = {The TELRI Tool Catalogue: Structure And Prospects}
 venue = {Workshop On Sharing Tools And Resources}
 year = {2001}
@@ -62729,7 +62729,7 @@ venue = {Workshop On Word Sense Disambiguation: Recent Successes And Future Dire
 year = {2002}
 
 id = {W02-0808}
-author = {Ide, Nancy M.; Erjavec, Tomaš; Tufis, Dan}
+author = {Ide, Nancy M.; Erjavec, TomaÅ¡; Tufis, Dan}
 title = {Sense Discrimination With Parallel Corpora}
 venue = {Workshop On Word Sense Disambiguation: Recent Successes And Future Directions}
 year = {2002}
@@ -63354,7 +63354,7 @@ year = {2002}
 
 id = {W02-1501}
 author = {Bartolini, Roberto; Lenci, Alessandro; Montemagni, Simonetta; Pirrelli, Vito}
-title = {Grammar And Lexicon In The Robust Parsing Of Italian Towards A Non-Na�ve Interplay}
+title = {Grammar And Lexicon In The Robust Parsing Of Italian Towards A Non-Naïve Interplay}
 venue = {Workshop On Grammar Engineering And Evaluation}
 year = {2002}
 
@@ -63761,7 +63761,7 @@ venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2002}
 
 id = {W02-2004}
-author = {Carreras, Xavier; M�rquez, Lluis; Padro, Lluis}
+author = {Carreras, Xavier; Màrquez, Lluis; Padro, Lluis}
 title = {Named Entity Extraction Using AdaBoost}
 venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2002}
@@ -64331,13 +64331,13 @@ venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2003}
 
 id = {W03-0421}
-author = {Carreras, Xavier; M�rquez, Lluis; Padro, Lluis}
+author = {Carreras, Xavier; Màrquez, Lluis; Padro, Lluis}
 title = {A Simple Named Entity Extractor Using AdaBoost}
 venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2003}
 
 id = {W03-0422}
-author = {Carreras, Xavier; M�rquez, Lluis; Padro, Lluis}
+author = {Carreras, Xavier; Màrquez, Lluis; Padro, Lluis}
 title = {Learning A Perceptron-Based Named Entity Chunker Via Online Recognition Feedback}
 venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2003}
@@ -65039,7 +65039,7 @@ venue = {Workshop On Multilingual Summarization And Question Answering}
 year = {2003}
 
 id = {W03-1202}
-author = {Wan, Stephen; Dras, Mark; Paris, Cécile L.; Dale, Robert}
+author = {Wan, Stephen; Dras, Mark; Paris, CÃ©cile L.; Dale, Robert}
 title = {Using Thematic Information In Statistical Headline Generation}
 venue = {Workshop On Multilingual Summarization And Question Answering}
 year = {2003}
@@ -65057,7 +65057,7 @@ venue = {Workshop On Multilingual Summarization And Question Answering}
 year = {2003}
 
 id = {W03-1205}
-author = {Orăsan, Constantin}
+author = {OrÄsan, Constantin}
 title = {An Evolutionary Approach For Improving The Quality Of Automatic Summaries}
 venue = {Workshop On Multilingual Summarization And Question Answering}
 year = {2003}
@@ -65171,7 +65171,7 @@ venue = {Workshop On Natural Language Processing In Biomedicine}
 year = {2003}
 
 id = {W03-1313}
-author = {Erjavec, Tomaš; Kim, Jin-Dong; Ohta, Tomoko; Tateisi, Yuka; Tsujii, Jun'ichi}
+author = {Erjavec, TomaÅ¡; Kim, Jin-Dong; Ohta, Tomoko; Tateisi, Yuka; Tsujii, Jun'ichi}
 title = {Encoding Biomedical Resources In TEI: The Case Of The GENIA Corpus}
 venue = {Workshop On Natural Language Processing In Biomedicine}
 year = {2003}
@@ -65261,7 +65261,7 @@ venue = {Workshop On Multilingual And Mixed-Language Named Entity Recognition}
 year = {2003}
 
 id = {W03-1504}
-author = {M�rquez, Lluis; Gispert, Adria�De; Carreras, Xavier; Padro, Lluis}
+author = {Màrquez, Lluis; Gispert, Adria De; Carreras, Xavier; Padro, Lluis}
 title = {Low-Cost Named Entity Classification For Catalan: Exploiting Multilingual Resources And Unlabeled Data}
 venue = {Workshop On Multilingual And Mixed-Language Named Entity Recognition}
 year = {2003}
@@ -65567,7 +65567,7 @@ venue = {Workshop On Multiword Expressions: Analysis, Acquisition And Treatment}
 year = {2003}
 
 id = {W03-1802}
-author = {Daille, B�atrice}
+author = {Daille, Béatrice}
 title = {Conceptual Structuring Through Term Variations}
 venue = {Workshop On Multiword Expressions: Analysis, Acquisition And Treatment}
 year = {2003}
@@ -65999,7 +65999,7 @@ venue = {Workshop On Multiword Expressions: Integrating Processing}
 year = {2004}
 
 id = {W04-0407}
-author = {Alegria, I�aki; Ansa, Olatz; Artola, Xabier; Ezeiza, Nerea; Gojenola, Koldo; Urizar, Ruben}
+author = {Alegria, Iï¿œaki; Ansa, Olatz; Artola, Xabier; Ezeiza, Nerea; Gojenola, Koldo; Urizar, Ruben}
 title = {Representation And Treatment Of Multiword Expressions In Basque}
 venue = {Workshop On Multiword Expressions: Integrating Processing}
 year = {2004}
@@ -66240,7 +66240,7 @@ year = {2004}
 
 id = {W04-0802}
 author = {Chklovski, Timothy; Mihalcea, Rada; Pedersen, Ted; Purandare, Amruta}
-title = {The Senseval-3 Multilingual English�Hindi Lexical Sample Task}
+title = {The Senseval-3 Multilingual English­Hindi Lexical Sample Task}
 venue = {SENSEVAL International Workshop On The Evaluation Of Systems For The Semantic Analysis Of Text}
 year = {2004}
 
@@ -66263,7 +66263,7 @@ venue = {SENSEVAL International Workshop On The Evaluation Of Systems For The Se
 year = {2004}
 
 id = {W04-0806}
-author = {M�rquez, Lluis; Taul�, Mariona; Marti, M. Antonia; Artigas, Nuria; Garcia-Vega, Manuel; Real, Francis; Ferres, Daniel}
+author = {Màrquez, Lluis; Taulé, Mariona; Marti, M. Antonia; Artigas, Nuria; Garcia-Vega, Manuel; Real, Francis; Ferres, Daniel}
 title = {Senseval-3: The Spanish Lexical Sample Task}
 venue = {SENSEVAL International Workshop On The Evaluation Of Systems For The Semantic Analysis Of Text}
 year = {2004}
@@ -66395,7 +66395,7 @@ venue = {SENSEVAL International Workshop On The Evaluation Of Systems For The Se
 year = {2004}
 
 id = {W04-0828}
-author = {Escudero, Gerard; M�rquez, Lluis; Rigau, German}
+author = {Escudero, Gerard; Màrquez, Lluis; Rigau, German}
 title = {TALP System For The English Lexical Sample Task}
 venue = {SENSEVAL International Workshop On The Evaluation Of Systems For The Semantic Analysis Of Text}
 year = {2004}
@@ -66443,7 +66443,7 @@ venue = {SENSEVAL International Workshop On The Evaluation Of Systems For The Se
 year = {2004}
 
 id = {W04-0836}
-author = {M�rquez, Lluis; Taul�, Mariona; Marti, M. Antonia; Garcia-Vega, Manuel; Real, Francis; Ferres, Daniel}
+author = {Màrquez, Lluis; Taulé, Mariona; Marti, M. Antonia; Garcia-Vega, Manuel; Real, Francis; Ferres, Daniel}
 title = {Senseval-3: The Catalan Lexical Sample Task}
 venue = {SENSEVAL International Workshop On The Evaluation Of Systems For The Semantic Analysis Of Text}
 year = {2004}
@@ -66485,7 +66485,7 @@ venue = {SENSEVAL International Workshop On The Evaluation Of Systems For The Se
 year = {2004}
 
 id = {W04-0843}
-author = {De Montcheuil, Gregoire Moreau; El-B�ze, Marc; Chen, Boxing; Kraif, Olivier}
+author = {De Montcheuil, Gregoire Moreau; El-Bèze, Marc; Chen, Boxing; Kraif, Olivier}
 title = {Using A Word Sense Disambiguation System For Translation Disambiguation: The LIA-LIDILEM Team Experiment}
 venue = {SENSEVAL International Workshop On The Evaluation Of Systems For The Semantic Analysis Of Text}
 year = {2004}
@@ -66593,7 +66593,7 @@ venue = {SENSEVAL International Workshop On The Evaluation Of Systems For The Se
 year = {2004}
 
 id = {W04-0861}
-author = {Villarejo, Luis; M�rquez, Lluis; Agirre, Eneko; Martinez, David; Magnini, Bernardo; Strapparava, Carlo; McCarthy, Diana; Montoyo, Andres; Suarez, Armando}
+author = {Villarejo, Luis; Màrquez, Lluis; Agirre, Eneko; Martinez, David; Magnini, Bernardo; Strapparava, Carlo; McCarthy, Diana; Montoyo, Andres; Suarez, Armando}
 title = {The "Meaning" System On The English All-Words Task}
 venue = {SENSEVAL International Workshop On The Evaluation Of Systems For The Semantic Analysis Of Text}
 year = {2004}
@@ -66701,7 +66701,7 @@ venue = {Workshop On Text Meaning And Interpretation}
 year = {2004}
 
 id = {W04-0915}
-author = {Max, Aur�lien}
+author = {Max, Aurélien}
 title = {Interpreting Communicative Goals In Constrained Domains Using Generation And Interactive Negotiation}
 venue = {Workshop On Text Meaning And Interpretation}
 year = {2004}
@@ -66797,7 +66797,7 @@ venue = {Workshop On Text Summarization Branches Out}
 year = {2004}
 
 id = {W04-1016}
-author = {Daum� III, Hal; Marcu, Daniel}
+author = {Daumé III, Hal; Marcu, Daniel}
 title = {Generic Sentence Fusion Is An Ill-Defined Summarization Task}
 venue = {Workshop On Text Summarization Branches Out}
 year = {2004}
@@ -67241,7 +67241,7 @@ venue = {Workshop On Recent Advances In Dependency Grammar}
 year = {2004}
 
 id = {W04-1508}
-author = {Obrębski, Tomasz; Gralinski, Filip}
+author = {ObrÄbski, Tomasz; Gralinski, Filip}
 title = {Some Notes On Generative Capacity Of Dependency Grammar}
 venue = {Workshop On Recent Advances In Dependency Grammar}
 year = {2004}
@@ -67433,7 +67433,7 @@ venue = {Workshop On ELearning For Computational Linguistics And Computational L
 year = {2004}
 
 id = {W04-1710}
-author = {Max, Aur�lien}
+author = {Max, Aurélien}
 title = {The Syntax Student's Companion: An ELearning Tool Designed For (Computational) Linguistics Students}
 venue = {Workshop On ELearning For Computational Linguistics And Computational Linguistics For ELearning}
 year = {2004}
@@ -67535,7 +67535,7 @@ venue = {CompuTerm International Workshop On Computational Terminology}
 year = {2004}
 
 id = {W04-1814}
-author = {Takeuchi, Koichi; Kageura, Kyo; Daille, B�atrice; Romary, Laurent}
+author = {Takeuchi, Koichi; Kageura, Kyo; Daille, Béatrice; Romary, Laurent}
 title = {Construction Of Grammar Based Term Extraction Model For Japanese}
 venue = {CompuTerm International Workshop On Computational Terminology}
 year = {2004}
@@ -67553,7 +67553,7 @@ venue = {International Workshop On Linguistically Interpreted Corpora}
 year = {2004}
 
 id = {W04-1903}
-author = {Csendes, Dora; Csirik, J�nos; Gyimothy, Tibor}
+author = {Csendes, Dora; Csirik, János; Gyimothy, Tibor}
 title = {The Szeged Corpus: A POS Tagged And Syntactically Annotated Hungarian Natural Language Corpus}
 venue = {International Workshop On Linguistically Interpreted Corpora}
 year = {2004}
@@ -67607,7 +67607,7 @@ venue = {International Workshop On Linguistically Interpreted Corpora}
 year = {2004}
 
 id = {W04-2001}
-author = {Pallotta, Vincenzo; Todiraşcu, Amalia}
+author = {Pallotta, Vincenzo; TodiraÅcu, Amalia}
 title = {Introduction To ROMAND 2004}
 venue = {Workshop On RObust Methods In Analysis Of Natural Language Data ROMAND}
 year = {2004}
@@ -68015,7 +68015,7 @@ venue = {SIGdial Workshop On Discourse And Dialogue}
 year = {2004}
 
 id = {W04-2321}
-author = {Raymond, Christian; Bechet, Frederic; De Mori, Renato; Damnati, G�raldine}
+author = {Raymond, Christian; Bechet, Frederic; De Mori, Renato; Damnati, Géraldine}
 title = {On The Use Of Confidence For Statistical Decision In Dialogue Strategies}
 venue = {SIGdial Workshop On Discourse And Dialogue}
 year = {2004}
@@ -68129,7 +68129,7 @@ venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2004}
 
 id = {W04-2412}
-author = {Carreras, Xavier; M�rquez, Lluis}
+author = {Carreras, Xavier; Màrquez, Lluis}
 title = {Introduction To The CoNLL-2004 Shared Task: Semantic Role Labeling}
 venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2004}
@@ -68147,7 +68147,7 @@ venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2004}
 
 id = {W04-2415}
-author = {Carreras, Xavier; M�rquez, Lluis; Chrupala, Grzegorz}
+author = {Carreras, Xavier; Màrquez, Lluis; Chrupala, Grzegorz}
 title = {Hierarchical Recognition Of Propositional Arguments With Perceptrons}
 venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2004}
@@ -68381,7 +68381,7 @@ venue = {Workshop On Frontiers In Corpus Annotation}
 year = {2004}
 
 id = {W04-2706}
-author = {Sgall, Petr; Panevova, Jarmila; Hajicov�, Eva}
+author = {Sgall, Petr; Panevova, Jarmila; Hajicová, Eva}
 title = {Deep Syntactic Annotation: Tectogrammatical Representation And Beyond}
 venue = {Workshop On Frontiers In Corpus Annotation}
 year = {2004}
@@ -68765,7 +68765,7 @@ venue = {Workshop On Building Educational Applications Using NLP}
 year = {2005}
 
 id = {W05-0207}
-author = {Uzuner, �zlem; Katz, Boris; Nahnsen, Thade}
+author = {Uzuner, Özlem; Katz, Boris; Nahnsen, Thade}
 title = {Using Syntactic Information To Identify Plagiarism}
 venue = {Workshop On Building Educational Applications Using NLP}
 year = {2005}
@@ -69089,7 +69089,7 @@ venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2005}
 
 id = {W05-0616}
-author = {Stroppa, Nicolas; Yvon, Fran�ois}
+author = {Stroppa, Nicolas; Yvon, François}
 title = {An Analogical Learner For Morphological Analysis}
 venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2005}
@@ -69113,7 +69113,7 @@ venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2005}
 
 id = {W05-0620}
-author = {Carreras, Xavier; M�rquez, Lluis}
+author = {Carreras, Xavier; Màrquez, Lluis}
 title = {Introduction To The CoNLL-2005 Shared Task: Semantic Role Labeling}
 venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2005}
@@ -69161,7 +69161,7 @@ venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2005}
 
 id = {W05-0628}
-author = {M�rquez, Lluis; Comas, Pere; Gimenez, Jesus; Catala, Neus}
+author = {Màrquez, Lluis; Comas, Pere; Gimenez, Jesus; Catala, Neus}
 title = {Semantic Role Labeling As Sequential Tagging}
 venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2005}
@@ -69401,7 +69401,7 @@ venue = {Workshop On Building And Using Parallel Texts}
 year = {2005}
 
 id = {W05-0817}
-author = {Tufis, Dan; Ion, Radu; Ceauşu, Alexandru; Ştefanescu, Dan}
+author = {Tufis, Dan; Ion, Radu; CeauÅu, Alexandru; Åtefanescu, Dan}
 title = {Combined Word Alignments}
 venue = {Workshop On Building And Using Parallel Texts}
 year = {2005}
@@ -69455,13 +69455,13 @@ venue = {Workshop On Building And Using Parallel Texts}
 year = {2005}
 
 id = {W05-0826}
-author = {Gimenez, Jesus; M�rquez, Lluis}
+author = {Gimenez, Jesus; Màrquez, Lluis}
 title = {Combining Linguistic Data Views For Phrase-Based SMT}
 venue = {Workshop On Building And Using Parallel Texts}
 year = {2005}
 
 id = {W05-0827}
-author = {Costa-Juss�, Marta Ruiz; Fonollosa, Jos� A. R.}
+author = {Costa-Jussà, Marta Ruiz; Fonollosa, José A. R.}
 title = {Improving Phrase-Based Statistical Translation By Modifying Phrase Extraction And Including Several Features}
 venue = {Workshop On Building And Using Parallel Texts}
 year = {2005}
@@ -69749,7 +69749,7 @@ venue = {Workshop On Linking Biological Literature, Ontologies And Databases: Mi
 year = {2005}
 
 id = {W05-1501}
-author = {Boullier, Pierre; Sagot, Beno�t}
+author = {Boullier, Pierre; Sagot, Benoît}
 title = {Efficient And Robust LFG Parsing: SxLFG}
 venue = {International Workshop On Parsing Technology}
 year = {2005}
@@ -71135,7 +71135,7 @@ venue = {International Natural Language Generation Conference}
 year = {2006}
 
 id = {W06-1419}
-author = {Paris, Cécile L.; Colineau, Nathalie; Wilkinson, Ross}
+author = {Paris, CÃ©cile L.; Colineau, Nathalie; Wilkinson, Ross}
 title = {Evaluations Of NLG Systems: Common Corpus And Tasks Or Common Dimensions And Metrics?}
 venue = {International Natural Language Generation Conference}
 year = {2006}
@@ -71285,7 +71285,7 @@ venue = {International Workshop On Tree Adjoining Grammar And Related Formalisms
 year = {2006}
 
 id = {W06-1522}
-author = {Seddah, Djame; Sagot, Beno�t}
+author = {Seddah, Djame; Sagot, Benoît}
 title = {Modeling And Analysis Of Elliptic Coordination By Dynamic Exploitation Of Derivation Forests In LTAG Parsing}
 venue = {International Workshop On Tree Adjoining Grammar And Related Formalisms}
 year = {2006}
@@ -71351,7 +71351,7 @@ venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2006}
 
 id = {W06-1609}
-author = {Costa-Juss�, Marta Ruiz; Fonollosa, Jos� A. R.}
+author = {Costa-Jussà, Marta Ruiz; Fonollosa, José A. R.}
 title = {Statistical Machine Reordering}
 venue = {Conference On Empirical Methods In Natural Language Processing}
 year = {2006}
@@ -71747,7 +71747,7 @@ venue = {International Workshop On Web As Corpus}
 year = {2006}
 
 id = {W06-1701}
-author = {Kornai, Andr�s; Halacsy, Peter; Nagy, Viktor; Oravecz, Csaba; Tron, Viktor; Varga, D�niel}
+author = {Kornai, András; Halacsy, Peter; Nagy, Viktor; Oravecz, Csaba; Tron, Viktor; Varga, Dániel}
 title = {Web-Based Frequency Dictionaries For Medium Density Languages}
 venue = {International Workshop On Web As Corpus}
 year = {2006}
@@ -72131,7 +72131,7 @@ venue = {Workshop On ROMAND Robust Methods In Analysis Of Natural Language Data}
 year = {2006}
 
 id = {W06-2401}
-author = {Alegria, I�aki; Ezeiza, Nerea; Fernandez, Izaskun}
+author = {Alegria, Iï¿œaki; Ezeiza, Nerea; Fernandez, Izaskun}
 title = {Named Entities Translation Based On Comparable Corpora}
 venue = {Workshop On Multi-Word-Expressions In A Multilingual Context}
 year = {2006}
@@ -72155,7 +72155,7 @@ venue = {Workshop On Multi-Word-Expressions In A Multilingual Context}
 year = {2006}
 
 id = {W06-2405}
-author = {Moirón, Begoña Villada; Tiedemann, J�rg}
+author = {MoirÃ³n, BegoÃ±a Villada; Tiedemann, Jörg}
 title = {Identifying Idiomatic Expressions Using Automatic Word-Alignment}
 venue = {Workshop On Multi-Word-Expressions In A Multilingual Context}
 year = {2006}
@@ -72245,7 +72245,7 @@ venue = {Workshop On Learning Structured Information In Natural Language Applica
 year = {2006}
 
 id = {W06-2604}
-author = {Zelaia, Ana; Alegria, I�aki; Arregi, Olatz; Sierra, Basilio}
+author = {Zelaia, Ana; Alegria, Iï¿œaki; Arregi, Olatz; Sierra, Basilio}
 title = {A Multiclassifier Based Document Categorization System: Profiting From The Singular Value Decomposition Dimensionality Reduction Technique}
 venue = {Workshop On Learning Structured Information In Natural Language Applications}
 year = {2006}
@@ -72257,7 +72257,7 @@ venue = {Workshop On Learning Structured Information In Natural Language Applica
 year = {2006}
 
 id = {W06-2606}
-author = {Hasan, Saša; Bender, Oliver; Ney, Hermann}
+author = {Hasan, SaÅ¡a; Bender, Oliver; Ney, Hermann}
 title = {Reranking Translation Hypotheses Using Structural Properties}
 venue = {Workshop On Learning Structured Information In Natural Language Applications}
 year = {2006}
@@ -72617,7 +72617,7 @@ venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2006}
 
 id = {W06-2925}
-author = {Carreras, Xavier; Surdeanu, Mihai; M�rquez, Lluis}
+author = {Carreras, Xavier; Surdeanu, Mihai; Màrquez, Lluis}
 title = {Projective Dependency Parsing With Perceptron}
 venue = {Conference On Computational Natural Language Learning CoNLL}
 year = {2006}
@@ -72791,7 +72791,7 @@ venue = {Workshop On Statistical Machine Translation}
 year = {2006}
 
 id = {W06-3109}
-author = {Ortiz-Mart�nez, Daniel; Garcia-Varea, Ismael; Casacuberta, Francisco}
+author = {Ortiz-Martínez, Daniel; Garcia-Varea, Ismael; Casacuberta, Francisco}
 title = {Generalized Stack Decoding Algorithms For Statistical Machine Translation}
 venue = {Workshop On Statistical Machine Translation}
 year = {2006}
@@ -72857,7 +72857,7 @@ venue = {Workshop On Statistical Machine Translation}
 year = {2006}
 
 id = {W06-3120}
-author = {Costa-Juss�, Marta Ruiz; Crego, Josep M.; De Gispert, Adria; Lambert, Patrik; Khalilov, Maxim; Banchs, Rafael E.; Marino, Jose B.; Fonollosa, Jos� A. R.}
+author = {Costa-Jussà, Marta Ruiz; Crego, Josep M.; De Gispert, Adria; Lambert, Patrik; Khalilov, Maxim; Banchs, Rafael E.; Marino, Jose B.; Fonollosa, José A. R.}
 title = {TALP Phrase-Based Statistical Translation System For European Language Pairs}
 venue = {Workshop On Statistical Machine Translation}
 year = {2006}
@@ -72887,13 +72887,13 @@ venue = {Workshop On Statistical Machine Translation}
 year = {2006}
 
 id = {W06-3125}
-author = {Crego, Josep M.; De Gispert, Adria; Lambert, Patrik; Costa-Juss�, Marta Ruiz; Khalilov, Maxim; Banchs, Rafael E.; Marino, Jose B.; Fonollosa, Jos� A. R.}
+author = {Crego, Josep M.; De Gispert, Adria; Lambert, Patrik; Costa-Jussà, Marta Ruiz; Khalilov, Maxim; Banchs, Rafael E.; Marino, Jose B.; Fonollosa, José A. R.}
 title = {N-Gram-Based SMT System Enhanced With Reordering Patterns}
 venue = {Workshop On Statistical Machine Translation}
 year = {2006}
 
 id = {W06-3126}
-author = {Gimenez, Jesus; M�rquez, Lluis}
+author = {Gimenez, Jesus; Màrquez, Lluis}
 title = {The LDV-COMBO System For SMT}
 venue = {Workshop On Statistical Machine Translation}
 year = {2006}
@@ -72953,7 +72953,7 @@ venue = {Meeting Of The ACL Special Interest Group On Computational Phonology An
 year = {2006}
 
 id = {W06-3210}
-author = {Hammarstr�m, Harald}
+author = {Hammarstrï¿œm, Harald}
 title = {A Naive Theory Of Affixation And An Algorithm For Extraction}
 venue = {Meeting Of The ACL Special Interest Group On Computational Phonology And Morphology}
 year = {2006}
@@ -73392,7 +73392,7 @@ year = {2006}
 
 id = {W06-3808}
 author = {Goldberg, Andrew; Zhu, Xiaojin}
-title = {Seeing Stars When There Aren�t Many Stars: Graph-Based Semi-Supervised Learning For Sentiment Categorization}
+title = {Seeing Stars When There Arent Many Stars: Graph-Based Semi-Supervised Learning For Sentiment Categorization}
 venue = {TextGraphs Workshop On Graph Based Methods For Natural Language Processing}
 year = {2006}
 
@@ -73559,7 +73559,7 @@ venue = {INLG International Natural Language Generation Workshop - Demonstration
 year = {1996}
 
 id = {W96-0504}
-author = {Paris, Cécile L.; Vander Linden, Keith}
+author = {Paris, CÃ©cile L.; Vander Linden, Keith}
 title = {Drafter: An Interactive Support Tool For Writing}
 venue = {INLG International Natural Language Generation Workshop - Demonstration Sessions}
 year = {1996}
@@ -73685,7 +73685,7 @@ venue = {SIGDAT Conference On Empirical Methods In Natural Language Processing}
 year = {2004}
 
 id = {W04-3216}
-author = {Daum� III, Hal; Marcu, Daniel}
+author = {Daumé III, Hal; Marcu, Daniel}
 title = {A Phrase-Based HMM Approach To Document/Abstract Alignment}
 venue = {SIGDAT Conference On Empirical Methods In Natural Language Processing}
 year = {2004}
@@ -73787,7 +73787,7 @@ venue = {SIGDAT Conference On Empirical Methods In Natural Language Processing}
 year = {2004}
 
 id = {W04-3233}
-author = {Daum� III, Hal; Marcu, Daniel}
+author = {Daumé III, Hal; Marcu, Daniel}
 title = {NP Bracketing By Maximum Entropy Tagging And SVM Reranking}
 venue = {SIGDAT Conference On Empirical Methods In Natural Language Processing}
 year = {2004}
@@ -74039,7 +74039,7 @@ venue = {SIGDAT Conference On Empirical Methods In Natural Language Processing}
 year = {2001}
 
 id = {W01-0519}
-author = {Megyesi, Be�ta}
+author = {Megyesi, Beáta}
 title = {Comparing Data-Driven Learning Algorithms For PoS Tagging Of Swedish}
 venue = {SIGDAT Conference On Empirical Methods In Natural Language Processing}
 year = {2001}
@@ -74303,7 +74303,7 @@ venue = {Computational Linguistics}
 year = {2005}
 
 id = {J05-4004}
-author = {Daum� III, Hal; Marcu, Daniel}
+author = {Daumé III, Hal; Marcu, Daniel}
 title = {Induction Of Word And Phrase Alignments For Automatic Document Summarization}
 venue = {Computational Linguistics}
 year = {2005}
@@ -74321,7 +74321,7 @@ venue = {Workshop on Computational Approaches to Figurative Language}
 year = {2007}
 
 id = {W07-0102}
-author = {Reining, Astrid; L�nneker-Rodman, Birte}
+author = {Reining, Astrid; Lï¿œnneker-Rodman, Birte}
 title = {Corpus-driven Metaphor Harvesting}
 venue = {Workshop on Computational Approaches to Figurative Language}
 year = {2007}
@@ -74453,7 +74453,7 @@ venue = {Workshop on Bridging the Gap: Academic and Industrial Research in Dialo
 year = {2007}
 
 id = {W07-0307}
-author = {Damnati, G�raldine; Bechet, Frederic; De Mori, Renato}
+author = {Damnati, Géraldine; Bechet, Frederic; De Mori, Renato}
 title = {Experiments on the France Telecom 3000 Voice Agency corpus: academic research on an industrial spoken dialog system}
 venue = {Workshop on Bridging the Gap: Academic and Industrial Research in Dialog Technologies}
 year = {2007}
@@ -74543,7 +74543,7 @@ venue = {SSST, NAACL-HLT 2007 / AMTA Workshop on Syntax and Structure in Statist
 year = {2007}
 
 id = {W07-0409}
-author = {Bonneau-Maynard, H�l�ne; Allauzen, Alexandre; Dechelotte, Daniel; Schwenk, Holger}
+author = {Bonneau-Maynard, Hélène; Allauzen, Alexandre; Dechelotte, Daniel; Schwenk, Holger}
 title = {Combining Morphosyntactic Enriched Representation with n-best Reranking in Statistical Translation}
 venue = {SSST, NAACL-HLT 2007 / AMTA Workshop on Syntax and Structure in Statistical Translation}
 year = {2007}
@@ -74759,19 +74759,19 @@ venue = {Workshop on Statistical Machine Translation}
 year = {2007}
 
 id = {W07-0719}
-author = {Gimenez, Jesus; M�rquez, Lluis}
+author = {Gimenez, Jesus; Màrquez, Lluis}
 title = {Context-aware Discriminative Phrase Selection for Statistical Machine Translation}
 venue = {Workshop on Statistical Machine Translation}
 year = {2007}
 
 id = {W07-0720}
-author = {Costa-Juss�, Marta Ruiz; Crego, Josep M.; Lambert, Patrik; Khalilov, Maxim; Fonollosa, Jos� A. R.; Marino, Jose B.; Banchs, Rafael E.}
+author = {Costa-Jussà, Marta Ruiz; Crego, Josep M.; Lambert, Patrik; Khalilov, Maxim; Fonollosa, José A. R.; Marino, Jose B.; Banchs, Rafael E.}
 title = {Ngram-Based Statistical Machine Translation Enhanced with Multiple Weighted Reordering Hypotheses}
 venue = {Workshop on Statistical Machine Translation}
 year = {2007}
 
 id = {W07-0721}
-author = {Costa-Juss�, Marta Ruiz; Fonollosa, Jos� A. R.}
+author = {Costa-Jussà, Marta Ruiz; Fonollosa, José A. R.}
 title = {Analysis of Statistical and Morphological Classes to Generate Weigthed Reordering Hypotheses on a Statistical Machine Translation System}
 venue = {Workshop on Statistical Machine Translation}
 year = {2007}
@@ -74855,7 +74855,7 @@ venue = {Workshop on Statistical Machine Translation}
 year = {2007}
 
 id = {W07-0735}
-author = {Bojar, Ondřej}
+author = {Bojar, OndÅej}
 title = {English-to-Czech Factored Machine Translation}
 venue = {Workshop on Statistical Machine Translation}
 year = {2007}
@@ -74873,7 +74873,7 @@ venue = {Workshop on Statistical Machine Translation}
 year = {2007}
 
 id = {W07-0738}
-author = {Gimenez, Jesus; M�rquez, Lluis}
+author = {Gimenez, Jesus; Màrquez, Lluis}
 title = {Linguistic Features for Automatic Evaluation of Heterogenous MT Systems}
 venue = {Workshop on Statistical Machine Translation}
 year = {2007}
@@ -75245,7 +75245,7 @@ venue = {Workshop on A Broader Perspective on Multiword Expressions}
 year = {2007}
 
 id = {W07-1104}
-author = {Van de Cruys, Tim; Moirón, Begoña Villada}
+author = {Van de Cruys, Tim; MoirÃ³n, BegoÃ±a Villada}
 title = {Semantics-based Multiword Expression Extraction}
 venue = {Workshop on A Broader Perspective on Multiword Expressions}
 year = {2007}
@@ -75329,7 +75329,7 @@ venue = {Workshop on Deep Linguistic Processing}
 year = {2007}
 
 id = {W07-1208}
-author = {Branco, Ant�nio H.; Francisco, Costa}
+author = {Branco, António H.; Francisco, Costa}
 title = {Self- or Pre-Tuning? Deep Linguistic Processing of Language Variants}
 venue = {Workshop on Deep Linguistic Processing}
 year = {2007}
@@ -75869,7 +75869,7 @@ venue = {Linguistic Annotation Workshop}
 year = {2007}
 
 id = {W07-1530}
-author = {Stede, Manfred; Wiebe, Janyce M.; Hajicov�, Eva; Reese, Brian; Teufel, Simone; Webber, Bonnie Lynn; Wilson, Theresa}
+author = {Stede, Manfred; Wiebe, Janyce M.; Hajicová, Eva; Reese, Brian; Teufel, Simone; Webber, Bonnie Lynn; Wilson, Theresa}
 title = {Discourse Annotation Working Group Report}
 venue = {Linguistic Annotation Workshop}
 year = {2007}
@@ -75887,7 +75887,7 @@ venue = {4th ACL-SIGSEM Workshop on Prepositions}
 year = {2007}
 
 id = {W07-1603}
-author = {Fort, Kar�n; Guillaume, Bruno}
+author = {Fort, Karën; Guillaume, Bruno}
 title = {PrepLex: A Lexicon of French Prepositions for Parsing}
 venue = {4th ACL-SIGSEM Workshop on Prepositions}
 year = {2007}
@@ -75923,7 +75923,7 @@ venue = {4th ACL-SIGSEM Workshop on Prepositions}
 year = {2007}
 
 id = {W07-1701}
-author = {Przepiórkowski, Adam}
+author = {PrzepiÃ³rkowski, Adam}
 title = {Slavic Information Extraction and Partial Parsing}
 venue = {Workshop on Balto-Slavonic Natural Language Processing}
 year = {2007}
@@ -75953,7 +75953,7 @@ venue = {Workshop on Balto-Slavonic Natural Language Processing}
 year = {2007}
 
 id = {W07-1706}
-author = {Przepiórkowski, Adam; Degorski, Ukasz; Spousta, Miroslav; Simov, Kiril; Osenova, Petya; Lemnitzer, Lothar; Kubon, Vladislav; Wojtowicz, Beata}
+author = {PrzepiÃ³rkowski, Adam; Degorski, Ukasz; Spousta, Miroslav; Simov, Kiril; Osenova, Petya; Lemnitzer, Lothar; Kubon, Vladislav; Wojtowicz, Beata}
 title = {Towards the Automatic Extraction of Definitions in Slavic}
 venue = {Workshop on Balto-Slavonic Natural Language Processing}
 year = {2007}
@@ -76139,7 +76139,7 @@ venue = {Fourth International Workshop on Semantic Evaluations (SemEval-2007)}
 year = {2007}
 
 id = {W07-2008}
-author = {M�rquez, Lluis; Villarejo, Luis; Marti, M. Antonia; Taul�, Mariona}
+author = {Màrquez, Lluis; Villarejo, Luis; Marti, M. Antonia; Taulé, Mariona}
 title = {SemEval-2007 Task 09: Multilevel Semantic Annotation of Catalan and Spanish}
 venue = {Fourth International Workshop on Semantic Evaluations (SemEval-2007)}
 year = {2007}
@@ -76289,7 +76289,7 @@ venue = {Fourth International Workshop on Semantic Evaluations (SemEval-2007)}
 year = {2007}
 
 id = {W07-2033}
-author = {Farkas, Rich�rd; Simon, Eszter; Szarvas, Gy�rgy; Varga, D�niel}
+author = {Farkas, Richárd; Simon, Eszter; Szarvas, György; Varga, Dániel}
 title = {GYDER: Maxent Metonymy Resolution}
 venue = {Fourth International Workshop on Semantic Evaluations (SemEval-2007)}
 year = {2007}
@@ -76553,7 +76553,7 @@ venue = {Fourth International Workshop on Semantic Evaluations (SemEval-2007)}
 year = {2007}
 
 id = {W07-2077}
-author = {Zapirain, Benat; Agirre, Eneko; M�rquez, Lluis}
+author = {Zapirain, Benat; Agirre, Eneko; Màrquez, Lluis}
 title = {UBC-UPC: Sequential SRL Using Selectional Preferences. An approach with Maximum Entropy Markov Models}
 venue = {Fourth International Workshop on Semantic Evaluations (SemEval-2007)}
 year = {2007}
@@ -76661,7 +76661,7 @@ venue = {Fourth International Workshop on Semantic Evaluations (SemEval-2007)}
 year = {2007}
 
 id = {W07-2095}
-author = {M�rquez, Lluis; Padro, Lluis; Surdeanu, Mihai; Villarejo, Luis}
+author = {Màrquez, Lluis; Padro, Lluis; Surdeanu, Mihai; Villarejo, Luis}
 title = {UPC: Experiments with Joint Learning within SemEval Task 9}
 venue = {Fourth International Workshop on Semantic Evaluations (SemEval-2007)}
 year = {2007}
@@ -76829,7 +76829,7 @@ venue = {Tenth International Conference on Parsing Technologies}
 year = {2007}
 
 id = {W07-2213}
-author = {Boullier, Pierre; Sagot, Beno�t}
+author = {Boullier, Pierre; Sagot, Benoît}
 title = {Are Very Large Context-Free Grammars Tractable?}
 venue = {Tenth International Conference on Parsing Technologies}
 year = {2007}
@@ -77141,7 +77141,7 @@ venue = {2007 Joint Conference on Empirical Methods in Natural Language Processi
 year = {2007}
 
 id = {D07-1045}
-author = {Schwenk, Holger; Costa-Juss�, Marta Ruiz; Fonollosa, Jos� A. R.}
+author = {Schwenk, Holger; Costa-Jussà, Marta Ruiz; Fonollosa, José A. R.}
 title = {Smooth Bilingual $N$-Gram Translation}
 venue = {2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)}
 year = {2007}
@@ -77201,7 +77201,7 @@ venue = {2007 Joint Conference on Empirical Methods in Natural Language Processi
 year = {2007}
 
 id = {D07-1055}
-author = {Zens, Richard; Hasan, Saša; Ney, Hermann}
+author = {Zens, Richard; Hasan, SaÅ¡a; Ney, Hermann}
 title = {A Systematic Comparison of Training Criteria for Statistical Machine Translation}
 venue = {2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)}
 year = {2007}
@@ -77453,7 +77453,7 @@ venue = {2007 Joint Conference on Empirical Methods in Natural Language Processi
 year = {2007}
 
 id = {D07-1097}
-author = {Hall, Johan; Nilsson, Jens; Nivre, Joakim; Eryigit, Gulsen; Megyesi, Be�ta; Nilsson, Mattias; Saers, Markus}
+author = {Hall, Johan; Nilsson, Jens; Nivre, Joakim; Eryigit, Gulsen; Megyesi, Beáta; Nilsson, Mattias; Saers, Markus}
 title = {Single Malt or Blended? A Study in Multilingual Parser Optimization}
 venue = {2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)}
 year = {2007}
@@ -78179,7 +78179,7 @@ venue = {Human Language Technologies 2007: The Conference of the North American 
 year = {2007}
 
 id = {N07-2015}
-author = {Hasan, Saša; Zens, Richard; Ney, Hermann}
+author = {Hasan, SaÅ¡a; Zens, Richard; Ney, Hermann}
 title = {Are Very Large N-Best Lists Useful for SMT?}
 venue = {Human Language Technologies 2007: The Conference of the North American Chapter of the Association for Computational Linguistics; Companion Volume, Short Papers}
 year = {2007}
@@ -78299,7 +78299,7 @@ venue = {Human Language Technologies 2007: The Conference of the North American 
 year = {2007}
 
 id = {N07-2035}
-author = {Costa-Juss�, Marta Ruiz; Crego, Josep M.; Vilar, David; Fonollosa, Jos� A. R.; Marino, Jose B.; Ney, Hermann}
+author = {Costa-Jussà, Marta Ruiz; Crego, Josep M.; Vilar, David; Fonollosa, José A. R.; Marino, Jose B.; Ney, Hermann}
 title = {Analysis and System Combination of Phrase- and N-Gram-Based Statistical Machine Translation Systems}
 venue = {Human Language Technologies 2007: The Conference of the North American Chapter of the Association for Computational Linguistics; Companion Volume, Short Papers}
 year = {2007}
@@ -78629,7 +78629,7 @@ venue = {45th Annual Meeting of the Association of Computational Linguistics}
 year = {2007}
 
 id = {P07-1009}
-author = {Daum� III, Hal; Campbell, Lyle}
+author = {Daumé III, Hal; Campbell, Lyle}
 title = {A Bayesian Model for Discovering Typological Implications}
 venue = {45th Annual Meeting of the Association of Computational Linguistics}
 year = {2007}
@@ -78773,7 +78773,7 @@ venue = {45th Annual Meeting of the Association of Computational Linguistics}
 year = {2007}
 
 id = {P07-1033}
-author = {Daum� III, Hal}
+author = {Daumé III, Hal}
 title = {Frustratingly Easy Domain Adaptation}
 venue = {45th Annual Meeting of the Association of Computational Linguistics}
 year = {2007}
@@ -78953,7 +78953,7 @@ venue = {45th Annual Meeting of the Association of Computational Linguistics}
 year = {2007}
 
 id = {P07-1063}
-author = {Mairesse, Fran�ois; Walker, Marilyn A.}
+author = {Mairesse, François; Walker, Marilyn A.}
 title = {PERSONAGE: Personality Generation for Dialogue}
 venue = {45th Annual Meeting of the Association of Computational Linguistics}
 year = {2007}
@@ -79079,7 +79079,7 @@ venue = {45th Annual Meeting of the Association of Computational Linguistics}
 year = {2007}
 
 id = {P07-1084}
-author = {Morin, Emmanuel; Daille, B�atrice; Takeuchi, Koichi; Kageura, Kyo}
+author = {Morin, Emmanuel; Daille, Béatrice; Takeuchi, Koichi; Kageura, Kyo}
 title = {Bilingual Terminology Mining - Using Brain, not brawn comparable corpora}
 venue = {45th Annual Meeting of the Association of Computational Linguistics}
 year = {2007}
@@ -79181,7 +79181,7 @@ venue = {45th Annual Meeting of the Association of Computational Linguistics}
 year = {2007}
 
 id = {P07-1101}
-author = {Gravano, Agust�n; Benus, Stefan; Chavez, Hector; Hirschberg, Julia B.; Wilcox, Lauren}
+author = {Gravano, Agustín; Benus, Stefan; Chavez, Hector; Hirschberg, Julia B.; Wilcox, Lauren}
 title = {On the role of context and prosody in the interpretation of 'okay'}
 venue = {45th Annual Meeting of the Association of Computational Linguistics}
 year = {2007}
@@ -79493,7 +79493,7 @@ venue = {45th Annual Meeting of the Association for Computational Linguistics Co
 year = {2007}
 
 id = {P07-2022}
-author = {Janus, Daniel; Przepiórkowski, Adam}
+author = {Janus, Daniel; PrzepiÃ³rkowski, Adam}
 title = {Poliqarp: An open source corpus indexer and search engine with syntactic extensions}
 venue = {45th Annual Meeting of the Association for Computational Linguistics Companion Volume Proceedings of the Demo and Poster Sessions}
 year = {2007}
@@ -79631,7 +79631,7 @@ venue = {45th Annual Meeting of the Association for Computational Linguistics Co
 year = {2007}
 
 id = {P07-2045}
-author = {Koehn, Philipp; Hoang, Hieu; Birch, Alexandra; Callison-Burch, Chris; Federico, Marcello; Bertoldi, Nicola; Cowan, Brooke; Shen, Wade; Moran, Christine; Zens, Richard; Dyer, Christopher J.; Bojar, Ondřej; Constantin, Alexandra; Herbst, Evan}
+author = {Koehn, Philipp; Hoang, Hieu; Birch, Alexandra; Callison-Burch, Chris; Federico, Marcello; Bertoldi, Nicola; Cowan, Brooke; Shen, Wade; Moran, Christine; Zens, Richard; Dyer, Christopher J.; Bojar, OndÅej; Constantin, Alexandra; Herbst, Evan}
 title = {Moses: Open Source Toolkit for Statistical Machine Translation}
 venue = {45th Annual Meeting of the Association for Computational Linguistics Companion Volume Proceedings of the Demo and Poster Sessions}
 year = {2007}
@@ -79679,7 +79679,7 @@ venue = {45th Annual Meeting of the Association for Computational Linguistics Co
 year = {2007}
 
 id = {P07-2053}
-author = {Halacsy, Peter; Kornai, Andr�s; Oravecz, Csaba}
+author = {Halacsy, Peter; Kornai, András; Oravecz, Csaba}
 title = {Poster paper: HunPos -- an open source trigram tagger}
 venue = {45th Annual Meeting of the Association for Computational Linguistics Companion Volume Proceedings of the Demo and Poster Sessions}
 year = {2007}
@@ -79721,7 +79721,7 @@ venue = {Annual Meeting Of The Association For Compuational Linguistics - Studen
 year = {2007}
 
 id = {P07-3003}
-author = {Buczy�~Dski, Aleksander}
+author = {BuczyÅ~Dski, Aleksander}
 title = {An Implementation of Combined Partial Parser and Morphosyntactic Disambiguator}
 venue = {Annual Meeting Of The Association For Compuational Linguistics - Student Research Workshop}
 year = {2007}
@@ -79817,7 +79817,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-1003}
-author = {Paşca, Marius; Van Durme, Benjamin}
+author = {PaÅca, Marius; Van Durme, Benjamin}
 title = {Weakly-Supervised Acquisition of Open-Domain Classes and Class Attributes from Web Documents and Query Logs}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
@@ -79829,13 +79829,13 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-1005}
-author = {Mírovský, Jiří}
+author = {MÃ­rovskÃœ, JiÅÃ­}
 title = {PDT 2.0 Requirements on a Query Language}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-1006}
-author = {Miyao, Yusuke; S�tre, Rune; Sagae, Kenji; Matsuzaki, Takuya; Tsujii, Jun'ichi}
+author = {Miyao, Yusuke; Sætre, Rune; Sagae, Kenji; Matsuzaki, Takuya; Tsujii, Jun'ichi}
 title = {Task-oriented Evaluation of Syntactic Parsers and Their Representations}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
@@ -79919,7 +79919,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-1020}
-author = {Mairesse, Fran�ois; Walker, Marilyn A.}
+author = {Mairesse, François; Walker, Marilyn A.}
 title = {Trainable Generation of Big-Five Personality Styles through Data-Driven Parameter Estimation}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
@@ -79997,7 +79997,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-1033}
-author = {Szarvas, Gy�rgy}
+author = {Szarvas, György}
 title = {Hedge Classification in Biomedical Texts with a Weakly Supervised Selection of Keywords}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
@@ -80069,7 +80069,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-1045}
-author = {Hermjakob, Ulf; Knight, Kevin; Daum� III, Hal}
+author = {Hermjakob, Ulf; Knight, Kevin; Daumé III, Hal}
 title = {Name Translation in Statistical Machine Translation - Learning When to Transliterate}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
@@ -80177,7 +80177,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-1063}
-author = {Zapirain, Be�at; Agirre, Eneko; M�rquez, Llu�s}
+author = {Zapirain, Beñat; Agirre, Eneko; Màrquez, Lluís}
 title = {Robustness and Generalization of Role Sets: PropBank vs. VerbNet}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
@@ -80243,7 +80243,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-1074}
-author = {Milidi�, Ruy Luiz; Santos, C�cero Nogueira; Duarte, Julio C.}
+author = {Milidiú, Ruy Luiz; Santos, Cícero Nogueira; Duarte, Julio C.}
 title = {Phrase Chunking Using Entropy Guided Transformation Learning}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
@@ -80411,7 +80411,7 @@ venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
 
 id = {P08-1102}
-author = {Jiang, Wenbin; Huang, Liang; Liu, Qun; L�, Yajuan}
+author = {Jiang, Wenbin; Huang, Liang; Liu, Qun; Lü, Yajuan}
 title = {A Cascaded Linear Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging}
 venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
@@ -80459,7 +80459,7 @@ venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
 
 id = {P08-1110}
-author = {G�mez-Rodr�guez, Carlos; Carroll, John A.; Weir, David J.}
+author = {Gómez-Rodríguez, Carlos; Carroll, John A.; Weir, David J.}
 title = {A Deductive Approach to Dependency Parsing}
 venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
@@ -80471,13 +80471,13 @@ venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
 
 id = {P08-1112}
-author = {Ganchev, Kuzman; Gra�a, Jo�o V.; Taskar, Ben}
+author = {Ganchev, Kuzman; Graça, João V.; Taskar, Ben}
 title = {Better Alignments = Better Translations?}
 venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
 
 id = {P08-1113}
-author = {Lin, Dekang; Zhao, Shaojun; Van Durme, Benjamin; Paşca, Marius}
+author = {Lin, Dekang; Zhao, Shaojun; Van Durme, Benjamin; PaÅca, Marius}
 title = {Mining Parenthetical Translations from the Web by Word Alignment}
 venue = {Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue}
 year = {2008}
@@ -80711,7 +80711,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-2033}
-author = {Wan, Stephen; Paris, Cécile L.}
+author = {Wan, Stephen; Paris, CÃ©cile L.}
 title = {In-Browser Summarisation: Generating Elaborative Summaries Biased Towards the Reading Context}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
@@ -80771,7 +80771,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-2043}
-author = {Nenkova, Ani; Gravano, Agust�n; Hirschberg, Julia B.}
+author = {Nenkova, Ani; Gravano, Agustín; Hirschberg, Julia B.}
 title = {High Frequency Word Entrainment in Spoken Dialogue}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
@@ -80789,7 +80789,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-2046}
-author = {Šnajder, Jan; Dalbelo Bašić, Bojana; Petrović, Saša; Sikirić, Ivan}
+author = {Å najder, Jan; Dalbelo BaÅ¡iÄ, Bojana; PetroviÄ, SaÅ¡a; SikiriÄ, Ivan}
 title = {Evolving New Lexical Association Measures Using Genetic Programming}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
@@ -80981,7 +80981,7 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-3010}
-author = {Messiant, C�dric}
+author = {Messiant, Cédric}
 title = {A Subcategorization Acquisition System for French Verbs}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
@@ -81035,14 +81035,14 @@ venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-4007}
-author = {Kang, Moonyoung; Chaudhuri, Sourish; Joshi, Mahesh; Ros�, Carolyn P.}
+author = {Kang, Moonyoung; Chaudhuri, Sourish; Joshi, Mahesh; Rosé, Carolyn P.}
 title = {SIDE: The Summarization Integrated Development Environment}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
 id = {P08-4008}
 author = {Yarrington, Debra; Gray, John; Pennington, Christopher A.; Bunnell, H. Timothy; Cornaglia, Allegra; Lilley, Jason; Nagao, Kyoko; Polikoff, James}
-title = {ModelTalker Voice Recorder—An Interface System for Recording a Corpus of Speech for Synthesis}
+title = {ModelTalker Voice RecorderâAn Interface System for Recording a Corpus of Speech for Synthesis}
 venue = {Annual Meeting Of The Association For Computational Linguistics}
 year = {2008}
 
@@ -81203,7 +81203,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2008}
 
 id = {C08-1020}
-author = {Crysmann, Berthold; Bertomeu, Nuria; Adolphs, Peter; Flickinger, Daniel P.; Kl�wer, Tina}
+author = {Crysmann, Berthold; Bertomeu, Nuria; Adolphs, Peter; Flickinger, Daniel P.; Klüwer, Tina}
 title = {Hybrid Processing for Grammar and Style Checking}
 venue = {International Conference On Computational Linguistics}
 year = {2008}
@@ -81305,7 +81305,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2008}
 
 id = {C08-1037}
-author = {Gr�nder, Sabine}
+author = {Gründer, Sabine}
 title = {An Algorithm for Adverbial Aspect Shift}
 venue = {International Conference On Computational Linguistics}
 year = {2008}
@@ -81419,7 +81419,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2008}
 
 id = {C08-1056}
-author = {Kobus, Catherine; Yvon, Fran�ois; Damnati, G�raldine}
+author = {Kobus, Catherine; Yvon, François; Damnati, Géraldine}
 title = {Normalizing SMS: are Two Metaphors Better than One ?}
 venue = {International Conference On Computational Linguistics}
 year = {2008}
@@ -81437,7 +81437,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2008}
 
 id = {C08-1059}
-author = {Laws, Florian; Sch�tze, Hinrich}
+author = {Laws, Florian; Schütze, Hinrich}
 title = {Stopping Criteria for Active Learning of Named Entity Recognition}
 venue = {International Conference On Computational Linguistics}
 year = {2008}
@@ -81533,7 +81533,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2008}
 
 id = {C08-1075}
-author = {Moreau, Erwan; Yvon, Fran�ois; Capp�, Olivier}
+author = {Moreau, Erwan; Yvon, François; Cappé, Olivier}
 title = {Robust Similarity Measures for Named Entities Matching}
 venue = {International Conference On Computational Linguistics}
 year = {2008}
@@ -81563,7 +81563,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2008}
 
 id = {C08-1080}
-author = {Nicolas, Lionel; Sagot, Beno�t; Molinero, Miguel A.; Farr�, Jacques; De La Clergerie, Eric Villemonte}
+author = {Nicolas, Lionel; Sagot, Benoît; Molinero, Miguel A.; Farré, Jacques; De La Clergerie, Eric Villemonte}
 title = {Computer Aided Correction and Extension of a Syntactic Wide-Coverage Lexicon}
 venue = {International Conference On Computational Linguistics}
 year = {2008}
@@ -81575,7 +81575,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2008}
 
 id = {C08-1082}
-author = {� S�aghdha, Diarmuid; Copestake, Ann}
+author = {Ó Séaghdha, Diarmuid; Copestake, Ann}
 title = {Semantic Classification with Distributional Kernels}
 venue = {International Conference On Computational Linguistics}
 year = {2008}
@@ -81587,13 +81587,13 @@ venue = {International Conference On Computational Linguistics}
 year = {2008}
 
 id = {C08-1084}
-author = {Pad�, Sebastian; Pennacchiotti, Marco; Sporleder, Caroline}
+author = {Padó, Sebastian; Pennacchiotti, Marco; Sporleder, Caroline}
 title = {Semantic Role Assignment for Event Nominalisations by Leveraging Verbal Data}
 venue = {International Conference On Computational Linguistics}
 year = {2008}
 
 id = {C08-1085}
-author = {Pajas, Petr; Štepánek, Jan}
+author = {Pajas, Petr; Å tepÃ¡nek, Jan}
 title = {Recent Advances in a Feature-Rich Framework for Treebank Annotation}
 venue = {International Conference On Computational Linguistics}
 year = {2008}
@@ -81773,7 +81773,7 @@ venue = {International Conference On Computational Linguistics}
 year = {2008}
 
 id = {C08-1115}
-author = {Ueffing, Nicola; Stephan, Jens; Matusov, Evgeny; Dugast, Lo�c; Foster, George; Kuhn, Roland; Senellart, Jean; Yang, Jin}
+author = {Ueffing, Nicola; Stephan, Jens; Matusov, Evgeny; Dugast, Loïc; Foster, George; Kuhn, Roland; Senellart, Jean; Yang, Jin}
 title = {Tighter Integration of Rule-Based and Statistical MT in Serial System Combination}
 venue = {International Conference On Computational Linguistics}
 year = {2008}
@@ -81983,13 +81983,13 @@ venue = {COLING - Posters}
 year = {2008}
 
 id = {C08-2005}
-author = {Blackwood, Graeme; Gispert, Adri�; Byrne, William J.}
+author = {Blackwood, Graeme; Gispert, Adrià; Byrne, William J.}
 title = {Phrasal Segmentation Models for Statistical Machine Translation}
 venue = {COLING - Posters}
 year = {2008}
 
 id = {C08-2006}
-author = {Boudin, Florian; El-B�ze, Marc; Torres-Moreno, Juan-Manuel}
+author = {Boudin, Florian; El-Bèze, Marc; Torres-Moreno, Juan-Manuel}
 title = {A Scalable MMR Approach to Sentence Scoring for Multi-Document Update Summarization}
 venue = {COLING - Posters}
 year = {2008}
@@ -82001,7 +82001,7 @@ venue = {COLING - Posters}
 year = {2008}
 
 id = {C08-2008}
-author = {D�az de Ilarraza, Arantza; Gojenola, Koldo; Oronoz, Maite}
+author = {Díaz de Ilarraza, Arantza; Gojenola, Koldo; Oronoz, Maite}
 title = {Detecting Erroneous Uses of Complex Postpositions in an Agglutinative Language}
 venue = {COLING - Posters}
 year = {2008}
@@ -82031,7 +82031,7 @@ venue = {COLING - Posters}
 year = {2008}
 
 id = {C08-2013}
-author = {Langlais, Philippe; Yvon, Fran�ois}
+author = {Langlais, Philippe; Yvon, François}
 title = {Scaling up Analogical Learning}
 venue = {COLING - Posters}
 year = {2008}
@@ -82055,7 +82055,7 @@ venue = {COLING - Posters}
 year = {2008}
 
 id = {C08-2017}
-author = {Montiel-Ponsoda, Elena; Aguado de Cea, Guadalupe; G�mez-P�rez, Asunci�n; Peters, Wim}
+author = {Montiel-Ponsoda, Elena; Aguado de Cea, Guadalupe; Gómez-Pérez, Asunción; Peters, Wim}
 title = {Modelling Multilinguality in Ontologies}
 venue = {COLING - Posters}
 year = {2008}
@@ -82073,13 +82073,13 @@ venue = {COLING - Posters}
 year = {2008}
 
 id = {C08-2020}
-author = {Paris, Cécile L.; Colineau, Nathalie; Lampert, Andrew; Giralt Duran, Joan}
+author = {Paris, CÃ©cile L.; Colineau, Nathalie; Lampert, Andrew; Giralt Duran, Joan}
 title = {Generation under Space Constraints}
 venue = {COLING - Posters}
 year = {2008}
 
 id = {C08-2021}
-author = {Paukkeri, Mari-Sanna; Nieminen, Ilari T.; P�ll�, Matti; Honkela, Timo}
+author = {Paukkeri, Mari-Sanna; Nieminen, Ilari T.; Pöllä, Matti; Honkela, Timo}
 title = {A Language-Independent Approach to Keyphrase Extraction and Evaluation}
 venue = {COLING - Posters}
 year = {2008}
@@ -82103,13 +82103,13 @@ venue = {COLING - Posters}
 year = {2008}
 
 id = {C08-2025}
-author = {S�gaard, Anders}
+author = {Søgaard, Anders}
 title = {On the Weak Generative Capacity of Weighted Context-free Grammars}
 venue = {COLING - Posters}
 year = {2008}
 
 id = {C08-2026}
-author = {S�gaard, Anders}
+author = {Søgaard, Anders}
 title = {Range Concatenation Grammars for Translation}
 venue = {COLING - Posters}
 year = {2008}
@@ -82121,14 +82121,14 @@ venue = {COLING - Posters}
 year = {2008}
 
 id = {C08-2028}
-author = {Sj�bergh, Jonas; Araki, Kenji}
+author = {Sjöbergh, Jonas; Araki, Kenji}
 title = {A Complete and Modestly Funny System for Generating and Performing Japanese Stand-Up Comedy}
 venue = {COLING - Posters}
 year = {2008}
 
 id = {C08-2029}
 author = {Spanger, Philipp; Kurosawa, Takehiro; Tokunaga, Takenobu}
-title = {On "Redundancy” in Selecting Attributes for Generating Referring Expressions}
+title = {On "Redundancyâ in Selecting Attributes for Generating Referring Expressions}
 venue = {COLING - Posters}
 year = {2008}
 
@@ -82181,7 +82181,7 @@ venue = {COLING - Demos}
 year = {2008}
 
 id = {C08-3003}
-author = {Guillaume, Bruno; Le Roux, Joseph; Marchand, Jonathan; Perrier, Guy; Fort, Kar�n; Planul, Jennifer}
+author = {Guillaume, Bruno; Le Roux, Joseph; Marchand, Jonathan; Perrier, Guy; Fort, Karën; Planul, Jennifer}
 title = {A Toolchain for Grammarians}
 venue = {COLING - Demos}
 year = {2008}
@@ -82194,7 +82194,7 @@ year = {2008}
 
 id = {C08-3005}
 author = {Lemon, Oliver; Liu, Xingkun; Hastie, Helen}
-title = {“Build Your Own” Spoken Dialogue Systems: Automatically Generating ISU Dialogue Systems from Business User Resources}
+title = {âBuild Your Ownâ Spoken Dialogue Systems: Automatically Generating ISU Dialogue Systems from Business User Resources}
 venue = {COLING - Demos}
 year = {2008}
 
@@ -82205,13 +82205,13 @@ venue = {COLING - Demos}
 year = {2008}
 
 id = {C08-3007}
-author = {Ruiz-Rico, Fernando; Vicedo, Jose Luis; Rubio-S�nchez, Mar�a-Consuelo}
+author = {Ruiz-Rico, Fernando; Vicedo, Jose Luis; Rubio-Sánchez, María-Consuelo}
 title = {Multilingual Assistant for Medical Diagnosing and Drug Prescription Based on Category Ranking}
 venue = {COLING - Demos}
 year = {2008}
 
 id = {C08-3008}
-author = {Sacaleanu, Bogdan; Orăsan, Constantin; Spurk, Christian; Ou, Shiyan; Ferrandez, Oscar; Kouylekov, Milen; Negri, Matteo}
+author = {Sacaleanu, Bogdan; OrÄsan, Constantin; Spurk, Christian; Ou, Shiyan; Ferrandez, Oscar; Kouylekov, Milen; Negri, Matteo}
 title = {Entailment-based Question Answering for Structured Data}
 venue = {COLING - Demos}
 year = {2008}

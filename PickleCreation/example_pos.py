@@ -1,3 +1,5 @@
+### S. N. Kim, T. Baldwin, and M.-Y. Kan. Evaluating n-gram based evaluation metrics for automatic keyphrase extraction. 
+
 import nltk
 from nltk.corpus import stopwords
 stopwords = stopwords.words('english')
@@ -51,7 +53,6 @@ def get_terms(tree):
 
 
 def get_phrases (text):
-    #text = "we see two main avenues for future work: (1), the construction of properly bilingual models where source language information can also help to further improve the target language model (diab and resnik, 2002); (2), the extension of our cross-lingual mapping for the argument position to mappings that hold across multiple predicates as well as argumentdependent mappings like the spanish direct objects, whose realization depends on their animacy."
     ret_phrases = []
     toks = nltk.regexp_tokenize(text, sentence_re)
     postoks = nltk.tag.pos_tag(toks)
@@ -62,9 +63,12 @@ def get_phrases (text):
         phrase = ""
         for word in term:
             phrase = phrase + " " + word
-            print (phrase.strip())
+            #print (phrase.strip())
 
         ret_phrases.append(phrase.strip())
-        
+    #print (ret_phrases) 
     return ret_phrases
 
+if __name__ == "__main__":
+    text = "we also would like to thank the reviewers for their helpful suggestions in directing the future of this work. current graph-based approaches to automatic text summarization, such as lexrank and textrank, assume a static graph which does not model how the input texts emerge."
+    get_phrases(text)

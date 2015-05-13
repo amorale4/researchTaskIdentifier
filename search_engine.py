@@ -274,11 +274,11 @@ index = Index(nltk.word_tokenize, PorterStemmer(), nltk.corpus.stopwords.words('
 index.addfiles()
 pickle.dump(index,open('index','wb'))
 '''
-'''
-f = open('index','rb')
+
+f = open('PickleCreation/index','rb')
 index = pickle.load(f)
 f.close()
 
 query = 'support vector machines'
-print(Retrieve(query,index,1000,'nofeedback',0.1,10,50,0.9)[0:10]) # Retrieve will return a ranked list of tuples of the form (documentID, documentScore).
-'''
+print(Retrieve(query,index,1000,'nofeedback',0.1,10,50,0.9)[0:100]) # Retrieve will return a ranked list of tuples of the form (documentID, documentScore).
+

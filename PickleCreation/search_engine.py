@@ -11,7 +11,6 @@ from math import log
 import operator
 
 class Index:
- 
 	def __init__(self, tokenizer, stemmer=None, stopwords=None):
 		self.tokenizer = tokenizer
 		self.stemmer = stemmer
@@ -53,7 +52,7 @@ class Index:
 		for token in [t.lower() for t in nltk.word_tokenize(document)]:
 			if token in self.stopwords:
 				continue
- 
+
 			if self.stemmer:
 				token = self.stemmer.stem(token)
 			if documentID not in self.DocCollection:
@@ -73,15 +72,13 @@ class Index:
 			self.numberofwords += 1
 			self.docnumberofwords[documentID] += 1
 
-
-
 	def addfiles(self):
-		D = pickle.load(open('AllDataPickle_v3.pk','rb'))
+		D = pickle.load(open('AllDataPickle_v1.pk','rb'))
 		for documentID in D:
 			#print (documentID)
 			#print (D[documentID][0])
 			#print (D[documentID][6])
-			self.add(D[documentID][-1],documentID) # Add the title and the abstract + introduction + conclusion of each document to the index
+			self.add(D[documentID][0] + D[documentID][6],documentID) # Add the title and the abstract + introduction + conclusion of each document to the index
 		self.PCollection()
 
 
@@ -211,13 +208,10 @@ def Retrieve(Q,index,mu,feedback,Lambda,numdocs,numterms,alpha,aggregation='geom
 		for i in range(0,min(len(RetResultsSorted),numdocs)):
 			FeedbackDocsIDs.append(RetResultsSorted[i][0])
 
-
-
 		for documentID in FeedbackDocsIDs:
 			document = index.DocCollection[documentID]
 			for word in document:
 				docterms.add(word)
-
 
 		for documentID in FeedbackDocsIDs:
 			document = index.DocCollection[documentID]
@@ -270,19 +264,20 @@ def mean(PWD):
 	return product**(1/i)
 
 
-
-
 # Used only for indexing the dataset (run only once)
+if __name__ == "__main__":
+	print ("creating search engine")
+	index = Index(nltk.word_tokenize, PorterStemmer(), nltk.corpus.stopwords.words('english') + [',','.','!','``',"''",'?',"'s",';','$',':',"'",'_', '(',')'])
+	print ("adding files")
+	index.addfiles()
+	pickle.dump(index,open('index_title_abs','wb'))
 
-index = Index(nltk.word_tokenize, PorterStemmer(), nltk.corpus.stopwords.words('english')+[',','.','!','``',"''",'?',"'s",';','$',':',"'",'_', '(',')'])
-index.addfiles()
-pickle.dump(index,open('index_fw','wb'))
-
-'''
+''' example usage
 f = open('index','rb')
 index = pickle.load(f)
 f.close()
 
 query = 'support vector machines'
 print(Retrieve(query,index,1000,'nofeedback',0.1,10,50,0.9)[0:10]) # Retrieve will return a ranked list of tuples of the form (documentID, documentScore).
+
 '''

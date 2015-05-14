@@ -76,7 +76,7 @@ def chaufunc(x, mu, std, n):
     var = std**2
     return (1/math.sqrt(2*math.pi*var)*math.e**(-((x-mu)**2)/var))*n
 
-def main():
+def main(true_k, threshhold):
     print("Extracting features from the training dataset using a sparse vectorizer")
     #t0 = time()
 
@@ -115,15 +115,17 @@ def main():
         sys.exit(1)
     
     #get the title and future work sections and pass that as the data
-    dataFile = 'PickleCreation/AllDataPickle_e1.pk'
+    dataFile = 'PickleCreation/AllDataPickle_e1FWPR.pk'
     data = pickle.load(open(dataFile,'rb'))
     print ("size of data: " + str(len(data)) )
     myData = []
+    docNameKey = []
     for key in data:
         future_work_section = data[key][9]
         title_section = data[key][0]
         if not (future_work_section == ""):
             myData.append(title_section + " " + future_work_section)
+            docNameKey.append(key)
 
     numDocs = len(myData)
     print ("future-title docs = " + str(numDocs))    
@@ -170,7 +172,7 @@ def main():
     ###############################################################################
     # Do the actual clustering
     opts.minibatch = False
-    true_k = 6
+    
     if opts.minibatch:
         #km = MiniBatchKMeans(n_clusters=true_k, init='k-means++', n_init=1,
         #                     init_size=1000, batch_size=1000, verbose=opts.verbose)
@@ -204,15 +206,29 @@ def main():
         n = len(dist_list)
         for (doc_key,x) in norm_squared_dic[key]:
             chau_score = chaufunc(x, mu, std,n )
-            if ( chau_score < 0.5 ):
+            if ( chau_score < threshhold ):
                 outliers.append((doc_key, x))
         #print (key, min(dist_list), max(dist_list), np.mean(dist_list), np.var(dist_list))
         
     #print (outliers)
     outliers_sorted = sorted(outliers,key=lambda k_v: k_v[1],reverse=True)
     print (outliers_sorted) 
+    #outputFile = open("DocClus_BasicFW.out", "w")
+    outputDict = {}
+    outputPickle = open('output/DocClus_ExpandedFWK_'+str(true_k)+'T_'+ str(threshhold)+ '.pk', 'wb')
     for i, (key, score) in enumerate(outliers_sorted):
-        print (str(i) + ": " + myData[key])
+        #print (str(i) + ": " + myData[key] + docNameKey[key] )
+        print (str(i+1) + ": " + docNameKey[key] + ": " + str(score) )
+        outputDict[docNameKey[key]] = [i+1, score]
+    print (len(outputDict))
+    pickle.dump(outputDict, outputPickle)
+        #outputFile.write(str(i+1) + ": " + docNameKey[key] + ": " + str(score) + "\n")
+    outputPickle.close()
+    
+
         
 if __name__ == "__main__":
-    main()
+    chauThresh = [0.2,0.3,0.4,0.5]
+    for i in range(2,22):
+        for thresh in chauThresh:
+            main(i, thresh)

@@ -71,6 +71,11 @@ import math
 import numpy as np
 import pickle
 
+def chaufunc(x, mu, std, n):
+    #z = n*(x - mu)/std
+    var = std**2
+    return (1/math.sqrt(2*math.pi*var)*math.e**(-((x-mu)**2)/var))*n
+
 def main():
     print("Extracting features from the training dataset using a sparse vectorizer")
     #t0 = time()
@@ -115,7 +120,7 @@ def main():
     print ("size of data: " + str(len(data)) )
     myData = []
     for key in data:
-        future_work_section = data[key][-1]
+        future_work_section = data[key][9]
         title_section = data[key][0]
         if not (future_work_section == ""):
             myData.append(title_section + " " + future_work_section)

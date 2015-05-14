@@ -210,7 +210,9 @@ def main():
         
     #print (outliers)
     outliers_sorted = sorted(outliers,key=lambda k_v: k_v[1],reverse=True)
-    print (outliers_sorted)   
+    print (outliers_sorted) 
+    for i, (key, score) in enumerate(outliers_sorted):
+        print (str(i) + ": " + myData[key])
         
 if __name__ == "__main__":
     main()

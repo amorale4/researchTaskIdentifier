@@ -14,10 +14,14 @@ stemmer = PorterStemmer()
 
 FW_ABS_Index = {}
 def main():
-    #output_pickle = 'FutureWorkAndAbstractPickle_short.pk'
-    output_pickle = 'temp'
-    #input_directory = "../cleanXMLdataV2/*.out"
-    input_directory = "../cleanXMLdataV2/P11-2088.out"
+    #basic
+    #indicators = ['futur', 'plan']
+    #expanded
+    indicators = ['futur', 'work', 'plan', 'improv', 'explor', 'approach', 'perform', 'research', 'evalu', 'extend', 'would']
+    output_pickle = 'FutureWorkAndAbstractPickle_expanded.pk'
+    #output_pickle = 'temp'
+    input_directory = "../cleanXMLdataV2/*.out"
+    #input_directory = "../cleanXMLdataV2/P11-2088.out"
     #read_files = glob.glob("/Users/aditi_khullar/Documents/Dropbox/cleanXMLdataV2/*.out")
     read_files = glob.glob(input_directory)
     for xmlFile in read_files:
@@ -85,12 +89,13 @@ def main():
         #for item in bodiesCON:
         #    bodyConText += item.get_text()
 
-        print bodyConText
-        print "-----------------"
-        futureWorkText = get_futureWork_extended(bodyConText)
+        #print bodyConText
+        #print "-----------------"
+        
+        futureWorkText = get_futureWork_extended(bodyConText,indicators)
         FW_ABS_Index[paperId][1] = futureWorkText
         
-        print futureWorkText
+        #print futureWorkText
         
     #bodiesCON =  header.find_next('bodyText').find_next('bodyText')
     # print len(FW_ABS_Index)
@@ -143,10 +148,10 @@ def get_futureWork_plus(all_text):
             
     return ret
 
-def get_futureWork_extended(all_text):
+def get_futureWork_extended(all_text, indicators):
     ret = ""
     #indicators = ['futur', 'work', 'use', 'plan', 'model', 'improv', 'system', 'research', 'method', 'featur', 'includ', 'investig', 'explor', 'direct', 'languag', 'would', 'data', 'evalu', 'approach', 'perform']
-    indicators = ['futur', 'work', 'plan', 'improv', 'explor', 'approach', 'perform', 'research']
+    #indicators = ['futur', 'work', 'plan', 'improv', 'explor', 'approach', 'perform', 'research', 'evalu', 'extend', 'would']
     for sent in sent_detector.tokenize(all_text.strip()):
         clean_sent = sent.lower().replace('\n', ' ').strip()
         clean_sent = clean_sent.replace("- ", "")
@@ -158,7 +163,7 @@ def get_futureWork_extended(all_text):
                 token = stemmer.stem(token)
             
             if token in indicators:
-                ret = ret + clean_sent
+                ret = ret + "\n" + clean_sent
                 break
             
     return ret
@@ -188,7 +193,7 @@ def get_bodyText(starterPointer):
 
             currentPoint = currentPoint.find_next()
             
-    print saveText
+    #print saveText
     return saveText
 
 def prev_bodyText(starterPointer):
